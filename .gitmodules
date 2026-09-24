@@ -1,0 +1,3 @@
+[submodule "source/riemann-conjecture"]
+	path = source/riemann-conjecture
+	url = https://github.com/PerceivingAI/riemann-conjecture
