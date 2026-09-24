@@ -2,9 +2,10 @@
 
 A public, independent, and evidentiary audit of the mathematical, methodological, and priority claims originating from [`https://github.com/PerceivingAI/riemann-conjecture`](https://github.com/PerceivingAI/riemann-conjecture).
 > **Audit Metadata**  
-> * **Audit Status**: Initialized (`PHASE_0_COMPLETE`)  
+> * **Audit Status**: Completed (`AUDIT_COMPLETE`)  
 > * **Audit Initialized**: `2026-09-24T00:00:00Z`  
-> * **Last Updated**: `2026-09-24T00:00:00Z`  
+> * **Audit Concluded**: `2026-09-24T00:00:00Z`  
+> * **Final Comprehensive Report**: [`reports/FINAL_AUDIT.md`](reports/FINAL_AUDIT.md)  
 > * **Target Pinned Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`
 
 
