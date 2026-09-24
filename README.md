@@ -23,6 +23,7 @@ The audit evaluates candidate hypotheses against established mathematical litera
 ```text
 riemann-conjecture-audit/
 ├── README.md                  # Public overview, scope, and governance
+├── AUDIT_PLAN.md              # Master phased execution strategy, tiering, and gates
 ├── AUDIT_PROTOCOL.md          # Methodological rules, taxonomy, and standards
 ├── SOURCE.md                  # Source repo provenance, commit pinning, commit map
 ├── CLAIMS_TO_AUDIT.md         # Queue of candidate hypotheses under audit
