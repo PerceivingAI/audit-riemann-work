@@ -29,7 +29,7 @@
   * `CLM-METH-002` (Legendre harmonic coercivity $J(P_n)=H_n\|P_n\|_2^2$): **`NOVELTY SUPPORTED`**.
   * `CLM-LAGU-005` (Exact pole-annihilating shift filter $T=(E-1)(E-q)$): **`NOVELTY SUPPORTED`**.
   * `CLM-GRAM-002` (Schoenberg CND characterization on $\mathbb{Z}$): **`NOVELTY SUPPORTED`**.
-  * `CLM-OBST-011` (Rank-one Hessian barrier $\operatorname{Hess}\Phi_n = \Phi_n'' \mathbf{1}\mathbf{1}^T$): **`NOVELTY SUPPORTED`**.
+  * `CLM-OBST-011` (Rank-one Hessian barrier $\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$): **`NOVELTY SUPPORTED`**.
 * **Phase 2 Quality Sign-Off**: **PASSED & COMPLETE**.
 
 ---

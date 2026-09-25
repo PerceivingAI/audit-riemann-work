@@ -54,9 +54,9 @@ The audit was conducted strictly against the frozen repository state at commit `
 * **Standard Ingredients vs. Novelty**:
   * The link between the classical Li test polynomial and generalized Laguerre polynomials $P_n(x) = L_{n-1}^{(1)}(-x)$ was confirmed as standard prior art (Lagarias 2007, `CLM-LAGU-001` $\to$ `PRIOR ART FOUND`).
 * **Original Contributions**:
-  * Exact discrete shift filter $T = (E-1)(E-q)$ ($q = -s_0/(s_0-1)$) annihilating the deterministic zeta-pole exponential mode from the prime-side sequence while preserving an RH-equivalent root growth criterion ($\limsup |S_n|^{1/n} \le 1$).
+  * Exact discrete shift filter $T = (E-1)(E-q)$ (with $q = -s_0/(s_0-1)$) annihilating the deterministic zeta-pole exponential mode from the prime-side sequence while preserving an RH-equivalent root growth criterion ($\limsup_{n \to \infty} |S_n|^{1/n} \le 1$).
   * Formulation of Li coefficients as a conditionally negative definite function on $\mathbb{Z}$ ($\psi(n) = \lambda_{|n|}$), proving equivalence to the Schoenberg convolution semigroup $e^{-t\lambda_{|n|}}$ on the circle $\mathbb{T}$.
-  * Structural no-go theorem proving that finite multiplicative convolutions of the Laguerre chirp possess a rank-one Hessian $\operatorname{Hess} \Phi_n = \Phi_n'' \mathbf{1}\mathbf{1}^T$, demonstrating why generic Vaughan/Heath-Brown bilinear phase cancellations fail.
+  * Structural no-go theorem proving that finite multiplicative convolutions of the Laguerre chirp possess a rank-one Hessian $\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$, demonstrating why generic Vaughan/Heath-Brown bilinear phase cancellations fail.
 * **Verdict**: **`NOVELTY SUPPORTED`**.
 
 ---

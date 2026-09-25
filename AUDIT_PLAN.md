@@ -48,7 +48,7 @@ The 50 candidate propositions in [`CLAIMS_TO_AUDIT.md`](CLAIMS_TO_AUDIT.md) are 
   * Focus: Zero-floating-point Rust replay verifier (`rh_cert`), exact rational interval certificates, multi-implementation admission guards, Lean soundness proof integration.
 * **Tier D (Obstructions & Negative Results)**:
   * Claims: `CLM-OBST-001` through `CLM-OBST-015`, `CLM-OPER-001`, `CLM-OPER-002`, `CLM-GRAM-003`, `CLM-PRIO-010`, `CLM-PRIO-012`.
-  * Focus: Rank-one Hessian $\operatorname{Hess}\Phi_n = \Phi_n'' \mathbf{1}\mathbf{1}^T$ in multiplicative convolutions, PNT pointwise exponent barriers, Montgomery-Vaughan length obstructions, compressed shift norm $\|S_{T,a}\|=2\cos\frac{\pi}{L+1}$.
+  * Focus: Rank-one Hessian $\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ in multiplicative convolutions, PNT pointwise exponent barriers, Montgomery-Vaughan length obstructions, compressed shift norm $\|S_{T,a}\|=2\cos\frac{\pi}{L+1}$.
 
 ---
 

@@ -110,7 +110,7 @@
 
 | Claim ID | Source Ref | Proposition Summary | Source Anchor Commit | Status / Verdict | Dossier Path |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `CLM-OBST-011` | C-0031 | Rank-one Hessian $\operatorname{Hess}\Phi_n = \Phi_n'' \mathbf{1}\mathbf{1}^T$ in multiplicative convolutions. | `1752f19d...` (2026-08-21) | `NOVELTY SUPPORTED` | `claims/mathematical/CLM-OBST-011.md` |
+| `CLM-OBST-011` | C-0031 | Rank-one Hessian $\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ in multiplicative convolutions. | `1752f19d...` (2026-08-21) | `NOVELTY SUPPORTED` | `claims/mathematical/CLM-OBST-011.md` |
 | `CLM-OBST-012` | C-0032 | Standard dyadic Type-II chirp boxes are asymptotically separable (phase defect $O(1/n)$). | `1752f19d...` (2026-08-21) | `NOVELTY SUPPORTED` | `reports/interim/PHASE_2_INTERIM_REPORT.md` |
 | `CLM-OBST-013` | C-0033 | Nonseparability threshold begins only at logarithmic widths of order $\sqrt{n}$. | `1752f19d...` (2026-08-21) | `NOVELTY SUPPORTED` | `reports/interim/PHASE_2_INTERIM_REPORT.md` |
 | `CLM-OBST-014` | Sec. 36 | Exponent bookkeeping: Direct fixed-interior prime estimates require $\delta \ge 1/2$ square-root saving. | `1752f19d...` (2026-08-21) | `NOVELTY SUPPORTED` | `reports/interim/PHASE_2_INTERIM_REPORT.md` |
