@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "command": [
+    "python",
+    "-B",
+    "scripts/pass4_validate.py"
+  ],
+  "working_directory": "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work",
+  "audit_head": "8e0e349a9ffbf14a13c3e3f028d1d0624c7782e6",
+  "source_before": {
+    "commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+    "tree": "8a1dd144a90a4121601ea839d048860bd724b413",
+    "status_porcelain": ""
+  },
+  "host": {
+    "os": "Windows-11-10.0.26200-SP0",
+    "architecture": "AMD64"
+  },
+  "tools": {
+    "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\carlo\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+    "git": "git version 2.45.2.windows.1"
+  },
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "GIT_OPTIONAL_LOCKS": "0"
+  },
+  "start_time": "2026-09-25T05:04:46.426814+00:00",
+  "audit_tool_hashes": {
+    "scripts/pass4_chuk.py": {
+      "raw_file_sha256": "067d37882a010e4b21ab0ae1f66af6166137428423220a091cb70202ff8b3928",
+      "normalized_sha256": "067d37882a010e4b21ab0ae1f66af6166137428423220a091cb70202ff8b3928"
+    },
+    "scripts/pass4_kuber.py": {
+      "raw_file_sha256": "7999d54e56fdbe5e40d25ed9eb708d53e3cc978f95cb7ade8e7a5d48ea46848e",
+      "normalized_sha256": "7999d54e56fdbe5e40d25ed9eb708d53e3cc978f95cb7ade8e7a5d48ea46848e"
+    },
+    "scripts/pass4_preserve.py": {
+      "raw_file_sha256": "c171c473396feabfba140f2ee97a255a6134d272b83c944b7ba0e10b45ddebfd",
+      "normalized_sha256": "c171c473396feabfba140f2ee97a255a6134d272b83c944b7ba0e10b45ddebfd"
+    },
+    "scripts/pass4_run.py": {
+      "raw_file_sha256": "dd190073a23ba205bd17c45c3a73050870de9377bdbcf435cd8dd17a2d1cd5da",
+      "normalized_sha256": "dd190073a23ba205bd17c45c3a73050870de9377bdbcf435cd8dd17a2d1cd5da"
+    },
+    "scripts/pass4_search.py": {
+      "raw_file_sha256": "5578edf8617258d6c44c40f38d36bd2ae71162eb6febcb5f6a3c52c1c8deb57b",
+      "normalized_sha256": "5578edf8617258d6c44c40f38d36bd2ae71162eb6febcb5f6a3c52c1c8deb57b"
+    },
+    "scripts/pass4_validate.py": {
+      "raw_file_sha256": "230d5cc2ebd824843c4fd88044d470e87d78d51441ae13405f4859b81238eb09",
+      "normalized_sha256": "230d5cc2ebd824843c4fd88044d470e87d78d51441ae13405f4859b81238eb09"
+    }
+  },
+  "audit_input_hashes": {
+    "evidence/phase0/CANDIDATE_MAP.json": {
+      "raw_file_sha256": "dae9c3e19ad602019dd3c19ac8d02508aaf42467980d7f3aff049b2262cad3dd",
+      "normalized_sha256": "9403021cb0b95cce01987b7b7ebadc1f19cb54f8c29c274736de871acd4ab0ce"
+    },
+    "evidence/phase0/HISTORICAL_CHANGE_EVENTS.json": {
+      "raw_file_sha256": "8e4a623e2497da18363b18e60b5d1552088cbb086139ef9a5844155b434a5bd0",
+      "normalized_sha256": "8e4a623e2497da18363b18e60b5d1552088cbb086139ef9a5844155b434a5bd0"
+    },
+    "evidence/phase0/PASS3_HASH_DOMAINS.json": {
+      "raw_file_sha256": "5864fd59dab69d0fecaa1b49b58120c4690967d1d1b1e13e6d542e1bf923c839",
+      "normalized_sha256": "5864fd59dab69d0fecaa1b49b58120c4690967d1d1b1e13e6d542e1bf923c839"
+    },
+    "evidence/phase0/PRESERVATION_MANIFEST.json": {
+      "raw_file_sha256": "ae95a921f5332559a7940ec32f707a0078a391f6ff16908a4e2cea18664532d5",
+      "normalized_sha256": "ae95a921f5332559a7940ec32f707a0078a391f6ff16908a4e2cea18664532d5"
+    },
+    "evidence/phase0/SOURCE_BEFORE.json": {
+      "raw_file_sha256": "c8858c21b0d52598e7445e7cbfb5ae0d6071ff7bd6f205b354def82bdf287fcf",
+      "normalized_sha256": "c8858c21b0d52598e7445e7cbfb5ae0d6071ff7bd6f205b354def82bdf287fcf"
+    }
+  },
+  "end_time": "2026-09-25T05:05:06.689171+00:00",
+  "exit_code": 1,
+  "source_after": {
+    "commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+    "tree": "8a1dd144a90a4121601ea839d048860bd724b413",
+    "status_porcelain": ""
+  },
+  "hash_domain": "exact raw file bytes",
+  "line_ending_normalization": "normalized_sha256 replaces CRLF bytes with LF only",
+  "streams": {
+    "stdout": {
+      "path": "evidence/computation-logs/PASS4-PHASE2-PUBLICATION.stdout.log",
+      "raw_file_sha256": "e63933fc30e85a44e222c392f932382346e5070adc604d253ac58a12e91c2896",
+      "normalized_sha256": "0f2a87aa1e8436fde1c2a1e8fd70e31d0484d53887cbc12fa8e1f5bf7db751f0"
+    },
+    "stderr": {
+      "path": "evidence/computation-logs/PASS4-PHASE2-PUBLICATION.stderr.log",
+      "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "normalized_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}

@@ -49,3 +49,128 @@
   - Finite-dimensional positive definiteness verified in Arb on explicit subspaces.
   - Infinite-dimensional full-space theorems left uncertified.
   - Distinct mathematical mechanism (Fourier-sine series vs. Legendre harmonic coercivity).
+
+---
+
+## Candidate Claim Search Adjudications
+
+## CLM-PRIO-001
+
+- Subject ID: `CLM-PRIO-001`
+- Proposition SHA-256: `3c961b28f35d6b0e2fdca8a4365593d0aa639799ab276efd710f01165f2c09c6`
+- Canonical Proposition: Fully public open-science research record since creation date `2026-08-20T20:39:42Z`.
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+
+## CLM-PRIO-002
+
+- Subject ID: `CLM-PRIO-002`
+- Proposition SHA-256: `4c28ec7ab48bdd17d135ea8d7d4b31a1600a0eee6745e89939b04ea851a71075`
+- Canonical Proposition: Public negative-result and obstruction trail preserved alongside theorems.
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+
+## CLM-PRIO-003
+
+- Subject ID: `CLM-PRIO-003`
+- Proposition SHA-256: `80804734741b5f4e14b9a7c1a0391eeadd8c630502beca29a6e5abcc9f069191`
+- Canonical Proposition: Public scientific correction trail without history rewriting.
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+
+## CLM-PRIO-004
+
+- Subject ID: `CLM-PRIO-004`
+- Proposition SHA-256: `9294d15f4abc48badd689947227947872e2adafbce4da5d1afe38bda28d53d49`
+- Canonical Proposition: Earliest public exact-prime Legendre-Schur proof of strict localized Weil positivity.
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+
+## CLM-PRIO-005
+
+- Subject ID: `CLM-PRIO-005`
+- Proposition SHA-256: `1c30b6c0322afa3b95cbd8834df5ed1d8eb6e6b7e185db787bc07b4b97d09a00`
+- Canonical Proposition: Earliest public finite-support Weil positivity theorem at $T=7/20$ (C-0050).
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+
+## CLM-PRIO-006
+
+- Subject ID: `CLM-PRIO-006`
+- Proposition SHA-256: `90fc2c0efb1b4c03f7c9dfd6d8d71636725514c46392596d73d354db438ed2ad`
+- Canonical Proposition: Earliest public sequence of certified localized Weil positivity extending through $T=27/50$.
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+
+## CLM-PRIO-007
+
+- Subject ID: `CLM-PRIO-007`
+- Proposition SHA-256: `94db2b0856fba212034601e2d27f289dc0c51308270edf3dd6a0ddf86d3b12da`
+- Canonical Proposition: First exact pole-annihilating shift filter for generalized prime-Laguerre Li sequences.
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+
+## CLM-PRIO-008
+
+- Subject ID: `CLM-PRIO-008`
+- Proposition SHA-256: `975e5091a22da34f7bc4957a0f8680c137bf616a0266039bb9720b6791658406`
+- Canonical Proposition: First prime-Laguerre RH root criterion after exact zeta-pole subtraction.
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+
+## CLM-PRIO-009
+
+- Subject ID: `CLM-PRIO-009`
+- Proposition SHA-256: `1b3a448ae6cb059f531a1c69c211a289d065d45f4b573fb6a8712aaf1b411afc`
+- Canonical Proposition: First interpretation of generalized Li prime kernel as critical-half-weight nonlinear Mellin chirp.
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+
+## CLM-PRIO-010
+
+- Subject ID: `CLM-PRIO-010`
+- Proposition SHA-256: `2c6f83111a86deaeaac3ea7ea461ef7822ff2b2d65c42c426a0d001ae5045668`
+- Canonical Proposition: First rank-one Hessian / separability obstruction for Vaughan/Heath-Brown decompositions of the chirp.
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+
+## CLM-PRIO-011
+
+- Subject ID: `CLM-PRIO-011`
+- Proposition SHA-256: `1083220b92dde1d885304f263392051c0f2d50eb134387c127928f39fc21d744`
+- Canonical Proposition: First conditional-negative-definite / Schoenberg characterization of RH directly from Li coefficients.
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+
+## CLM-PRIO-012
+
+- Subject ID: `CLM-PRIO-012`
+- Proposition SHA-256: `610cb62f3e7ea0d641b62cf2bb1a328956900963ea30c10a86422ba15d20d2d4`
+- Canonical Proposition: First compressed-translation operator treatment making Weil prime-entry thresholds and shift norm explicit.
+- Database Search Status: `SEARCHED (Multi-Family)`
+- Evaluated Sources: Crossref, GitHub, arXiv, Web Search, Primary Literature Dossiers.
+- Search Evaluation: Inspected against external comparators and primary literature baseline.
+- Item Disposition: `NOVEL SYNTHESIS SUPPORTED` (Method) / see claim summary.
+

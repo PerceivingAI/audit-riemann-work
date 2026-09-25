@@ -44,7 +44,7 @@
         "note": "The rationale addresses the correct support and theorem, but inherited COMPLETE coexists with an unverified public push. Phase 0 preserves those hypotheses without approving completeness."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-math-001",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-math-001",
+      "search_record": "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md#clm-math-001",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-MATH-001.md",
         "exists": true,
@@ -52,7 +52,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
-        "claims/mathematical/CLM-MATH-001.md"
+        "claims/mathematical/CLM-MATH-001.md",
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -139,7 +140,7 @@
         "note": "The inherited rationale addresses the subject of CLM-MATH-002. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-math-002",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-math-002",
+      "search_record": "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md#clm-math-002",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-MATH-001.md",
         "exists": true,
@@ -147,7 +148,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
-        "claims/mathematical/CLM-MATH-001.md"
+        "claims/mathematical/CLM-MATH-001.md",
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -234,7 +236,7 @@
         "note": "The inherited rationale addresses the subject of CLM-MATH-003. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-math-003",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-math-003",
+      "search_record": "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md#clm-math-003",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-MATH-001.md",
         "exists": true,
@@ -242,7 +244,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
-        "claims/mathematical/CLM-MATH-001.md"
+        "claims/mathematical/CLM-MATH-001.md",
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -329,7 +332,7 @@
         "note": "The inherited rationale addresses the subject of CLM-MATH-004. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-math-004",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-math-004",
+      "search_record": "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md#clm-math-004",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-MATH-001.md",
         "exists": true,
@@ -337,7 +340,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
-        "claims/mathematical/CLM-MATH-001.md"
+        "claims/mathematical/CLM-MATH-001.md",
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -424,7 +428,7 @@
         "note": "The inherited rationale addresses the subject of CLM-MATH-005. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-math-005",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-math-005",
+      "search_record": "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md#clm-math-005",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-MATH-001.md",
         "exists": true,
@@ -432,7 +436,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
-        "claims/mathematical/CLM-MATH-001.md"
+        "claims/mathematical/CLM-MATH-001.md",
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -519,7 +524,7 @@
         "note": "The inherited rationale addresses the subject of CLM-MATH-006. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-math-006",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-math-006",
+      "search_record": "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md#clm-math-006",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-MATH-001.md",
         "exists": true,
@@ -527,7 +532,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
-        "claims/mathematical/CLM-MATH-001.md"
+        "claims/mathematical/CLM-MATH-001.md",
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -614,7 +620,7 @@
         "note": "The inherited rationale addresses the subject of CLM-MATH-007. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-math-007",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-math-007",
+      "search_record": "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md#clm-math-007",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-MATH-001.md",
         "exists": true,
@@ -622,7 +628,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
-        "claims/mathematical/CLM-MATH-001.md"
+        "claims/mathematical/CLM-MATH-001.md",
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -709,7 +716,7 @@
         "note": "The inherited rationale addresses the subject of CLM-MATH-008. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-math-008",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-math-008",
+      "search_record": "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md#clm-math-008",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-MATH-008.md",
         "exists": true,
@@ -717,7 +724,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
-        "claims/mathematical/CLM-MATH-008.md"
+        "claims/mathematical/CLM-MATH-008.md",
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -820,7 +828,7 @@
         "note": "The inherited rationale addresses the subject of CLM-METH-001. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-meth-001",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-meth-001",
+      "search_record": "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md#clm-meth-001",
       "historical_inventory_dossier": {
         "path": "claims/methodology/CLM-METH-002.md",
         "exists": true,
@@ -828,7 +836,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
-        "claims/methodology/CLM-METH-002.md"
+        "claims/methodology/CLM-METH-002.md",
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -917,7 +926,7 @@
         "note": "The inherited rationale addresses the subject of CLM-METH-002. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-meth-002",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-meth-002",
+      "search_record": "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md#clm-meth-002",
       "historical_inventory_dossier": {
         "path": "claims/methodology/CLM-METH-002.md",
         "exists": true,
@@ -925,7 +934,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
-        "claims/methodology/CLM-METH-002.md"
+        "claims/methodology/CLM-METH-002.md",
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1014,7 +1024,7 @@
         "note": "The inherited rationale addresses the subject of CLM-METH-003. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-meth-003",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-meth-003",
+      "search_record": "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md#clm-meth-003",
       "historical_inventory_dossier": {
         "path": "claims/methodology/CLM-METH-002.md",
         "exists": true,
@@ -1022,7 +1032,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
-        "claims/methodology/CLM-METH-002.md"
+        "claims/methodology/CLM-METH-002.md",
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1111,7 +1122,7 @@
         "note": "The inherited rationale addresses the subject of CLM-METH-004. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-meth-004",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-meth-004",
+      "search_record": "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md#clm-meth-004",
       "historical_inventory_dossier": {
         "path": "claims/methodology/CLM-METH-002.md",
         "exists": true,
@@ -1119,7 +1130,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
-        "claims/methodology/CLM-METH-002.md"
+        "claims/methodology/CLM-METH-002.md",
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1208,7 +1220,7 @@
         "note": "The inherited rationale addresses the subject of CLM-METH-005. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-meth-005",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-meth-005",
+      "search_record": "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md#clm-meth-005",
       "historical_inventory_dossier": {
         "path": "claims/verification/CLM-VERF-001.md",
         "exists": true,
@@ -1216,7 +1228,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
-        "claims/verification/CLM-VERF-001.md"
+        "claims/verification/CLM-VERF-001.md",
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1305,7 +1318,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OPER-001. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-oper-001",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-oper-001",
+      "search_record": "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md#clm-oper-001",
       "historical_inventory_dossier": {
         "path": "claims/methodology/CLM-METH-002.md",
         "exists": true,
@@ -1313,7 +1326,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
-        "claims/methodology/CLM-METH-002.md"
+        "claims/methodology/CLM-METH-002.md",
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1399,7 +1413,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OPER-002. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-oper-002",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-oper-002",
+      "search_record": "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md#clm-oper-002",
       "historical_inventory_dossier": {
         "path": "evidence/literature/LITERATURE_BASELINE.md",
         "exists": true,
@@ -1407,7 +1421,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
-        "evidence/literature/LITERATURE_BASELINE.md"
+        "evidence/literature/LITERATURE_BASELINE.md",
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1493,7 +1508,7 @@
         "note": "The wording can suggest a general guarantee as T grows. The located finding records specific successful dimension changes and explicit provisional boundaries; no arbitrary-support guarantee follows from locating it."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-cont-001",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-cont-001",
+      "search_record": "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md#clm-cont-001",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-MATH-008.md",
         "exists": true,
@@ -1501,7 +1516,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
-        "claims/mathematical/CLM-MATH-008.md"
+        "claims/mathematical/CLM-MATH-008.md",
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1585,7 +1601,7 @@
         "note": "The inherited rationale addresses the subject of CLM-CONT-002. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-cont-002",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-cont-002",
+      "search_record": "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md#clm-cont-002",
       "historical_inventory_dossier": {
         "path": "claims/verification/CLM-VERF-005.md",
         "exists": true,
@@ -1593,7 +1609,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
-        "claims/verification/CLM-VERF-005.md"
+        "claims/verification/CLM-VERF-005.md",
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1685,7 +1702,7 @@
         "note": "The inherited rationale describes failure to extend to larger T. Source C-0046 instead gives a nonpositive absorbed lower bound already at T=7/20. Keep the canonical proposition but investigate the local/global interpretation; no proof is adjudicated here."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-001",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-001",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-001",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -1693,7 +1710,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1777,7 +1795,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-002. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-002",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-002",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-002",
       "historical_inventory_dossier": {
         "path": "evidence/literature/LITERATURE_BASELINE.md",
         "exists": true,
@@ -1785,7 +1803,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "evidence/literature/LITERATURE_BASELINE.md"
+        "evidence/literature/LITERATURE_BASELINE.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1869,7 +1888,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-003. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-003",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-003",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-003",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -1877,7 +1896,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1961,7 +1981,7 @@
         "note": "The inherited rationale addresses the subject of CLM-LAGU-001. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-lagu-001",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-lagu-001",
+      "search_record": "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md#clm-lagu-001",
       "historical_inventory_dossier": {
         "path": "evidence/literature/LIT-2007-LAGARIAS-LICAE.md",
         "exists": true,
@@ -1969,7 +1989,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "evidence/literature/LIT-2007-LAGARIAS-LICAE.md"
+        "evidence/literature/LIT-2007-LAGARIAS-LICAE.md",
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -1980,7 +2001,7 @@
         "strength": {
           "validity": "E1",
           "result": "E3",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -2053,7 +2074,7 @@
         "note": "The inherited rationale addresses the subject of CLM-LAGU-002. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-lagu-002",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-lagu-002",
+      "search_record": "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md#clm-lagu-002",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-LAGU-005.md",
         "exists": true,
@@ -2061,7 +2082,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "claims/mathematical/CLM-LAGU-005.md"
+        "claims/mathematical/CLM-LAGU-005.md",
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -2072,7 +2094,7 @@
         "strength": {
           "validity": "E1",
           "result": "E3",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -2145,7 +2167,7 @@
         "note": "The inherited rationale addresses the subject of CLM-LAGU-003. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-lagu-003",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-lagu-003",
+      "search_record": "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md#clm-lagu-003",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-LAGU-005.md",
         "exists": true,
@@ -2153,7 +2175,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "claims/mathematical/CLM-LAGU-005.md"
+        "claims/mathematical/CLM-LAGU-005.md",
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -2164,7 +2187,7 @@
         "strength": {
           "validity": "E1",
           "result": "E3",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -2237,7 +2260,7 @@
         "note": "The inherited rationale addresses the subject of CLM-LAGU-004. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-lagu-004",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-lagu-004",
+      "search_record": "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md#clm-lagu-004",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-LAGU-005.md",
         "exists": true,
@@ -2245,7 +2268,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "claims/mathematical/CLM-LAGU-005.md"
+        "claims/mathematical/CLM-LAGU-005.md",
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -2256,7 +2280,7 @@
         "strength": {
           "validity": "E1",
           "result": "E3",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -2329,7 +2353,7 @@
         "note": "The inherited rationale addresses the subject of CLM-LAGU-005. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-lagu-005",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-lagu-005",
+      "search_record": "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md#clm-lagu-005",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-LAGU-005.md",
         "exists": true,
@@ -2337,7 +2361,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "claims/mathematical/CLM-LAGU-005.md"
+        "claims/mathematical/CLM-LAGU-005.md",
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -2348,7 +2373,7 @@
         "strength": {
           "validity": "E1",
           "result": "E3",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -2421,7 +2446,7 @@
         "note": "The inherited rationale addresses the subject of CLM-AIRY-001. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-airy-001",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-airy-001",
+      "search_record": "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md#clm-airy-001",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -2429,7 +2454,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -2440,7 +2466,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -2513,7 +2539,7 @@
         "note": "The inherited rationale addresses the subject of CLM-AIRY-002. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-airy-002",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-airy-002",
+      "search_record": "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md#clm-airy-002",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -2521,7 +2547,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -2532,7 +2559,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -2605,7 +2632,7 @@
         "note": "The inherited rationale addresses the subject of CLM-AIRY-003. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-airy-003",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-airy-003",
+      "search_record": "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md#clm-airy-003",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -2613,7 +2640,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -2624,7 +2652,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -2697,7 +2725,7 @@
         "note": "The inherited rationale addresses the subject of CLM-AIRY-004. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-airy-004",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-airy-004",
+      "search_record": "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md#clm-airy-004",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -2705,7 +2733,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -2716,7 +2745,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -2789,7 +2818,7 @@
         "note": "The inherited rationale addresses the subject of CLM-AIRY-005. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-airy-005",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-airy-005",
+      "search_record": "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md#clm-airy-005",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -2797,7 +2826,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -2808,7 +2838,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -2881,7 +2911,7 @@
         "note": "The inherited rationale addresses the subject of CLM-AIRY-006. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-airy-006",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-airy-006",
+      "search_record": "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md#clm-airy-006",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -2889,7 +2919,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -2900,7 +2931,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -2973,7 +3004,7 @@
         "note": "The inherited rationale addresses the subject of CLM-AIRY-007. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-airy-007",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-airy-007",
+      "search_record": "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md#clm-airy-007",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -2981,7 +3012,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -2992,7 +3024,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -3065,7 +3097,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-004. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-004",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-004",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-004",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -3073,7 +3105,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -3157,7 +3190,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-005. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-005",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-005",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-005",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -3165,7 +3198,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -3249,7 +3283,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-006. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-006",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-006",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-006",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -3257,7 +3291,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -3341,7 +3376,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-007. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-007",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-007",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-007",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -3349,7 +3384,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -3433,7 +3469,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-008. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-008",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-008",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-008",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -3441,7 +3477,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -3525,7 +3562,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-009. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-009",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-009",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-009",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -3533,7 +3570,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -3617,7 +3655,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-010. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-010",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-010",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-010",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -3625,7 +3663,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -3709,7 +3748,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-011. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-011",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-011",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-011",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-OBST-011.md",
         "exists": true,
@@ -3717,7 +3756,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "claims/mathematical/CLM-OBST-011.md"
+        "claims/mathematical/CLM-OBST-011.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -3801,7 +3841,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-012. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-012",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-012",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-012",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -3809,7 +3849,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -3893,7 +3934,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-013. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-013",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-013",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-013",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -3901,7 +3942,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -3985,7 +4027,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-014. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-014",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-014",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-014",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -3993,7 +4035,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -4077,7 +4120,7 @@
         "note": "The inherited rationale addresses the subject of CLM-OBST-015. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-obst-015",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-obst-015",
+      "search_record": "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md#clm-obst-015",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -4085,7 +4128,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -4169,7 +4213,7 @@
         "note": "The inherited rationale addresses the subject of CLM-GRAM-001. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-gram-001",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-gram-001",
+      "search_record": "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md#clm-gram-001",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-GRAM-002.md",
         "exists": true,
@@ -4177,7 +4221,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "claims/mathematical/CLM-GRAM-002.md"
+        "claims/mathematical/CLM-GRAM-002.md",
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -4188,7 +4233,7 @@
         "strength": {
           "validity": "E1",
           "result": "E3",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -4261,7 +4306,7 @@
         "note": "The inherited rationale addresses the subject of CLM-GRAM-002. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-gram-002",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-gram-002",
+      "search_record": "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md#clm-gram-002",
       "historical_inventory_dossier": {
         "path": "claims/mathematical/CLM-GRAM-002.md",
         "exists": true,
@@ -4269,7 +4314,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "claims/mathematical/CLM-GRAM-002.md"
+        "claims/mathematical/CLM-GRAM-002.md",
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -4280,7 +4326,7 @@
         "strength": {
           "validity": "E1",
           "result": "E3",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -4353,7 +4399,7 @@
         "note": "The inherited rationale addresses the subject of CLM-GRAM-003. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-gram-003",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-gram-003",
+      "search_record": "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md#clm-gram-003",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_2_INTERIM_REPORT.md",
         "exists": true,
@@ -4361,7 +4407,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
-        "reports/interim/PHASE_2_INTERIM_REPORT.md"
+        "reports/interim/PHASE_2_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -4372,7 +4419,7 @@
         "strength": {
           "validity": "E1",
           "result": "E3",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -4445,7 +4492,7 @@
         "note": "The inherited rationale addresses the subject of CLM-VERF-001. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-verf-001",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-verf-001",
+      "search_record": "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md#clm-verf-001",
       "historical_inventory_dossier": {
         "path": "claims/verification/CLM-VERF-001.md",
         "exists": true,
@@ -4453,7 +4500,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "claims/verification/CLM-VERF-001.md"
+        "claims/verification/CLM-VERF-001.md",
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -4539,7 +4587,7 @@
         "note": "A token-count/BigRational rationale does not establish the advertised checking of all theorem steps. The precise acceptance and upstream analytical trust boundary must be audited."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-verf-002",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-verf-002",
+      "search_record": "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md#clm-verf-002",
       "historical_inventory_dossier": {
         "path": "claims/verification/CLM-VERF-001.md",
         "exists": true,
@@ -4547,7 +4595,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "claims/verification/CLM-VERF-001.md"
+        "claims/verification/CLM-VERF-001.md",
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -4633,7 +4682,7 @@
         "note": "The inherited rationale addresses the subject of CLM-VERF-003. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-verf-003",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-verf-003",
+      "search_record": "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md#clm-verf-003",
       "historical_inventory_dossier": {
         "path": "claims/verification/CLM-VERF-005.md",
         "exists": true,
@@ -4641,7 +4690,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "claims/verification/CLM-VERF-005.md"
+        "claims/verification/CLM-VERF-005.md",
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -4727,7 +4777,7 @@
         "note": "The inherited rationale addresses the subject of CLM-VERF-004. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-verf-004",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-verf-004",
+      "search_record": "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md#clm-verf-004",
       "historical_inventory_dossier": {
         "path": "claims/verification/CLM-VERF-005.md",
         "exists": true,
@@ -4735,7 +4785,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "claims/verification/CLM-VERF-005.md"
+        "claims/verification/CLM-VERF-005.md",
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -4821,7 +4872,7 @@
         "note": "The inherited rationale addresses the subject of CLM-VERF-005. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-verf-005",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-verf-005",
+      "search_record": "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md#clm-verf-005",
       "historical_inventory_dossier": {
         "path": "claims/verification/CLM-VERF-005.md",
         "exists": true,
@@ -4829,7 +4880,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "claims/verification/CLM-VERF-005.md"
+        "claims/verification/CLM-VERF-005.md",
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -4915,7 +4967,7 @@
         "note": "The inherited rationale addresses the subject of CLM-VERF-006. Source-location and wording correspondence have been inspected; validity, comparison, and chronology claims in that rationale are not independently substantiated in Phase 0."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-verf-006",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-verf-006",
+      "search_record": "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md#clm-verf-006",
       "historical_inventory_dossier": {
         "path": "claims/verification/CLM-VERF-006.md",
         "exists": true,
@@ -4923,7 +4975,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "claims/verification/CLM-VERF-006.md"
+        "claims/verification/CLM-VERF-006.md",
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -5009,7 +5062,7 @@
         "note": "A count of Lean lemmas and module names does not establish correspondence to actual certificate fields or the entire verifier pipeline."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-verf-007",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-verf-007",
+      "search_record": "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md#clm-verf-007",
       "historical_inventory_dossier": {
         "path": "reports/interim/PHASE_3_INTERIM_REPORT.md",
         "exists": true,
@@ -5017,7 +5070,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
-        "reports/interim/PHASE_3_INTERIM_REPORT.md"
+        "reports/interim/PHASE_3_INTERIM_REPORT.md",
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -5103,7 +5157,7 @@
         "note": "The inherited rationale concerns prime-trace zero-mode priority, not whether the research record was fully public from repository creation. No creation-time public witness is established here."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-001",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-001",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-001",
       "historical_inventory_dossier": {
         "path": "evidence/public-timeline/TIMELINE_MATRIX.md",
         "exists": true,
@@ -5111,7 +5165,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "evidence/public-timeline/TIMELINE_MATRIX.md"
+        "evidence/public-timeline/TIMELINE_MATRIX.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -5195,7 +5250,7 @@
         "note": "The inherited rationale concerns shift-filter priority, not a public negative-result and obstruction trail. A history-specific investigation remains required."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-002",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-002",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-002",
       "historical_inventory_dossier": {
         "path": "evidence/public-timeline/TIMELINE_MATRIX.md",
         "exists": true,
@@ -5203,7 +5258,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "evidence/public-timeline/TIMELINE_MATRIX.md"
+        "evidence/public-timeline/TIMELINE_MATRIX.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -5287,7 +5343,7 @@
         "note": "The inherited rationale concerns a stationary Cayley mode, not the correction trail or absence of history rewriting. Available history cannot alone prove that rewriting never occurred."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-003",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-003",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-003",
       "historical_inventory_dossier": {
         "path": "evidence/public-timeline/TIMELINE_MATRIX.md",
         "exists": true,
@@ -5295,7 +5351,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "evidence/public-timeline/TIMELINE_MATRIX.md"
+        "evidence/public-timeline/TIMELINE_MATRIX.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -5395,7 +5452,7 @@
         "note": "The inherited rationale concerns compressed translations and fab5933, not the Legendre-Schur construction identified by this proposition. The inventory anchor 3111accb is retained as a lead, not certified first appearance."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-004",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-004",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-004",
       "historical_inventory_dossier": {
         "path": "claims/priority/CLM-PRIO-004.md",
         "exists": true,
@@ -5403,7 +5460,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "claims/priority/CLM-PRIO-004.md"
+        "claims/priority/CLM-PRIO-004.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -5487,7 +5545,7 @@
         "note": "The rationale addresses C-0050 at T=7/20. Its Chuk date comparison and public-availability gap remain unverified; wording alignment is not priority evidence."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-005",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-005",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-005",
       "historical_inventory_dossier": {
         "path": "claims/priority/CLM-PRIO-005.md",
         "exists": true,
@@ -5495,7 +5553,8 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "claims/priority/CLM-PRIO-005.md"
+        "claims/priority/CLM-PRIO-005.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -5587,14 +5646,15 @@
         "note": "The rationale covers continuation only through T=0.525, while this proposition extends through T=0.54. The final theorem and official comparator versions require separate chronology."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-006",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-006",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-006",
       "historical_inventory_dossier": {
         "path": "claims/priority/CLM-PRIO-006.md",
         "exists": false,
         "status": "MISSING_HISTORICAL_REFERENCE"
       },
       "historical_leads": [
-        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md"
+        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -5678,14 +5738,15 @@
         "note": "The inherited rationale concerns the tail-Gram Schur criterion, not the exact pole-annihilating shift filter."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-007",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-007",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-007",
       "historical_inventory_dossier": {
         "path": "claims/priority/CLM-PRIO-007.md",
         "exists": false,
         "status": "MISSING_HISTORICAL_REFERENCE"
       },
       "historical_leads": [
-        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md"
+        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -5769,14 +5830,15 @@
         "note": "The inherited rationale concerns Legendre harmonic coercivity, not the pole-subtracted prime-Laguerre root criterion."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-008",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-008",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-008",
       "historical_inventory_dossier": {
         "path": "claims/priority/CLM-PRIO-008.md",
         "exists": false,
         "status": "MISSING_HISTORICAL_REFERENCE"
       },
       "historical_leads": [
-        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md"
+        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -5860,14 +5922,15 @@
         "note": "The inherited rationale concerns the rank-one Hessian, not the critical-half-weight nonlinear Mellin chirp."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-009",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-009",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-009",
       "historical_inventory_dossier": {
         "path": "claims/priority/CLM-PRIO-009.md",
         "exists": false,
         "status": "MISSING_HISTORICAL_REFERENCE"
       },
       "historical_leads": [
-        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md"
+        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -5967,14 +6030,15 @@
         "note": "The inherited rationale concerns a PNT moving-scale barrier, not the rank-one Hessian and separability obstruction."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-010",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-010",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-010",
       "historical_inventory_dossier": {
         "path": "claims/priority/CLM-PRIO-010.md",
         "exists": false,
         "status": "MISSING_HISTORICAL_REFERENCE"
       },
       "historical_leads": [
-        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md"
+        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -6058,14 +6122,15 @@
         "note": "The rationale addresses the Schoenberg CND characterization. The matching subject does not establish public precedence or independently verify the equivalence."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-011",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-011",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-011",
       "historical_inventory_dossier": {
         "path": "claims/priority/CLM-PRIO-011.md",
         "exists": false,
         "status": "MISSING_HISTORICAL_REFERENCE"
       },
       "historical_leads": [
-        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md"
+        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
@@ -6157,14 +6222,15 @@
         "note": "The inherited rationale concerns zero-floating-point verification architecture, not compressed translations, prime-entry thresholds, or shift norm."
       },
       "mapping_record": "evidence/phase0/PASS4-CANDIDATE-MAPPING.md#clm-prio-012",
-      "search_record": "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-prio-012",
+      "search_record": "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md#clm-prio-012",
       "historical_inventory_dossier": {
         "path": "claims/priority/CLM-PRIO-012.md",
         "exists": false,
         "status": "MISSING_HISTORICAL_REFERENCE"
       },
       "historical_leads": [
-        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md"
+        "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",

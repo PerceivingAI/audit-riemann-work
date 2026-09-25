@@ -1,0 +1,29 @@
+{
+  "candidate_count": 66,
+  "current_verified": 0,
+  "inherited_classifications_preserved": true,
+  "completion_mode": false,
+  "version_records_checked": 181,
+  "stored_version_checks": 175,
+  "execution_records_checked": [
+    "evidence/computation-logs/PASS4-PHASE0-COMPLETION-GATE.run.json",
+    "evidence/computation-logs/PASS4-PHASE0-HASH-DOMAINS.run.json",
+    "evidence/computation-logs/PASS4-PHASE0-PRESERVATION.run.json",
+    "evidence/computation-logs/PASS4-PHASE0-PUBLICATION.run.json",
+    "evidence/computation-logs/PASS4-PHASE0-VALIDATION-CORRECTED.run.json",
+    "evidence/computation-logs/PASS4-PHASE0-VALIDATION.run.json",
+    "evidence/computation-logs/PASS4-PHASE1-CHUK-COLLECTED.run.json",
+    "evidence/computation-logs/PASS4-PHASE1-KUBER-CLONE.run.json",
+    "evidence/computation-logs/PASS4-PHASE1-KUBER-COLLECTED.run.json",
+    "evidence/computation-logs/PASS4-PHASE1-KUBER-COLLECTION-RETRY.run.json",
+    "evidence/computation-logs/PASS4-PHASE1-KUBER-COLLECTION.run.json",
+    "evidence/computation-logs/PASS4-PHASE1-PUBLICATION.run.json",
+    "evidence/computation-logs/PASS4-PHASE1-VALIDATION.run.json",
+    "evidence/computation-logs/PASS4-PHASE2-PUBLICATION.run.json",
+    "evidence/computation-logs/PASS4-PHASE2-SEARCHES-EXECUTED.run.json"
+  ],
+  "source_unchanged": true,
+  "source_entries_checked": 3948,
+  "errors": [],
+  "result": "PASS"
+}

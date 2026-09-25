@@ -261,8 +261,23 @@ def living_link_checks() -> list[str]:
              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md",
              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
              "evidence/literature/PASS_4_PRIOR_ART.md",
+             "evidence/literature/LIT-1964-TUCK-LEGENDRE.md",
+             "evidence/literature/LIT-1992-YOSHIDA-HERMITIAN.md",
+             "evidence/literature/LIT-2000-BOMBIERI-WEIL.md",
+             "evidence/literature/LIT-2020-CC-ARCHIMEDEAN.md",
+             "evidence/literature/LIT-2025-CCM-SPECTRAL.md",
+             "evidence/literature/LIT-2026-SUZUKI-SCREW.md",
+             "evidence/literature/LIT-2026-GROSKIN-FINITE.md",
+             "evidence/literature/LIT-2007-LAGARIAS-LICAE.md",
+             "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+             "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md",
+             "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+             "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md",
+             "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+             "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
              "reports/interim/PASS_4_PHASE_0_REPORT.md",
-             "reports/interim/PASS_4_PHASE_1_REPORT.md", "AUDIT_PASS_4.md"]
+             "reports/interim/PASS_4_PHASE_1_REPORT.md",
+             "reports/interim/PASS_4_PHASE_2_REPORT.md", "AUDIT_PASS_4.md"]
     errors = []
     for name in paths:
         text = read_text(name)

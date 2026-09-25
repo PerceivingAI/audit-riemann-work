@@ -1,0 +1,1806 @@
+{
+  "manifest_version": 1,
+  "started_at": "2026-09-25T04:56:39.685787+00:00",
+  "completed_at": "2026-09-25T04:59:46.150312+00:00",
+  "topics_searched": [
+    "TOPIC-001",
+    "TOPIC-002",
+    "TOPIC-003",
+    "TOPIC-004",
+    "TOPIC-005",
+    "TOPIC-006"
+  ],
+  "topics": {
+    "TOPIC-001": {
+      "topic_id": "TOPIC-001",
+      "title": "Weil Positivity Theorems, Support Continuation, and Moving Dimension",
+      "claims": [
+        "CLM-MATH-001",
+        "CLM-MATH-002",
+        "CLM-MATH-003",
+        "CLM-MATH-004",
+        "CLM-MATH-005",
+        "CLM-MATH-006",
+        "CLM-MATH-007",
+        "CLM-MATH-008",
+        "CLM-CONT-001",
+        "CLM-CONT-002"
+      ],
+      "dossier_file": "PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+      "arxiv_searches": [
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"Weil positivity\" AND all:\"compact support\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Weil+positivity%22+AND+all%3A%22compact+support%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-001-arxiv-5399e99d7b.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"Weil quadratic form\" AND all:\"support continuation\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Weil+quadratic+form%22+AND+all%3A%22support+continuation%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-001-arxiv-3e1a1e9cc7.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Mathematical Equivalents",
+          "query": "all:\"explicit formula\" AND all:\"positive definite\" AND all:\"compact support\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22explicit+formula%22+AND+all%3A%22positive+definite%22+AND+all%3A%22compact+support%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-001-arxiv-8b8215831d.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Operator & Function Theory",
+          "query": "all:\"Paley-Wiener\" AND all:\"Weil positivity\" AND all:\"infimum\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Paley-Wiener%22+AND+all%3A%22Weil+positivity%22+AND+all%3A%22infimum%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-001-arxiv-b5eac535da.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Known Ingredient Combinations",
+          "query": "all:\"Yoshida\" AND all:\"Hermitian forms\" AND all:\"zeta functions\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Yoshida%22+AND+all%3A%22Hermitian+forms%22+AND+all%3A%22zeta+functions%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-001-arxiv-ba433b3793.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Known Ingredient Combinations",
+          "query": "all:\"Bombieri\" AND all:\"Weil's quadratic functional\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Bombieri%22+AND+all%3A%22Weil%27s+quadratic+functional%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-001-arxiv-df4b6a476c.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ],
+      "crossref_searches": [
+        {
+          "query": "Weil positivity compact support",
+          "api_url": "https://api.crossref.org/works?query=Weil+positivity+compact+support&rows=5",
+          "http_status": 200,
+          "total_results": 989568,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "On b-AM-compact and AM-compact operators",
+              "doi": "10.1007/s11117-022-00922-0",
+              "created": "2022-06-15T13:05:27Z",
+              "authors": [
+                "Mohamed Hajji",
+                "Mounir Mahfoudhi"
+              ],
+              "journal": "Positivity"
+            },
+            {
+              "title": "Compact operators between Banach lattices",
+              "doi": "10.1007/s11117-026-01220-9",
+              "created": "2026-08-28T05:59:21Z",
+              "authors": [
+                "A. W. Wickstead"
+              ],
+              "journal": "Positivity"
+            },
+            {
+              "title": "Repeated quasi-integration on locally compact spaces",
+              "doi": "10.1007/s11117-022-00864-7",
+              "created": "2022-02-20T12:11:26Z",
+              "authors": [
+                "Svetlana V. Butler"
+              ],
+              "journal": "Positivity"
+            },
+            {
+              "title": "DW-compact operators on Banach lattices",
+              "doi": "10.1007/s11117-024-01106-8",
+              "created": "2024-12-24T11:10:08Z",
+              "authors": [
+                "Jin Xi Chen",
+                "Jingge Feng"
+              ],
+              "journal": "Positivity"
+            },
+            {
+              "title": "Muirhead-Rado inequality for compact groups",
+              "doi": "10.1007/s11117-008-2172-4",
+              "created": "2008-10-04T09:11:20Z",
+              "authors": [
+                "Leonard J. Schulman"
+              ],
+              "journal": "Positivity"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-001-crossref-42cc42d330.json",
+          "raw_file_sha256": "c8a3161f0fd210e0a394ec600aee6e6d90e888f862b79243d6e67ec3ab6c068c"
+        },
+        {
+          "query": "explicit formula positive definite compact support",
+          "api_url": "https://api.crossref.org/works?query=explicit+formula+positive+definite+compact+support&rows=5",
+          "http_status": 200,
+          "total_results": 1477945,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "A Compact Explicit Distribution for the Positive Definite Quadratic Forms in Normal Variates",
+              "doi": "10.21608/esju.1976.315747",
+              "created": "2023-09-09T06:06:14Z",
+              "authors": [
+                "Ahmed El Mawaziny"
+              ],
+              "journal": "The Egyptian Statistical Journal"
+            },
+            {
+              "title": "On positive definite distributions with compact support",
+              "doi": "10.15352/bjma/09-3-2",
+              "created": "2015-07-16T20:41:52Z",
+              "authors": [
+                "Saulius Norvidas"
+              ],
+              "journal": "Banach Journal of Mathematical Analysis"
+            },
+            {
+              "title": "Conditionally positive-definite functions on locally compact groups and the Levy-Khinchin formula",
+              "doi": "10.1007/bf02104978",
+              "created": "2005-09-13T02:37:42Z",
+              "authors": [
+                "S. I. Karpushev"
+              ],
+              "journal": "Journal of Soviet Mathematics"
+            },
+            {
+              "title": "Convolution roots of radial positive definite functions with compact support",
+              "doi": "10.1090/s0002-9947-04-03502-0",
+              "created": "2004-06-29T08:21:44Z",
+              "authors": [
+                "Werner Ehm",
+                "Tilmann Gneiting",
+                "Donald Richards"
+              ],
+              "journal": "Transactions of the American Mathematical Society"
+            },
+            {
+              "title": "Error representation formula for eigenvalue approximations for positive definite operators",
+              "doi": "10.7153/oam-06-51",
+              "created": "2013-05-23T11:10:32Z",
+              "authors": [
+                "Luka Grubišić",
+                "Ivica Nakić"
+              ],
+              "journal": "Operators and Matrices"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-001-crossref-f8e8e73396.json",
+          "raw_file_sha256": "d0adc4ab161c6f583fe7b6a9b4acf518bf197b3e48d4bf6e48a40c49ca7d333f"
+        },
+        {
+          "query": "Yoshida Hermitian forms attached to zeta functions",
+          "api_url": "https://api.crossref.org/works?query=Yoshida+Hermitian+forms+attached+to+zeta+functions&rows=5",
+          "http_status": 200,
+          "total_results": 831583,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "On Hermitian Forms attached to Zeta Functions",
+              "doi": "10.2969/aspm/02110281",
+              "created": "2018-08-15T14:52:16Z",
+              "authors": [
+                "Hiroyuki Yoshida"
+              ],
+              "journal": "Advanced Studies in Pure Mathematics"
+            },
+            {
+              "title": "Elliptic Modular Forms Arising from Zeta Functions in Two Variables Attached to the Space of Binary Hermitian Forms",
+              "doi": "10.1006/jnth.2000.2572",
+              "created": "2002-09-18T18:06:38Z",
+              "authors": [
+                "Takahiko Ueno"
+              ],
+              "journal": "Journal of Number Theory"
+            },
+            {
+              "title": "The Maass Zeta Functions Attached to Positive Definite Quadratic Forms",
+              "doi": "10.2969/aspm/02110409",
+              "created": "2018-08-15T18:52:16Z",
+              "authors": [
+                "Fumihiro Sato"
+              ],
+              "journal": "Advanced Studies in Pure Mathematics"
+            },
+            {
+              "title": "A HERMITIAN ANALOG OF THE SCHOTTKY FORM",
+              "doi": "10.1142/9789812774415_0007",
+              "created": "2007-10-26T06:12:28Z",
+              "authors": [
+                "M. HENTSCHEL",
+                "A. KRIEG"
+              ],
+              "journal": "Automorphic Forms and Zeta Functions"
+            },
+            {
+              "title": "On the Symmetric-Square Zeta Functions Attached to Hilbert Modular Forms",
+              "doi": "10.2969/aspm/00710175",
+              "created": "2018-06-06T14:56:52Z",
+              "authors": [
+                "Shin-ichiro Mizumoto"
+              ],
+              "journal": "Advanced Studies in Pure Mathematics"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-001-crossref-58732e1d5b.json",
+          "raw_file_sha256": "956bec41467e561207d719237b288cd92e188d30eb1fcc5bbc2e6b6466e39e99"
+        }
+      ],
+      "github_searches": [
+        {
+          "query": "Weil positivity Riemann",
+          "api_url": "https://api.github.com/search/repositories?q=Weil+positivity+Riemann&per_page=5",
+          "http_status": 200,
+          "total_results": 7,
+          "items": [
+            {
+              "full_name": "Architect-Resonance/Riemann-Hypothesis",
+              "html_url": "https://github.com/Architect-Resonance/Riemann-Hypothesis",
+              "description": "Spectral simplicity of the Weil quadratic form via Krein-Rutman positivity"
+            },
+            {
+              "full_name": "sharantresearch/certified-local-weil-positivity",
+              "html_url": "https://github.com/sharantresearch/certified-local-weil-positivity",
+              "description": "Paper, source code, and reproducible interval-arithmetic certificates for local Weil positivity of the Riemann zeta function through support radius a = 3/5."
+            },
+            {
+              "full_name": "bradleypmartin/weil-positivity-lab",
+              "html_url": "https://github.com/bradleypmartin/weil-positivity-lab",
+              "description": "Numerical lab for the zeros↔primes coupling on GL(1) L-functions (Riemann ζ, Dirichlet L): the Weil positivity functional and the multiplicativity residual, measured on the same objects. Measurement, not proof — no RH/GRH claim."
+            },
+            {
+              "full_name": "darreal44/riemann-weil-phenomenology",
+              "html_url": "https://github.com/darreal44/riemann-weil-phenomenology",
+              "description": "Numerical phenomenology of the Weil positivity criterion: first function-level test of Suzuki’s conjecture (1.2), identification of its constant as ‖Φ‖ = 1.130932, and a linear depth law for Dirichlet quasi-radical ladders. Measurements, not proofs."
+            },
+            {
+              "full_name": "ising3D/riemann-attempts-notes",
+              "html_url": "https://github.com/ising3D/riemann-attempts-notes",
+              "description": "Exploratory notes on spectral reformulations of the Riemann Hypothesis, Weil/Li positivity criteria, and why heuristic attempts fail."
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-001-github-24533ebdfb.json",
+          "raw_file_sha256": "207c8dddd6786b681de65a328f073bddd57d9a081450e86e0b9217ceefb78e53"
+        },
+        {
+          "query": "Weil quadratic form support continuation",
+          "api_url": "https://api.github.com/search/repositories?q=Weil+quadratic+form+support+continuation&per_page=5",
+          "http_status": 200,
+          "total_results": 0,
+          "items": [],
+          "raw_file": "evidence/phase2/search/TOPIC-001-github-bee168f3a8.json",
+          "raw_file_sha256": "4af480b8ee5b87b369a76c49bd22c9a783908272ebffbe97898f8ab0f0772a5f"
+        }
+      ]
+    },
+    "TOPIC-002": {
+      "topic_id": "TOPIC-002",
+      "title": "Legendre Harmonic Coercivity, Exact-Prime Decomposition, and Schur Criteria",
+      "claims": [
+        "CLM-METH-001",
+        "CLM-METH-002",
+        "CLM-METH-003",
+        "CLM-METH-004",
+        "CLM-METH-005",
+        "CLM-OPER-001",
+        "CLM-OPER-002"
+      ],
+      "dossier_file": "PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md",
+      "arxiv_searches": [
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"Tuck\" AND all:\"Legendre\" AND all:\"harmonic\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Tuck%22+AND+all%3A%22Legendre%22+AND+all%3A%22harmonic%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-002-arxiv-3a960d03c0.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"tail-Gram\" OR all:\"component tail-Gram Schur\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22tail-Gram%22+OR+all%3A%22component+tail-Gram+Schur%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-002-arxiv-de31d159ba.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Mathematical Equivalents",
+          "query": "all:\"Legendre polynomial\" AND all:\"singular integral\" AND all:\"H_n\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Legendre+polynomial%22+AND+all%3A%22singular+integral%22+AND+all%3A%22H_n%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-002-arxiv-7298927407.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Operator & Function Theory",
+          "query": "all:\"Schur complement\" AND all:\"Feshbach\" AND all:\"operator positivity\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Schur+complement%22+AND+all%3A%22Feshbach%22+AND+all%3A%22operator+positivity%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-002-arxiv-db8fba5b37.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Operator & Function Theory",
+          "query": "all:\"compressed shift\" AND all:\"Chebyshev\" AND all:\"path graph\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22compressed+shift%22+AND+all%3A%22Chebyshev%22+AND+all%3A%22path+graph%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-002-arxiv-0e4caf735c.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Known Ingredient Combinations",
+          "query": "all:\"Schur complement\" AND all:\"Gram matrix\" AND all:\"Weil positivity\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Schur+complement%22+AND+all%3A%22Gram+matrix%22+AND+all%3A%22Weil+positivity%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-002-arxiv-08a60395e1.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ],
+      "crossref_searches": [
+        {
+          "query": "Tuck Some methods for flows past blunt slender bodies",
+          "api_url": "https://api.crossref.org/works?query=Tuck+Some+methods+for+flows+past+blunt+slender+bodies&rows=5",
+          "http_status": 200,
+          "total_results": 3264885,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Some methods for flows past blunt slender bodies",
+              "doi": "10.1017/s0022112064000453",
+              "created": "2006-03-28T11:29:31Z",
+              "authors": [
+                "E. O. Tuck"
+              ],
+              "journal": "Journal of Fluid Mechanics"
+            },
+            {
+              "title": "Shallow-water flows past slender bodies",
+              "doi": "10.1017/s0022112066001101",
+              "created": "2006-03-28T07:42:24Z",
+              "authors": [
+                "E. O. Tuck"
+              ],
+              "journal": "Journal of Fluid Mechanics"
+            },
+            {
+              "title": "Computing steady incompressible flows past blunt bodies—A historical overview",
+              "doi": "10.1093/oso/9780198536963.003.0008",
+              "created": "2023-11-03T03:55:39Z",
+              "authors": [
+                "Bengt Fornberg"
+              ],
+              "journal": "Numerical Methods for Fluid Dynamics"
+            },
+            {
+              "title": "Direct simulation of hypersonic flows over blunt slender bodies",
+              "doi": "10.2514/6.1986-1348",
+              "created": "2013-10-07T02:20:11Z",
+              "authors": [
+                "J. MOSS"
+              ],
+              "journal": "4th Thermophysics and Heat Transfer Conference"
+            },
+            {
+              "title": "HYPERSONIC FLOWS PAST SLENDER BODIES WITH SHARP LEADING EDGES",
+              "doi": "10.1016/b978-1-4832-3197-6.50008-3",
+              "created": "2013-11-20T04:08:31Z",
+              "authors": [
+                "G.G. CHERNYI"
+              ],
+              "journal": "Introduction to Hypersonic Flow"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-002-crossref-26cd1d0036.json",
+          "raw_file_sha256": "719cd37296122577c6c0298ca7fd8b7005e5a6ca6b1a2bbd79e6244b89feced7"
+        },
+        {
+          "query": "Legendre polynomial singular integral logarithmic kernel",
+          "api_url": "https://api.crossref.org/works?query=Legendre+polynomial+singular+integral+logarithmic+kernel&rows=5",
+          "http_status": 200,
+          "total_results": 371786,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "A Wavelet-Based Approximation Scheme Involving Legendre Polynomial for Fredholm Integral Equations with Logarithmic Singular Kernel",
+              "doi": "10.9734/jamcs/2025/v40i41985",
+              "created": "2025-03-21T13:23:00Z",
+              "authors": [
+                "Sudam Bin",
+                "Sharda Kumari",
+                "M M Panja"
+              ],
+              "journal": "Journal of Advances in Mathematics and Computer Science"
+            },
+            {
+              "title": "Piecewise logarithmic Chebyshev cardinal functions: Application for nonlinear integral equations with a logarithmic singular kernel",
+              "doi": "10.1016/j.apnum.2025.06.016",
+              "created": "2025-07-04T12:53:50Z",
+              "authors": [
+                "M.H. Heydari",
+                "D. Baleanu",
+                "M. Bayram"
+              ],
+              "journal": "Applied Numerical Mathematics"
+            },
+            {
+              "title": "A Chebyshev expansion of singular integral equations with a logarithmic kernel",
+              "doi": "10.1016/0021-9991(83)90096-7",
+              "created": "2004-09-29T15:08:18Z",
+              "authors": [
+                "A Frenkel"
+              ],
+              "journal": "Journal of Computational Physics"
+            },
+            {
+              "title": "Quadratic numerical treatment for singular integral equations with logarithmic kernel",
+              "doi": "10.1504/ijcsm.2019.10022404",
+              "created": "2019-07-04T10:36:20Z",
+              "authors": [
+                "Bachir Gagui",
+                "Mostefa Nadir"
+              ],
+              "journal": "International Journal of Computing Science and Mathematics"
+            },
+            {
+              "title": "Product integration methods for an integral equation with logarithmic singular kernel",
+              "doi": "10.1016/0168-9274(92)90020-e",
+              "created": "2002-07-26T03:45:40Z",
+              "authors": [
+                "Tao Tang",
+                "Sean McKee",
+                "Teresa Diogo"
+              ],
+              "journal": "Applied Numerical Mathematics"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-002-crossref-059d15a9fc.json",
+          "raw_file_sha256": "0b867a4834efb10f34d300c9220b6c6ffba9e377eaae9bfb72226f7b8df75609"
+        },
+        {
+          "query": "Schur complement operator positivity infinite dimensional",
+          "api_url": "https://api.crossref.org/works?query=Schur+complement+operator+positivity+infinite+dimensional&rows=5",
+          "http_status": 200,
+          "total_results": 893045,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Schur Complements and Matrix Inequalities: Operator-Theoretic Approach",
+              "doi": "10.1007/0-387-24273-2_6",
+              "created": "2005-12-07T18:11:44Z",
+              "authors": [
+                "Tsuyoshi Ando"
+              ],
+              "journal": "Numerical Methods and Algorithms"
+            },
+            {
+              "title": "A Positive Doubly Power Bounded Operator\nwith a Nonpositive Inverse Exists on any Infinite-dimensional AL-Space",
+              "doi": "10.1007/s11117-005-0037-7",
+              "created": "2006-03-29T08:28:06Z",
+              "authors": [
+                "Şafak Alpay",
+                "Ali Binhadjah",
+                "Eduard Yu. Emel'yanov"
+              ],
+              "journal": "Positivity"
+            },
+            {
+              "title": "A Brief Survey on",
+              "doi": "10.1007/978-3-0348-0502-5_13",
+              "created": "2013-10-24T12:51:49Z",
+              "authors": [
+                "Gary Weiss"
+              ],
+              "journal": "Operator Theory: Advances and Applications"
+            },
+            {
+              "title": "Spectra of infinite graphs via Schur complement",
+              "doi": "10.7153/oam-2017-11-27",
+              "created": "2017-09-27T21:40:33Z",
+              "authors": [
+                "L. Golinskii"
+              ],
+              "journal": "Operators and Matrices"
+            },
+            {
+              "title": "Spectra of infinite graphs via Schur complement",
+              "doi": "10.7153/oam-11-27",
+              "created": "2017-06-09T08:58:35Z",
+              "authors": [
+                "L. Golinskii"
+              ],
+              "journal": "Operators and Matrices"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-002-crossref-e4eb5235eb.json",
+          "raw_file_sha256": "8480e7882082e5b90d9624e3ce6a5a8fa740e7b2d545824c5b3ec61e78b02ab7"
+        }
+      ],
+      "github_searches": [
+        {
+          "query": "Legendre harmonic coercivity",
+          "api_url": "https://api.github.com/search/repositories?q=Legendre+harmonic+coercivity&per_page=5",
+          "http_status": 200,
+          "total_results": 0,
+          "items": [],
+          "raw_file": "evidence/phase2/search/TOPIC-002-github-bcfa198d75.json",
+          "raw_file_sha256": "4af480b8ee5b87b369a76c49bd22c9a783908272ebffbe97898f8ab0f0772a5f"
+        },
+        {
+          "query": "tail-Gram Schur complement",
+          "api_url": "https://api.github.com/search/repositories?q=tail-Gram+Schur+complement&per_page=5",
+          "http_status": 200,
+          "total_results": 0,
+          "items": [],
+          "raw_file": "evidence/phase2/search/TOPIC-002-github-6535139179.json",
+          "raw_file_sha256": "4af480b8ee5b87b369a76c49bd22c9a783908272ebffbe97898f8ab0f0772a5f"
+        }
+      ]
+    },
+    "TOPIC-003": {
+      "topic_id": "TOPIC-003",
+      "title": "Li Criterion, Prime-Laguerre Sequences, and Schoenberg CND Semigroups",
+      "claims": [
+        "CLM-LAGU-001",
+        "CLM-LAGU-002",
+        "CLM-LAGU-003",
+        "CLM-LAGU-004",
+        "CLM-LAGU-005",
+        "CLM-GRAM-001",
+        "CLM-GRAM-002",
+        "CLM-GRAM-003"
+      ],
+      "dossier_file": "PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+      "arxiv_searches": [
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"Li coefficients\" AND all:\"Laguerre\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Li+coefficients%22+AND+all%3A%22Laguerre%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-003-arxiv-b3c3388de2.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"Schoenberg\" AND all:\"conditionally negative definite\" AND all:\"Riemann\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Schoenberg%22+AND+all%3A%22conditionally+negative+definite%22+AND+all%3A%22Riemann%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-003-arxiv-a728579720.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"pole-subtracted\" AND all:\"Laguerre\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22pole-subtracted%22+AND+all%3A%22Laguerre%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-003-arxiv-432ed1189c.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Mathematical Equivalents",
+          "query": "all:\"Euler product\" AND all:\"Laguerre\" AND all:\"von Mangoldt\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Euler+product%22+AND+all%3A%22Laguerre%22+AND+all%3A%22von+Mangoldt%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-003-arxiv-9520a600ff.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Operator & Function Theory",
+          "query": "all:\"infinitely divisible\" AND all:\"convolution semigroup\" AND all:\"Li criterion\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22infinitely+divisible%22+AND+all%3A%22convolution+semigroup%22+AND+all%3A%22Li+criterion%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-003-arxiv-f2d8e9bdbc.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Known Ingredient Combinations",
+          "query": "all:\"Lagarias\" AND all:\"Li coefficients for automorphic L-functions\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Lagarias%22+AND+all%3A%22Li+coefficients+for+automorphic+L-functions%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-003-arxiv-2d0afaa8c0.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Known Ingredient Combinations",
+          "query": "all:\"Bombieri\" AND all:\"Lagarias\" AND all:\"Li's criterion\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Bombieri%22+AND+all%3A%22Lagarias%22+AND+all%3A%22Li%27s+criterion%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-003-arxiv-4cb931d85e.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ],
+      "crossref_searches": [
+        {
+          "query": "Lagarias Li coefficients for automorphic L-functions",
+          "api_url": "https://api.crossref.org/works?query=Lagarias+Li+coefficients+for+automorphic+L-functions&rows=5",
+          "http_status": 200,
+          "total_results": 6081090,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Li coefficients for automorphic\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>L</mml:mi>\n                    </mml:math>\n                    -functions",
+              "doi": "10.5802/aif.2311",
+              "created": "2011-09-06T09:28:39Z",
+              "authors": [
+                "Jeffrey C. Lagarias"
+              ],
+              "journal": "Annales de l'Institut Fourier"
+            },
+            {
+              "title": "On the $\\tau $-Li coefficients for automorphic $L$-functions",
+              "doi": "10.1216/rmj-2017-47-6-1987",
+              "created": "2017-11-21T09:04:36Z",
+              "authors": [
+                "Kamel Mazhouda"
+              ],
+              "journal": "Rocky Mountain Journal of Mathematics"
+            },
+            {
+              "title": "Harmonic Analysis of Automorphic Functions. Estimates for Fourier Coefficients of Parabolic Forms of Weight Zero",
+              "doi": "10.1007/978-94-009-1892-4_5",
+              "created": "2012-07-28T20:01:10Z",
+              "authors": [
+                "Alexei B. Venkov"
+              ],
+              "journal": "Spectral Theory of Automorphic Functions and Its Applications"
+            },
+            {
+              "title": "Whittaker Functions and Fourier Coefficients",
+              "doi": "10.1017/9781316995860.007",
+              "created": "2018-06-29T01:40:08Z",
+              "authors": [],
+              "journal": "Eisenstein Series and Automorphic Representations"
+            },
+            {
+              "title": "Local coefficients",
+              "doi": "10.1090/coll/058/06",
+              "created": "2016-07-14T12:27:17Z",
+              "authors": [],
+              "journal": "Colloquium Publications"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-003-crossref-bc89d32f85.json",
+          "raw_file_sha256": "9cdc3db9bff17f586479e3fa77abb92516e600f501872c7a27fb70d31fc81807"
+        },
+        {
+          "query": "Bombieri Lagarias Complements to Li's criterion for the Riemann hypothesis",
+          "api_url": "https://api.crossref.org/works?query=Bombieri+Lagarias+Complements+to+Li%27s+criterion+for+the+Riemann+hypothesis&rows=5",
+          "http_status": 200,
+          "total_results": 163971,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Complements to Li's Criterion for the Riemann Hypothesis",
+              "doi": "10.1006/jnth.1999.2392",
+              "created": "2002-09-18T14:06:38Z",
+              "authors": [
+                "Enrico Bombieri",
+                "Jeffrey C. Lagarias"
+              ],
+              "journal": "Journal of Number Theory"
+            },
+            {
+              "title": "Riemann hypothesis equivalences,Robin inequality,Lagarias criterion, and Riemann hypothesis",
+              "doi": "10.33774/coe-2024-rtt37-v2",
+              "created": "2024-06-20T21:59:17Z",
+              "authors": [
+                "Ahmad Sabihi"
+              ],
+              "journal": ""
+            },
+            {
+              "title": "Riemann hypothesis equivalences,Robin inequality,Lagarias criterion, and Riemann hypothesis",
+              "doi": "10.33774/coe-2024-rtt37",
+              "created": "2024-01-23T03:46:57Z",
+              "authors": [
+                "Ahmad Sabihi"
+              ],
+              "journal": ""
+            },
+            {
+              "title": "Robin’s inequality,Lagarias’ criterion, and Riemann hypothesis",
+              "doi": "10.33774/coe-2026-4mf39-v2",
+              "created": "2026-08-17T13:15:26Z",
+              "authors": [
+                "Ahmad Sabihi"
+              ],
+              "journal": ""
+            },
+            {
+              "title": "Robin inequality,Lagarias criterion, and Riemann hypothesis",
+              "doi": "10.33774/coe-2026-4mf39",
+              "created": "2026-02-13T12:28:28Z",
+              "authors": [
+                "Ahmad Sabihi"
+              ],
+              "journal": ""
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-003-crossref-e0dc4f38da.json",
+          "raw_file_sha256": "65a83384085ac30aaa87b57812a7d146d1c7648307b4c2816645ac02c091db57"
+        },
+        {
+          "query": "Schoenberg Metric spaces and positive definite functions",
+          "api_url": "https://api.crossref.org/works?query=Schoenberg+Metric+spaces+and+positive+definite+functions&rows=5",
+          "http_status": 200,
+          "total_results": 1145744,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Metric Spaces and Positive Definite Functions",
+              "doi": "10.1007/978-1-4612-3948-2_10",
+              "created": "2012-01-21T04:28:13Z",
+              "authors": [
+                "I. J. Schoenberg"
+              ],
+              "journal": "I.J. Schoenberg Selected Papers"
+            },
+            {
+              "title": "Metric Spaces and Positive Definite Functions",
+              "doi": "10.1007/978-1-4612-3946-8_8",
+              "created": "2013-10-11T12:59:14Z",
+              "authors": [
+                "I. J. Schoenberg"
+              ],
+              "journal": "I.J. Schoenberg Selected Papers"
+            },
+            {
+              "title": "Metric spaces and positive definite functions",
+              "doi": "10.1090/s0002-9947-1938-1501980-0",
+              "created": "2010-06-30T16:14:02Z",
+              "authors": [
+                "I. J. Schoenberg"
+              ],
+              "journal": "Transactions of the American Mathematical Society"
+            },
+            {
+              "title": "Positive Definite Functions on Spheres",
+              "doi": "10.1007/978-1-4612-3946-8_11",
+              "created": "2013-10-11T16:59:14Z",
+              "authors": [
+                "I. J. Schoenberg"
+              ],
+              "journal": "I.J. Schoenberg Selected Papers"
+            },
+            {
+              "title": "Positive Definite Functions on Spheres",
+              "doi": "10.1007/978-1-4612-3948-2_13",
+              "created": "2012-01-20T23:28:13Z",
+              "authors": [
+                "I. J. Schoenberg"
+              ],
+              "journal": "I.J. Schoenberg Selected Papers"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-003-crossref-940bf2b719.json",
+          "raw_file_sha256": "78f7d15ad72b9813d6e9b179398e085926c256f3e20b1b7b1be2a1fc68238671"
+        }
+      ],
+      "github_searches": [
+        {
+          "query": "Li coefficients Laguerre",
+          "api_url": "https://api.github.com/search/repositories?q=Li+coefficients+Laguerre&per_page=5",
+          "http_status": 200,
+          "total_results": 0,
+          "items": [],
+          "raw_file": "evidence/phase2/search/TOPIC-003-github-26083e4fe8.json",
+          "raw_file_sha256": "4af480b8ee5b87b369a76c49bd22c9a783908272ebffbe97898f8ab0f0772a5f"
+        },
+        {
+          "query": "Schoenberg conditionally negative definite Riemann",
+          "api_url": "https://api.github.com/search/repositories?q=Schoenberg+conditionally+negative+definite+Riemann&per_page=5",
+          "http_status": 200,
+          "total_results": 0,
+          "items": [],
+          "raw_file": "evidence/phase2/search/TOPIC-003-github-43861b317f.json",
+          "raw_file_sha256": "4af480b8ee5b87b369a76c49bd22c9a783908272ebffbe97898f8ab0f0772a5f"
+        }
+      ]
+    },
+    "TOPIC-004": {
+      "topic_id": "TOPIC-004",
+      "title": "Airy Saddle Asymptotics, Stationary Phase, and Nonlinear Chirp Kernel",
+      "claims": [
+        "CLM-AIRY-001",
+        "CLM-AIRY-002",
+        "CLM-AIRY-003",
+        "CLM-AIRY-004",
+        "CLM-AIRY-005",
+        "CLM-AIRY-006",
+        "CLM-AIRY-007"
+      ],
+      "dossier_file": "PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md",
+      "arxiv_searches": [
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"Airy saddle\" AND all:\"Laguerre\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Airy+saddle%22+AND+all%3A%22Laguerre%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-004-arxiv-a888b30a1b.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"Mellin chirp\" AND all:\"prime\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Mellin+chirp%22+AND+all%3A%22prime%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-004-arxiv-7113036199.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Mathematical Equivalents",
+          "query": "all:\"Laguerre polynomial\" AND all:\"stationary phase\" AND all:\"asymptotic\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Laguerre+polynomial%22+AND+all%3A%22stationary+phase%22+AND+all%3A%22asymptotic%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-004-arxiv-cb24c7f866.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Operator & Function Theory",
+          "query": "all:\"Cayley transform\" AND all:\"zero mode\" AND all:\"phase matching\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Cayley+transform%22+AND+all%3A%22zero+mode%22+AND+all%3A%22phase+matching%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-004-arxiv-1006dcd453.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Known Ingredient Combinations",
+          "query": "all:\"Arias de Reyna\" AND all:\"Keiper-Li\" AND all:\"asymptotics\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Arias+de+Reyna%22+AND+all%3A%22Keiper-Li%22+AND+all%3A%22asymptotics%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-004-arxiv-5ff4b3a867.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ],
+      "crossref_searches": [
+        {
+          "query": "Arias de Reyna Asymptotics of Keiper-Li coefficients",
+          "api_url": "https://api.crossref.org/works?query=Arias+de+Reyna+Asymptotics+of+Keiper-Li+coefficients&rows=5",
+          "http_status": 200,
+          "total_results": 17422749,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Asymptotics of Keiper-Li coefficients",
+              "doi": "10.7169/facm/1317045228",
+              "created": "2012-01-19T15:28:21Z",
+              "authors": [
+                "Juan Arias de Reyna"
+              ],
+              "journal": "Functiones et Approximatio Commentarii Mathematici"
+            },
+            {
+              "title": "6483",
+              "doi": "10.2307/2323697",
+              "created": "2009-12-17T16:34:36Z",
+              "authors": [
+                "J. Arias de Reyna",
+                "Ole Jorsboe"
+              ],
+              "journal": "The American Mathematical Monthly"
+            },
+            {
+              "title": "Mi huerto escolar",
+              "doi": "10.22533/at.ed.067252403",
+              "created": "2025-04-09T18:05:41Z",
+              "authors": [
+                "Reyna Nirvana Montiel-Rodríguez",
+                "Yadeneyro de la Cruz- Elizondo",
+                "Rosa María Arias-Mota"
+              ],
+              "journal": ""
+            },
+            {
+              "title": "",
+              "doi": "10.46540/3120-00063b",
+              "created": "2025-12-15T23:36:56Z",
+              "authors": [],
+              "journal": ""
+            },
+            {
+              "title": "6483",
+              "doi": "10.2307/2322628",
+              "created": "2006-04-23T17:17:48Z",
+              "authors": [
+                "J. Arias de Reyna"
+              ],
+              "journal": "The American Mathematical Monthly"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-004-crossref-3661de70f0.json",
+          "raw_file_sha256": "41f58e463ca837b57da3cd355bf4427b18278c092e2afaa36bdbf6e04bed08e4"
+        },
+        {
+          "query": "Laguerre polynomial asymptotic saddle point Airy",
+          "api_url": "https://api.crossref.org/works?query=Laguerre+polynomial+asymptotic+saddle+point+Airy&rows=5",
+          "http_status": 200,
+          "total_results": 546637,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Polynomial Asymptotic Estimates of Gegenbauer, Laguerre, and Jacobi Polynomials",
+              "doi": "10.1201/9781003072584-22",
+              "created": "2020-12-12T00:58:29Z",
+              "authors": [
+                "Nico M. Temme"
+              ],
+              "journal": "Asymptotic and Computational Analysis"
+            },
+            {
+              "title": "The saddle-point method",
+              "doi": "10.1017/cbo9780511526121.009",
+              "created": "2009-12-22T16:31:19Z",
+              "authors": [],
+              "journal": "Asymptotic Expansions"
+            },
+            {
+              "title": "Two coalescing saddle points: Airy-type expansions",
+              "doi": "10.1142/9789814612166_0023",
+              "created": "2014-11-18T22:48:21Z",
+              "authors": [],
+              "journal": "Series in Analysis"
+            },
+            {
+              "title": "Asymptotic stability of saddle points under the saddle-point dynamics",
+              "doi": "10.1109/acc.2015.7171030",
+              "created": "2015-07-30T21:26:01Z",
+              "authors": [
+                "Ashish Cherukuri",
+                "Jorge Cortés"
+              ],
+              "journal": "2015 American Control Conference (ACC)"
+            },
+            {
+              "title": "Polynomial Normal Forms for Odes Near a Center-Saddle Equilibrium Point",
+              "doi": "10.2139/ssrn.5043271",
+              "created": "2024-12-03T22:38:25Z",
+              "authors": [
+                "Amdeu Delshams",
+                "Piotr Zgliczynski"
+              ],
+              "journal": ""
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-004-crossref-33f9b2e37e.json",
+          "raw_file_sha256": "ed48fa5d26ee6e1023f2e83df9e8d142ae5d4418c4b4d41bb068f7119d950936"
+        }
+      ],
+      "github_searches": [
+        {
+          "query": "Laguerre Airy saddle",
+          "api_url": "https://api.github.com/search/repositories?q=Laguerre+Airy+saddle&per_page=5",
+          "http_status": 200,
+          "total_results": 0,
+          "items": [],
+          "raw_file": "evidence/phase2/search/TOPIC-004-github-6c6bd90721.json",
+          "raw_file_sha256": "4af480b8ee5b87b369a76c49bd22c9a783908272ebffbe97898f8ab0f0772a5f"
+        },
+        {
+          "query": "Mellin chirp prime kernel",
+          "api_url": "https://api.github.com/search/repositories?q=Mellin+chirp+prime+kernel&per_page=5",
+          "http_status": 200,
+          "total_results": 0,
+          "items": [],
+          "raw_file": "evidence/phase2/search/TOPIC-004-github-dfc0d30933.json",
+          "raw_file_sha256": "4af480b8ee5b87b369a76c49bd22c9a783908272ebffbe97898f8ab0f0772a5f"
+        }
+      ]
+    },
+    "TOPIC-005": {
+      "topic_id": "TOPIC-005",
+      "title": "Analytical Barriers, Rank-One Hessians, and Structural Obstructions",
+      "claims": [
+        "CLM-OBST-001",
+        "CLM-OBST-002",
+        "CLM-OBST-003",
+        "CLM-OBST-004",
+        "CLM-OBST-005",
+        "CLM-OBST-006",
+        "CLM-OBST-007",
+        "CLM-OBST-008",
+        "CLM-OBST-009",
+        "CLM-OBST-010",
+        "CLM-OBST-011",
+        "CLM-OBST-012",
+        "CLM-OBST-013",
+        "CLM-OBST-014",
+        "CLM-OBST-015"
+      ],
+      "dossier_file": "PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+      "arxiv_searches": [
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"rank-one Hessian\" AND all:\"multiplicative convolution\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22rank-one+Hessian%22+AND+all%3A%22multiplicative+convolution%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-005-arxiv-fe35684968.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"Vaughan\" AND all:\"Heath-Brown\" AND all:\"phase cancellation\" AND all:\"Laguerre\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Vaughan%22+AND+all%3A%22Heath-Brown%22+AND+all%3A%22phase+cancellation%22+AND+all%3A%22Laguerre%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-005-arxiv-9cf05bdec0.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"Montgomery-Vaughan\" AND all:\"mean-value\" AND all:\"Dirichlet polynomial\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Montgomery-Vaughan%22+AND+all%3A%22mean-value%22+AND+all%3A%22Dirichlet+polynomial%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-005-arxiv-e91838c74d.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Mathematical Equivalents",
+          "query": "all:\"Type-II sum\" AND all:\"phase separability\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Type-II+sum%22+AND+all%3A%22phase+separability%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-005-arxiv-6cba8ffa0a.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Mathematical Equivalents",
+          "query": "all:\"digamma\" AND all:\"positive-kernel decomposition\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22digamma%22+AND+all%3A%22positive-kernel+decomposition%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-005-arxiv-46fbede907.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Known Ingredient Combinations",
+          "query": "all:\"Suzuki\" AND all:\"screw function\" AND all:\"Weil\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Suzuki%22+AND+all%3A%22screw+function%22+AND+all%3A%22Weil%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-005-arxiv-8837be7a90.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Known Ingredient Combinations",
+          "query": "all:\"Vinogradov-Korobov\" AND all:\"prime sum\" AND all:\"exponential bound\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Vinogradov-Korobov%22+AND+all%3A%22prime+sum%22+AND+all%3A%22exponential+bound%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-005-arxiv-54d8829f73.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ],
+      "crossref_searches": [
+        {
+          "query": "Montgomery Vaughan Hilbert's inequality",
+          "api_url": "https://api.crossref.org/works?query=Montgomery+Vaughan+Hilbert%27s+inequality&rows=5",
+          "http_status": 200,
+          "total_results": 215618,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Hilbert's Inequality",
+              "doi": "10.1112/jlms/s2-8.1.73",
+              "created": "2007-02-13T21:52:41Z",
+              "authors": [
+                "H. L. Montgomery",
+                "R. C. Vaughan"
+              ],
+              "journal": "Journal of the London Mathematical Society"
+            },
+            {
+              "title": "A further generalization of Hilbert's inequality",
+              "doi": "10.1112/s0025579300007543",
+              "created": "2010-03-01T09:32:13Z",
+              "authors": [
+                "Hugh L. Montgomery",
+                "Jeffrey D. Vaaler"
+              ],
+              "journal": "Mathematika"
+            },
+            {
+              "title": "Some Extended Applications of Hardy-Hilbert's Integral Inequality",
+              "doi": "10.4236/9798895073128",
+              "created": "2026-07-23T09:26:26Z",
+              "authors": [
+                "Yang Bicheng"
+              ],
+              "journal": ""
+            },
+            {
+              "title": "On a new inequality similar to Hardy-Hilbert's inequality",
+              "doi": "10.7153/mia-06-04",
+              "created": "2012-03-14T13:38:06Z",
+              "authors": [
+                "Bicheng Yang"
+              ],
+              "journal": "Mathematical Inequalities &amp; Applications"
+            },
+            {
+              "title": "A generalization of Hilbert's inequality",
+              "doi": "10.7153/mia-18-30",
+              "created": "2015-06-18T10:37:50Z",
+              "authors": [
+                "Peng Gao"
+              ],
+              "journal": "Mathematical Inequalities &amp; Applications"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-005-crossref-290e94a35d.json",
+          "raw_file_sha256": "9c5ab0c1cd50f6c069b0018942a3420d81adcad6e8ddcd7bb5a9809b0d4def9d"
+        },
+        {
+          "query": "Heath-Brown Prime numbers in short intervals",
+          "api_url": "https://api.crossref.org/works?query=Heath-Brown+Prime+numbers+in+short+intervals&rows=5",
+          "http_status": 200,
+          "total_results": 1417586,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Prime Numbers in Short Intervals and a Generalized Vaughan Identity",
+              "doi": "10.4153/cjm-1982-095-9",
+              "created": "2010-12-07T23:24:44Z",
+              "authors": [
+                "D. R. Heath-Brown"
+              ],
+              "journal": "Canadian Journal of Mathematics"
+            },
+            {
+              "title": "Square-full numbers in short intervals",
+              "doi": "10.1017/s0305004100070055",
+              "created": "2008-11-07T09:44:37Z",
+              "authors": [
+                "D. R. Heath-Brown"
+              ],
+              "journal": "Mathematical Proceedings of the Cambridge Philosophical Society"
+            },
+            {
+              "title": "Prime numbers in short intervals",
+              "doi": "10.4064/-17-1-419-429",
+              "created": "2017-09-27T15:25:17Z",
+              "authors": [
+                "J. Pintz"
+              ],
+              "journal": "Banach Center Publications"
+            },
+            {
+              "title": "Almost all short intervals containing prime numbers",
+              "doi": "10.4064/aa-76-1-21-84",
+              "created": "2017-09-29T04:56:58Z",
+              "authors": [
+                "Chaohua Jia"
+              ],
+              "journal": "Acta Arithmetica"
+            },
+            {
+              "title": "On prime numbers of special kind on short intervals",
+              "doi": "10.1007/s11006-006-0095-6",
+              "created": "2006-06-14T08:08:12Z",
+              "authors": [
+                "N. N. Mot’kina"
+              ],
+              "journal": "Mathematical Notes"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-005-crossref-317df2e640.json",
+          "raw_file_sha256": "4a832a67f86ae060e988fddf9bf9a5c0571298f3468392bea9e67017b476261a"
+        },
+        {
+          "query": "Suzuki Weil's quadratic form via the screw function",
+          "api_url": "https://api.crossref.org/works?query=Suzuki+Weil%27s+quadratic+form+via+the+screw+function&rows=5",
+          "http_status": 200,
+          "total_results": 2885329,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Weil's Conjecture for Function Fields",
+              "doi": "10.23943/princeton/9780691182148.001.0001",
+              "created": "2019-09-19T05:15:53Z",
+              "authors": [
+                "Dennis Gaitsgory",
+                "Jacob Lurie"
+              ],
+              "journal": ""
+            },
+            {
+              "title": "THE QUADRATIC FUNCTION AND THE QUADRATIC EQUATION",
+              "doi": "10.1016/b978-0-08-009374-1.50010-4",
+              "created": "2014-06-29T23:53:28Z",
+              "authors": [
+                "C. PLUMPTON",
+                "W.A. TOMKYS"
+              ],
+              "journal": "Sixth Form Pure Mathematics"
+            },
+            {
+              "title": "Weil's “Acta” Paper",
+              "doi": "10.1002/9781118032947.ch4",
+              "created": "2011-10-07T20:47:22Z",
+              "authors": [],
+              "journal": "The Fourier‐Analytic Proof of Quadratic Reciprocity"
+            },
+            {
+              "title": "Introduction",
+              "doi": "10.23943/princeton/9780691182148.003.0001",
+              "created": "2019-09-19T09:22:23Z",
+              "authors": [
+                "Dennis Gaitsgory",
+                "Jacob Lurie"
+              ],
+              "journal": "Weil's Conjecture for Function Fields"
+            },
+            {
+              "title": "Bibliography",
+              "doi": "10.2307/j.ctv4v32qc.8",
+              "created": "2019-02-19T16:31:24Z",
+              "authors": [],
+              "journal": "Weil's Conjecture for Function Fields"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-005-crossref-210c0c243d.json",
+          "raw_file_sha256": "00ff1c7f755e920452dac091e3ec32ed682674f31a830498b670086a6d6b3639"
+        }
+      ],
+      "github_searches": [
+        {
+          "query": "Vaughan Heath-Brown bilinear phase",
+          "api_url": "https://api.github.com/search/repositories?q=Vaughan+Heath-Brown+bilinear+phase&per_page=5",
+          "http_status": 200,
+          "total_results": 0,
+          "items": [],
+          "raw_file": "evidence/phase2/search/TOPIC-005-github-d3e96f023e.json",
+          "raw_file_sha256": "4af480b8ee5b87b369a76c49bd22c9a783908272ebffbe97898f8ab0f0772a5f"
+        },
+        {
+          "query": "Suzuki screw function Weil",
+          "api_url": "https://api.github.com/search/repositories?q=Suzuki+screw+function+Weil&per_page=5",
+          "http_status": 200,
+          "total_results": 1,
+          "items": [
+            {
+              "full_name": "genezo13/suzuki-screw-function-boundaries",
+              "html_url": "https://github.com/genezo13/suzuki-screw-function-boundaries",
+              "description": "Reproducible calibration of the Weil-Suzuki identity, exact screw-function implementation, and audited RH research boundaries."
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-005-github-5776d3329b.json",
+          "raw_file_sha256": "defa19398c7d38d5de4bbb45bd9cc14e60a3ff3d3e891b98f29607aa2df9c3b8"
+        }
+      ]
+    },
+    "TOPIC-006": {
+      "topic_id": "TOPIC-006",
+      "title": "Zero-Floating-Point Verification Architecture and Formal Soundness",
+      "claims": [
+        "CLM-VERF-001",
+        "CLM-VERF-002",
+        "CLM-VERF-003",
+        "CLM-VERF-004",
+        "CLM-VERF-005",
+        "CLM-VERF-006",
+        "CLM-VERF-007"
+      ],
+      "dossier_file": "PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
+      "arxiv_searches": [
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"zero-floating-point\" AND all:\"verifier\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22zero-floating-point%22+AND+all%3A%22verifier%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-006-arxiv-7ea9a18532.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Exact Terminology",
+          "query": "all:\"Lean 4\" AND all:\"Weil positivity\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Lean+4%22+AND+all%3A%22Weil+positivity%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-006-arxiv-908685a263.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Mathematical Equivalents",
+          "query": "all:\"exact rational certificate\" AND all:\"interval arithmetic\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22exact+rational+certificate%22+AND+all%3A%22interval+arithmetic%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-006-arxiv-45aa917157.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Mathematical Equivalents",
+          "query": "all:\"LDL decomposition\" AND all:\"Gershgorin\" AND all:\"formal verification\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22LDL+decomposition%22+AND+all%3A%22Gershgorin%22+AND+all%3A%22formal+verification%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-006-arxiv-b6cbf49816.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Operator & Function Theory",
+          "query": "all:\"computer-assisted proof\" AND all:\"spectral enclosure\" AND all:\"Mathlib\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22computer-assisted+proof%22+AND+all%3A%22spectral+enclosure%22+AND+all%3A%22Mathlib%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-006-arxiv-0c5b3567e4.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "family": "Known Ingredient Combinations",
+          "query": "all:\"Arb\" AND all:\"ball arithmetic\" AND all:\"certified Cholesky\"",
+          "api_url": "https://export.arxiv.org/api/query?search_query=all%3A%22Arb%22+AND+all%3A%22ball+arithmetic%22+AND+all%3A%22certified+Cholesky%22&start=0&max_results=10&sortBy=relevance&sortOrder=descending",
+          "http_status": 406,
+          "total_results": 0,
+          "shortlisted_count": 1,
+          "entries": [
+            {
+              "error": "no element found: line 1, column 0"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-006-arxiv-03a14c00af.xml",
+          "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ],
+      "crossref_searches": [
+        {
+          "query": "Johansson Arb arbitrary precision ball arithmetic",
+          "api_url": "https://api.crossref.org/works?query=Johansson+Arb+arbitrary+precision+ball+arithmetic&rows=5",
+          "http_status": 200,
+          "total_results": 498689,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Arb: Efficient Arbitrary-Precision Midpoint-Radius Interval Arithmetic",
+              "doi": "10.1109/tc.2017.2690633",
+              "created": "2017-04-04T22:41:38Z",
+              "authors": [
+                "Fredrik Johansson"
+              ],
+              "journal": "IEEE Transactions on Computers"
+            },
+            {
+              "title": "Faster Arbitrary-Precision Dot Product and Matrix Multiplication",
+              "doi": "10.1109/arith.2019.00012",
+              "created": "2019-10-21T23:56:55Z",
+              "authors": [
+                "Fredrik Johansson"
+              ],
+              "journal": "2019 IEEE 26th Symposium on Computer Arithmetic (ARITH)"
+            },
+            {
+              "title": "Arb",
+              "doi": "10.1145/2576802.2576828",
+              "created": "2014-02-04T14:16:21Z",
+              "authors": [
+                "Fredrik Johansson"
+              ],
+              "journal": "ACM Communications in Computer Algebra"
+            },
+            {
+              "title": "Numerical Integration in Arbitrary-Precision Ball Arithmetic",
+              "doi": "10.1007/978-3-319-96418-8_30",
+              "created": "2018-07-13T06:57:13Z",
+              "authors": [
+                "Fredrik Johansson"
+              ],
+              "journal": "Lecture Notes in Computer Science"
+            },
+            {
+              "title": "Computing the Lambert W function in arbitrary-precision complex interval arithmetic",
+              "doi": "10.1007/s11075-019-00678-x",
+              "created": "2019-02-18T12:47:06Z",
+              "authors": [
+                "Fredrik Johansson"
+              ],
+              "journal": "Numerical Algorithms"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-006-crossref-138f8912b2.json",
+          "raw_file_sha256": "0209e6f92efb6eb9f5cc25124800a823df0b2f473c23878bdedf71e393593fd3"
+        },
+        {
+          "query": "Rump Verification methods rigorous results using floating-point arithmetic",
+          "api_url": "https://api.crossref.org/works?query=Rump+Verification+methods+rigorous+results+using+floating-point+arithmetic&rows=5",
+          "http_status": 200,
+          "total_results": 8453381,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Verification methods: Rigorous results using floating-point arithmetic",
+              "doi": "10.1017/s096249291000005x",
+              "created": "2010-05-10T06:29:05Z",
+              "authors": [
+                "Siegfried M. Rump"
+              ],
+              "journal": "Acta Numerica"
+            },
+            {
+              "title": "Verification methods",
+              "doi": "10.1145/1837934.1837937",
+              "created": "2010-07-27T14:10:11Z",
+              "authors": [
+                "Siegfried M. Rump"
+              ],
+              "journal": "Proceedings of the 2010 International Symposium on Symbolic and Algebraic Computation"
+            },
+            {
+              "title": "Mathematically rigorous global optimization in floating-point arithmetic",
+              "doi": "10.1080/10556788.2018.1435649",
+              "created": "2018-03-02T10:20:34Z",
+              "authors": [
+                "Siegfried M. Rump"
+              ],
+              "journal": "Optimization Methods and Software"
+            },
+            {
+              "title": "Accurate and Reliable Computing in Floating-Point Arithmetic",
+              "doi": "10.1007/978-3-642-15582-6_22",
+              "created": "2010-09-10T09:15:44Z",
+              "authors": [
+                "Siegfried M. Rump"
+              ],
+              "journal": "Lecture Notes in Computer Science"
+            },
+            {
+              "title": "Efficient Secure Floating-point Arithmetic using Shamir Secret Sharing",
+              "doi": "10.5220/0007834100490060",
+              "created": "2019-08-14T07:09:18Z",
+              "authors": [
+                "Octavian Catrina"
+              ],
+              "journal": "Proceedings of the 16th International Joint Conference on e-Business and Telecommunications"
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-006-crossref-8f5c50b151.json",
+          "raw_file_sha256": "e21fbfe126bf1cf5331661e8b388b820d538936d5baf66154dfa1f5d4d55098e"
+        },
+        {
+          "query": "Lean 4 formal mathematics Mathlib",
+          "api_url": "https://api.crossref.org/works?query=Lean+4+formal+mathematics+Mathlib&rows=5",
+          "http_status": 200,
+          "total_results": 1323804,
+          "shortlisted_count": 5,
+          "items": [
+            {
+              "title": "Formalization of derived categories in Lean/mathlib",
+              "doi": "10.46298/afm.13609",
+              "created": "2025-07-15T14:50:16Z",
+              "authors": [
+                "Joël Riou"
+              ],
+              "journal": "Annals of Formalized Mathematics"
+            },
+            {
+              "title": "The lean mathematical library",
+              "doi": "10.1145/3372885.3373824",
+              "created": "2020-01-22T13:09:33Z",
+              "authors": [
+                "The mathlib Community"
+              ],
+              "journal": "Proceedings of the 9th ACM SIGPLAN International Conference on Certified Programs and Proofs"
+            },
+            {
+              "title": "mathlib: A Scala package for readable, verifiable and\nsustainable simulations of formal theory",
+              "doi": "10.21105/joss.06049",
+              "created": "2024-07-25T15:11:57Z",
+              "authors": [
+                "Mark Blokpoel"
+              ],
+              "journal": "Journal of Open Source Software"
+            },
+            {
+              "title": "Formal verification of the Euler Sieve via Lean",
+              "doi": "10.5195/pimr.2025.58",
+              "created": "2025-07-10T16:36:22Z",
+              "authors": [
+                "Isaac (Rucheng) Li"
+              ],
+              "journal": "Pittsburgh Interdisciplinary Mathematics Review"
+            },
+            {
+              "title": "K-Lean: Machine-Verified Formal Proofs\nfor Computational Biology",
+              "doi": "10.21203/rs.3.rs-10086537/v1",
+              "created": "2026-06-21T12:57:38Z",
+              "authors": [
+                "Heime Jorgen"
+              ],
+              "journal": ""
+            }
+          ],
+          "raw_file": "evidence/phase2/search/TOPIC-006-crossref-1fdb3c0f8e.json",
+          "raw_file_sha256": "24237d85531a34562f332c53e5cf8dc2a8a969911edbed0cf09b62015a2d97c8"
+        }
+      ],
+      "github_searches": [
+        {
+          "query": "rh_cert Weil positivity",
+          "api_url": "https://api.github.com/search/repositories?q=rh_cert+Weil+positivity&per_page=5",
+          "http_status": 200,
+          "total_results": 0,
+          "items": [],
+          "raw_file": "evidence/phase2/search/TOPIC-006-github-dd743188d1.json",
+          "raw_file_sha256": "4af480b8ee5b87b369a76c49bd22c9a783908272ebffbe97898f8ab0f0772a5f"
+        },
+        {
+          "query": "Lean 4 Weil explicit formula",
+          "api_url": "https://api.github.com/search/repositories?q=Lean+4+Weil+explicit+formula&per_page=5",
+          "http_status": 200,
+          "total_results": 0,
+          "items": [],
+          "raw_file": "evidence/phase2/search/TOPIC-006-github-7c1b17f5d2.json",
+          "raw_file_sha256": "4af480b8ee5b87b369a76c49bd22c9a783908272ebffbe97898f8ab0f0772a5f"
+        }
+      ]
+    }
+  }
+}
