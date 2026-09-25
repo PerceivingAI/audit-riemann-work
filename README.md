@@ -4,7 +4,7 @@ An independent, multi-pass audit of the mathematical, methodological, verificati
 
 ## Current status
 
-**Pass 4 Phase 0 technical gates passed: historical integrity and audit tooling.** Phases 1 through 6 have not been executed. Pass 4 examines whether the audit's classifications have sufficient evidence; earlier reports are records to inspect, not authorities.
+**Pass 4 Phase 1 technical gates passed: comparator histories and primary-source reconstruction.** Phases 2 through 6 have not been executed. Pass 4 examines whether the audit's classifications have sufficient evidence; earlier reports are records to inspect, not authorities.
 
 - [FOURTH_AUDIT.md](FOURTH_AUDIT.md) is the preserved execution-plan authority. Its originating commit is `c2a305a60f8eb1819a685896196dfb880d0325c0`; the preservation manifest records its exact bytes.
 - [AUDIT_PASS_4.md](AUDIT_PASS_4.md) remains the initial plan document, not a completed report. Final Pass 4 report publication is reserved for synthesis.
@@ -12,6 +12,7 @@ An independent, multi-pass audit of the mathematical, methodological, verificati
 - [EVIDENCE_COVERAGE.md](EVIDENCE_COVERAGE.md) records current evidence and remaining obligations for every candidate.
 - [Candidate mapping review](evidence/phase0/PASS4-CANDIDATE-MAPPING.md) records source locations, semantic mapping findings, and missing historical dossier references.
 - [Phase 0 report](reports/interim/PASS_4_PHASE_0_REPORT.md) records restorations, mapping findings, exercised validation, and remaining evidence obligations.
+- [Phase 1 report](reports/interim/PASS_4_PHASE_1_REPORT.md) records commit-level comparator history, primary arXiv paper reconstruction, and prior-art collision analysis.
 
 No new mathematical, novelty, formal-soundness, or priority verdict is claimed by Phase 0. Located source assertions are not independent verification. The audit must not describe localized positivity or certificate acceptance as a proof of RH.
 

@@ -1,0 +1,209 @@
+{
+  "key": "suzuki-abs",
+  "url": "https://arxiv.org/abs/2606.09096",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Pass4PrimaryEvidence/1.0",
+    "Accept-Encoding": "identity"
+  },
+  "started_utc": "2026-09-25T04:09:13.780136+00:00",
+  "hash_domain": "exact bytes returned by urllib response.read; no text or line-ending normalization",
+  "body_redistributed": false,
+  "status": 200,
+  "final_url": "https://arxiv.org/abs/2606.09096",
+  "response_headers": {
+    "Connection": "close",
+    "Content-Length": "41612",
+    "last-modified": "Thu, 24 Sep 2026 01:15:26 GMT",
+    "cache-control": "max-age=3600",
+    "content-type": "text/html; charset=utf-8",
+    "content-security-policy": "frame-ancestors 'none'",
+    "x-cloud-trace-context": "0bf673af2d8f1fca297098db44192f2f",
+    "server": "Google Frontend",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "x-frame-options": "SAMEORIGIN",
+    "Accept-Ranges": "bytes",
+    "Date": "Fri, 25 Sep 2026 04:09:09 GMT",
+    "Age": "93648",
+    "X-Served-By": "cache-lga-kjfk8660070-LGA, cache-lga-kjfk8660070-LGA, cache-lga-kjfk8660065-LGA, cache-lim-spjc1280052-LIM",
+    "X-Cache": "MISS, HIT, HIT",
+    "X-Timer": "S1790309349.308925,VS0,VE2"
+  },
+  "body_cache_path": ".audit-cache/phase1/chuk/suzuki-abs.body",
+  "byte_count": 41612,
+  "raw_file_sha256": "a26610f1d2a31195e36a17ca5639799b51bb0a182da388f01e2df951fd64b392",
+  "stored_hash_recheck_matches": true,
+  "citation_metadata": [
+    {
+      "name": "citation_title",
+      "content": "Weil's quadratic form via the screw function"
+    },
+    {
+      "name": "citation_author",
+      "content": "Suzuki, Masatoshi"
+    },
+    {
+      "name": "citation_date",
+      "content": "2026/06/08"
+    },
+    {
+      "name": "citation_online_date",
+      "content": "2026/09/23"
+    },
+    {
+      "name": "citation_pdf_url",
+      "content": "https://arxiv.org/pdf/2606.09096"
+    },
+    {
+      "name": "citation_arxiv_id",
+      "content": "2606.09096"
+    }
+  ],
+  "external_links": [
+    {
+      "href": "https://arxiv.org/IgnoreMe"
+    },
+    {
+      "href": "https://arxiv.org/"
+    },
+    {
+      "href": "https://arxiv.org/search"
+    },
+    {
+      "href": "https://arxiv.org/user/create"
+    },
+    {
+      "href": "https://info.arxiv.org/about/donate.html"
+    },
+    {
+      "href": "https://arxiv.org/login"
+    },
+    {
+      "href": "https://arxiv.org/search/advanced"
+    },
+    {
+      "href": "https://arxiv.org/abs/2606.09096v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Suzuki,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2606.09096v3"
+    },
+    {
+      "href": "https://arxiv.org/abs/2606.09096"
+    },
+    {
+      "href": "https://arxiv.org/abs/2606.09096v3"
+    },
+    {
+      "href": "https://doi.org/10.48550/arXiv.2606.09096"
+    },
+    {
+      "href": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+    },
+    {
+      "href": "https://ui.adsabs.harvard.edu/abs/arXiv:2606.09096"
+    },
+    {
+      "href": "https://scholar.google.com/scholar_lookup?arxiv_id=2606.09096"
+    },
+    {
+      "href": "https://api.semanticscholar.org/arXiv:2606.09096"
+    },
+    {
+      "href": "http://www.bibsonomy.org/BibtexHandler?requTask=upload&url=https://arxiv.org/abs/2606.09096&description=Weil's quadratic form via the screw function"
+    },
+    {
+      "href": "https://reddit.com/submit?url=https://arxiv.org/abs/2606.09096&title=Weil's quadratic form via the screw function"
+    },
+    {
+      "href": "https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer"
+    },
+    {
+      "href": "https://www.connectedpapers.com/about"
+    },
+    {
+      "href": "https://www.litmaps.co/"
+    },
+    {
+      "href": "https://www.scite.ai/"
+    },
+    {
+      "href": "https://alphaxiv.org/"
+    },
+    {
+      "href": "https://www.catalyzex.com"
+    },
+    {
+      "href": "https://dagshub.com/"
+    },
+    {
+      "href": "http://gotit.pub/faq"
+    },
+    {
+      "href": "https://huggingface.co/huggingface"
+    },
+    {
+      "href": "https://sciencecast.org/welcome"
+    },
+    {
+      "href": "https://replicate.com/docs/arxiv/about"
+    },
+    {
+      "href": "https://huggingface.co/docs/hub/spaces"
+    },
+    {
+      "href": "https://txyz.ai"
+    },
+    {
+      "href": "https://influencemap.cmlab.dev/"
+    },
+    {
+      "href": "https://core.ac.uk/services/recommender"
+    },
+    {
+      "href": "https://info.arxiv.org/labs/index.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/mathjax.html"
+    },
+    {
+      "href": "https://info.arxiv.org/about/ourmembers.html"
+    },
+    {
+      "href": "https://info.arxiv.org/about"
+    },
+    {
+      "href": "https://info.arxiv.org/help"
+    },
+    {
+      "href": "https://info.arxiv.org/help/contact.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/subscribe"
+    },
+    {
+      "href": "https://info.arxiv.org/help/license/index.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/policies/privacy_policy.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/web_accessibility.html"
+    },
+    {
+      "href": "https://status.arxiv.org"
+    },
+    {
+      "href": "https://www.simonsfoundation.org/"
+    },
+    {
+      "href": "https://www.sfi.org.bm/"
+    },
+    {
+      "href": "https://www.schmidtsciences.org/"
+    }
+  ],
+  "finished_utc": "2026-09-25T04:09:13.981627+00:00"
+}

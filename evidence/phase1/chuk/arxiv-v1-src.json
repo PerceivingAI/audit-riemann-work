@@ -1,0 +1,37 @@
+{
+  "key": "arxiv-v1-src",
+  "url": "https://arxiv.org/src/2608.24827v1",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Pass4PrimaryEvidence/1.0",
+    "Accept-Encoding": "identity"
+  },
+  "started_utc": "2026-09-25T04:07:32.699251+00:00",
+  "hash_domain": "exact bytes returned by urllib response.read; no text or line-ending normalization",
+  "body_redistributed": false,
+  "status": 200,
+  "final_url": "https://arxiv.org/src/2608.24827v1",
+  "response_headers": {
+    "Connection": "close",
+    "Content-Length": "236272",
+    "server": "Google Frontend",
+    "content-type": "application/gzip",
+    "etag": "CLD/zdqh0ZYDEAE=",
+    "access-control-allow-origin": "*",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "x-cloud-trace-context": "bbb7f463664be920f6cabaa80173c174",
+    "last-modified": "Thu, 03 Sep 2026 01:31:10 GMT",
+    "content-disposition": "attachment; filename=\"arXiv-2608.24827v1.tar.gz\"",
+    "Accept-Ranges": "bytes",
+    "Age": "426010",
+    "Date": "Fri, 25 Sep 2026 04:07:28 GMT",
+    "X-Served-By": "cache-lga-kjfk8660051-LGA, cache-lga-kjfk8660051-LGA, cache-lga-kjfk8660047-LGA, cache-lim-spjc1280038-LIM",
+    "X-Cache": "MISS, HIT, MISS",
+    "X-Timer": "S1790309248.165028,VS0,VE93"
+  },
+  "body_cache_path": ".audit-cache/phase1/chuk/arxiv-v1-src.body",
+  "byte_count": 236272,
+  "raw_file_sha256": "03163633e7600e7d77d03de1ffce043a50127af9ac69c60796feec9d47201a78",
+  "stored_hash_recheck_matches": true,
+  "finished_utc": "2026-09-25T04:07:32.918975+00:00"
+}

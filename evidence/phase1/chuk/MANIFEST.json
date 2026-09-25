@@ -1,0 +1,179 @@
+{
+  "manifest_version": 1,
+  "started_at": "2026-09-25T04:15:27.502223+00:00",
+  "completed_at": "2026-09-25T04:15:29.040217+00:00",
+  "primary_papers": [
+    {
+      "id": "LIT-2026-CHUK-ZHU",
+      "arxiv_id": "2608.24827",
+      "v1_title": "Weil positivity in compact windows: certified two-sided bounds and a Landau-Widom decay law",
+      "v1_authors": [
+        "Marcus Chuk"
+      ],
+      "v1_submission_utc": "2026-08-25T17:07:51Z",
+      "v2_title": "Weil positivity in compact windows: a finite reduction, certified two-sided bounds, and a Landau-Widom decay law",
+      "v2_authors": [
+        "Xuefeng Zhu"
+      ],
+      "v2_submission_utc": "2026-09-02T17:32:21Z",
+      "doi": "10.48550/arXiv.2608.24827",
+      "license": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+    },
+    {
+      "id": "LIT-2026-SUZUKI-SCREW",
+      "arxiv_id": "2606.09096",
+      "title": "Weil's quadratic form via the screw function",
+      "authors": [
+        "Masatoshi Suzuki"
+      ],
+      "v1_submission_utc": "2026-06-12T10:48:47Z",
+      "v2_submission_utc": "2026-06-25T03:52:12Z",
+      "doi": "10.48550/arXiv.2606.09096"
+    },
+    {
+      "id": "LIT-2026-GROSKIN-FINITE",
+      "arxiv_id": "2607.02828",
+      "title": "A finite Guinand-Weil dictionary and archimedean tail order for the truncated Weil quadratic form",
+      "authors": [
+        "Alain Groskin"
+      ],
+      "v1_submission_utc": "2026-07-03T18:24:19Z",
+      "doi": "10.48550/arXiv.2607.02828"
+    },
+    {
+      "id": "LIT-2025-CCM-SPECTRAL",
+      "arxiv_id": "2511.22755",
+      "title": "Zeta Spectral Triples",
+      "authors": [
+        "Alain Connes",
+        "Caterina Consani",
+        "Henri Moscovici"
+      ],
+      "v1_submission_utc": "2025-11-27T21:01:11Z",
+      "doi": "10.48550/arXiv.2511.22755"
+    },
+    {
+      "id": "LIT-2020-CC-ARCHIMEDEAN",
+      "arxiv_id": "2006.13771",
+      "title": "Weil positivity and Trace formula, the archimedean place",
+      "authors": [
+        "Alain Connes",
+        "Caterina Consani"
+      ],
+      "v1_submission_utc": "2020-06-24T15:22:18Z",
+      "doi": "10.48550/arXiv.2006.13771"
+    }
+  ],
+  "records": [
+    {
+      "url": "https://arxiv.org/abs/2608.24827",
+      "final_url": "https://arxiv.org/abs/2608.24827",
+      "retrieved_at_start": "2026-09-25T04:15:27.502238+00:00",
+      "retrieved_at_end": "2026-09-25T04:15:27.624082+00:00",
+      "http_status": 200,
+      "size_bytes": 43904,
+      "raw_file_sha256": "f221a0995f3d290ce02feabcf379b2da0009adf2026f5313c4d43b9d4f06bf39",
+      "stored_path": "evidence/phase1/chuk/arxiv-2608.24827-abs.html",
+      "cache_only": false
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24827v1",
+      "final_url": "https://arxiv.org/abs/2608.24827v1",
+      "retrieved_at_start": "2026-09-25T04:15:27.624267+00:00",
+      "retrieved_at_end": "2026-09-25T04:15:27.694234+00:00",
+      "http_status": 200,
+      "size_bytes": 41614,
+      "raw_file_sha256": "6c0a8cfd01d70a9d1d448795a3a6dafabf7aa0b408e81c9e2ac3989982424d5d",
+      "stored_path": "evidence/phase1/chuk/arxiv-2608.24827v1-abs.html",
+      "cache_only": false
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.24827v2",
+      "final_url": "https://arxiv.org/abs/2608.24827v2",
+      "retrieved_at_start": "2026-09-25T04:15:27.694389+00:00",
+      "retrieved_at_end": "2026-09-25T04:15:27.761151+00:00",
+      "http_status": 200,
+      "size_bytes": 43916,
+      "raw_file_sha256": "0318ebf041d9560d19387ff56a6924e4cf887b935ebf4435b8d5c5d3b759528e",
+      "stored_path": "evidence/phase1/chuk/arxiv-2608.24827v2-abs.html",
+      "cache_only": false
+    },
+    {
+      "url": "https://arxiv.org/html/2608.24827v2",
+      "final_url": "https://arxiv.org/html/2608.24827v2",
+      "retrieved_at_start": "2026-09-25T04:15:27.761303+00:00",
+      "retrieved_at_end": "2026-09-25T04:15:27.907729+00:00",
+      "http_status": 200,
+      "size_bytes": 900954,
+      "raw_file_sha256": "ef13ab65f56eed7cbccbf010b15e0b61552a8b283efec98bfb4b625eac174c25",
+      "stored_path": ".audit-cache/phase1/chuk/arxiv-2608.24827v2-full.html",
+      "cache_only": true
+    },
+    {
+      "url": "https://arxiv.org/e-print/2608.24827v2",
+      "final_url": "https://arxiv.org/src/2608.24827v2",
+      "retrieved_at_start": "2026-09-25T04:15:27.908414+00:00",
+      "retrieved_at_end": "2026-09-25T04:15:28.063579+00:00",
+      "http_status": 200,
+      "size_bytes": 470846,
+      "raw_file_sha256": "1afc4e867bc69cabf5128db8b70187af61804e55bd773a16cdf16d17c4284c73",
+      "stored_path": ".audit-cache/phase1/chuk/arxiv-2608.24827v2-source.tar.gz",
+      "cache_only": true
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.09096",
+      "final_url": "https://arxiv.org/abs/2606.09096",
+      "retrieved_at_start": "2026-09-25T04:15:28.064144+00:00",
+      "retrieved_at_end": "2026-09-25T04:15:28.130601+00:00",
+      "http_status": 200,
+      "size_bytes": 41612,
+      "raw_file_sha256": "a26610f1d2a31195e36a17ca5639799b51bb0a182da388f01e2df951fd64b392",
+      "stored_path": "evidence/phase1/chuk/arxiv-2606.09096-abs.html",
+      "cache_only": false
+    },
+    {
+      "url": "https://arxiv.org/html/2606.09096v2",
+      "final_url": "https://arxiv.org/html/2606.09096v2",
+      "retrieved_at_start": "2026-09-25T04:15:28.130865+00:00",
+      "retrieved_at_end": "2026-09-25T04:15:28.837312+00:00",
+      "http_status": 200,
+      "size_bytes": 1119944,
+      "raw_file_sha256": "d3eb49e0a945d977c3c77913218963df0686e40246c1d6bdab378daeecc5f8be",
+      "stored_path": ".audit-cache/phase1/chuk/arxiv-2606.09096v2-full.html",
+      "cache_only": true
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.02828",
+      "final_url": "https://arxiv.org/abs/2607.02828",
+      "retrieved_at_start": "2026-09-25T04:15:28.838090+00:00",
+      "retrieved_at_end": "2026-09-25T04:15:28.903440+00:00",
+      "http_status": 200,
+      "size_bytes": 50327,
+      "raw_file_sha256": "157eef84bd4520cd234382ba24748f0da0cabce1d862f7c90716c5dd38a13c79",
+      "stored_path": "evidence/phase1/chuk/arxiv-2607.02828-abs.html",
+      "cache_only": false
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.22755",
+      "final_url": "https://arxiv.org/abs/2511.22755",
+      "retrieved_at_start": "2026-09-25T04:15:28.903592+00:00",
+      "retrieved_at_end": "2026-09-25T04:15:28.977909+00:00",
+      "http_status": 200,
+      "size_bytes": 42177,
+      "raw_file_sha256": "7500c6eb39cad5e84452ce87d4ed8b1e5be7f2a84ff8118461becde1b199501b",
+      "stored_path": "evidence/phase1/chuk/arxiv-2511.22755-abs.html",
+      "cache_only": false
+    },
+    {
+      "url": "https://arxiv.org/abs/2006.13771",
+      "final_url": "https://arxiv.org/abs/2006.13771",
+      "retrieved_at_start": "2026-09-25T04:15:28.978049+00:00",
+      "retrieved_at_end": "2026-09-25T04:15:29.040067+00:00",
+      "http_status": 200,
+      "size_bytes": 40648,
+      "raw_file_sha256": "4891ef961b35df1e11056b07ce3d0bbe77158d2fce56b0aed4f8bcb689b9b8e1",
+      "stored_path": "evidence/phase1/chuk/arxiv-2006.13771-abs.html",
+      "cache_only": false
+    }
+  ]
+}

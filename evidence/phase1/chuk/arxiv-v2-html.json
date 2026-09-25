@@ -1,0 +1,97 @@
+{
+  "key": "arxiv-v2-html",
+  "url": "https://arxiv.org/html/2608.24827v2",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Pass4PrimaryEvidence/1.0",
+    "Accept-Encoding": "identity"
+  },
+  "started_utc": "2026-09-25T04:07:32.297183+00:00",
+  "hash_domain": "exact bytes returned by urllib response.read; no text or line-ending normalization",
+  "body_redistributed": false,
+  "status": 200,
+  "final_url": "https://arxiv.org/html/2608.24827v2",
+  "response_headers": {
+    "Connection": "close",
+    "Content-Length": "900954",
+    "etag": "\"CLGHu8Kd0ZYDEAE=\"",
+    "server": "Google Frontend",
+    "link": "<https://arxiv.org/html/2608.24827>; rel='canonical'",
+    "last-modified": "Thu, 03 Sep 2026 01:12:26 GMT",
+    "access-control-allow-origin": "*",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "x-robots-tag": "nofollow",
+    "content-type": "text/html; charset=utf-8",
+    "Accept-Ranges": "bytes",
+    "Age": "220643",
+    "Date": "Fri, 25 Sep 2026 04:07:27 GMT",
+    "X-Served-By": "cache-lga-kjfk8660027-LGA, cache-lga-kjfk8660027-LGA, cache-lga-kjfk8660046-LGA, cache-lim-spjc1280038-LIM",
+    "X-Cache": "MISS, HIT, HIT",
+    "X-Timer": "S1790309248.745401,VS0,VE2"
+  },
+  "body_cache_path": ".audit-cache/phase1/chuk/arxiv-v2-html.body",
+  "byte_count": 900954,
+  "raw_file_sha256": "ef13ab65f56eed7cbccbf010b15e0b61552a8b283efec98bfb4b625eac174c25",
+  "stored_hash_recheck_matches": true,
+  "citation_metadata": [],
+  "external_links": [
+    {
+      "href": "https://info.arxiv.org/about"
+    },
+    {
+      "href": "https://info.arxiv.org/about/accessible_HTML.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/license/index.html#licenses-available"
+    },
+    {
+      "href": "https://mpmath.org"
+    },
+    {
+      "href": "https://math.nist.gov/~BMiller/LaTeXML/"
+    },
+    {
+      "href": "https://github.com/arXiv/html_feedback/issues"
+    },
+    {
+      "href": "https://github.com/brucemiller/LaTeXML/wiki/Porting-LaTeX-packages-for-LaTeXML"
+    },
+    {
+      "href": "https://github.com/brucemiller/LaTeXML/issues"
+    },
+    {
+      "href": "https://info.arxiv.org/about/ourmembers.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help"
+    },
+    {
+      "href": "https://info.arxiv.org/help/contact.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/subscribe"
+    },
+    {
+      "href": "https://info.arxiv.org/help/license/index.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/policies/privacy_policy.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/web_accessibility.html"
+    },
+    {
+      "href": "https://status.arxiv.org"
+    },
+    {
+      "href": "https://www.simonsfoundation.org/"
+    },
+    {
+      "href": "https://www.sfi.org.bm/"
+    },
+    {
+      "href": "https://www.schmidtsciences.org/"
+    }
+  ],
+  "finished_utc": "2026-09-25T04:07:32.697875+00:00"
+}

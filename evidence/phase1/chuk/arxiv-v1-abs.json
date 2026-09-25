@@ -1,0 +1,209 @@
+{
+  "key": "arxiv-v1-abs",
+  "url": "https://arxiv.org/abs/2608.24827v1",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Pass4PrimaryEvidence/1.0",
+    "Accept-Encoding": "identity"
+  },
+  "started_utc": "2026-09-25T04:07:28.490449+00:00",
+  "hash_domain": "exact bytes returned by urllib response.read; no text or line-ending normalization",
+  "body_redistributed": false,
+  "status": 200,
+  "final_url": "https://arxiv.org/abs/2608.24827v1",
+  "response_headers": {
+    "Connection": "close",
+    "Content-Length": "41614",
+    "content-type": "text/html; charset=utf-8",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "x-frame-options": "SAMEORIGIN",
+    "x-cloud-trace-context": "f0ad609c58333ace0f588504b26bead3",
+    "content-security-policy": "frame-ancestors 'none'",
+    "cache-control": "max-age=3600",
+    "server": "Google Frontend",
+    "last-modified": "Wed, 26 Aug 2026 01:14:21 GMT",
+    "Accept-Ranges": "bytes",
+    "Age": "537437",
+    "Date": "Fri, 25 Sep 2026 04:07:23 GMT",
+    "X-Served-By": "cache-lga-kjfk8660067-LGA, cache-lga-kjfk8660067-LGA, cache-lga-kjfk8660055-LGA, cache-lim-spjc1280049-LIM",
+    "X-Cache": "MISS, HIT, HIT",
+    "X-Timer": "S1790309244.996535,VS0,VE1"
+  },
+  "body_cache_path": ".audit-cache/phase1/chuk/arxiv-v1-abs.body",
+  "byte_count": 41614,
+  "raw_file_sha256": "6c0a8cfd01d70a9d1d448795a3a6dafabf7aa0b408e81c9e2ac3989982424d5d",
+  "stored_hash_recheck_matches": true,
+  "citation_metadata": [
+    {
+      "name": "citation_title",
+      "content": "Weil positivity in compact windows: certified two-sided bounds and a Landau--Widom decay law"
+    },
+    {
+      "name": "citation_author",
+      "content": "Chuk, Marcus"
+    },
+    {
+      "name": "citation_date",
+      "content": "2026/08/25"
+    },
+    {
+      "name": "citation_online_date",
+      "content": "2026/08/25"
+    },
+    {
+      "name": "citation_pdf_url",
+      "content": "https://arxiv.org/pdf/2608.24827"
+    },
+    {
+      "name": "citation_arxiv_id",
+      "content": "2608.24827"
+    }
+  ],
+  "external_links": [
+    {
+      "href": "https://arxiv.org/IgnoreMe"
+    },
+    {
+      "href": "https://arxiv.org/"
+    },
+    {
+      "href": "https://arxiv.org/search"
+    },
+    {
+      "href": "https://arxiv.org/user/create"
+    },
+    {
+      "href": "https://info.arxiv.org/about/donate.html"
+    },
+    {
+      "href": "https://arxiv.org/login"
+    },
+    {
+      "href": "https://arxiv.org/search/advanced"
+    },
+    {
+      "href": "https://arxiv.org/abs/2608.24827v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chuk,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24827v1"
+    },
+    {
+      "href": "https://arxiv.org/abs/2608.24827"
+    },
+    {
+      "href": "https://arxiv.org/abs/2608.24827v1"
+    },
+    {
+      "href": "https://doi.org/10.48550/arXiv.2608.24827"
+    },
+    {
+      "href": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+    },
+    {
+      "href": "https://ui.adsabs.harvard.edu/abs/arXiv:2608.24827"
+    },
+    {
+      "href": "https://scholar.google.com/scholar_lookup?arxiv_id=2608.24827"
+    },
+    {
+      "href": "https://api.semanticscholar.org/arXiv:2608.24827"
+    },
+    {
+      "href": "http://www.bibsonomy.org/BibtexHandler?requTask=upload&url=https://arxiv.org/abs/2608.24827&description=Weil positivity in compact windows: certified two-sided bounds and a Landau--Widom decay law"
+    },
+    {
+      "href": "https://reddit.com/submit?url=https://arxiv.org/abs/2608.24827&title=Weil positivity in compact windows: certified two-sided bounds and a Landau--Widom decay law"
+    },
+    {
+      "href": "https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer"
+    },
+    {
+      "href": "https://www.connectedpapers.com/about"
+    },
+    {
+      "href": "https://www.litmaps.co/"
+    },
+    {
+      "href": "https://www.scite.ai/"
+    },
+    {
+      "href": "https://alphaxiv.org/"
+    },
+    {
+      "href": "https://www.catalyzex.com"
+    },
+    {
+      "href": "https://dagshub.com/"
+    },
+    {
+      "href": "http://gotit.pub/faq"
+    },
+    {
+      "href": "https://huggingface.co/huggingface"
+    },
+    {
+      "href": "https://sciencecast.org/welcome"
+    },
+    {
+      "href": "https://replicate.com/docs/arxiv/about"
+    },
+    {
+      "href": "https://huggingface.co/docs/hub/spaces"
+    },
+    {
+      "href": "https://txyz.ai"
+    },
+    {
+      "href": "https://influencemap.cmlab.dev/"
+    },
+    {
+      "href": "https://core.ac.uk/services/recommender"
+    },
+    {
+      "href": "https://info.arxiv.org/labs/index.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/mathjax.html"
+    },
+    {
+      "href": "https://info.arxiv.org/about/ourmembers.html"
+    },
+    {
+      "href": "https://info.arxiv.org/about"
+    },
+    {
+      "href": "https://info.arxiv.org/help"
+    },
+    {
+      "href": "https://info.arxiv.org/help/contact.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/subscribe"
+    },
+    {
+      "href": "https://info.arxiv.org/help/license/index.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/policies/privacy_policy.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/web_accessibility.html"
+    },
+    {
+      "href": "https://status.arxiv.org"
+    },
+    {
+      "href": "https://www.simonsfoundation.org/"
+    },
+    {
+      "href": "https://www.sfi.org.bm/"
+    },
+    {
+      "href": "https://www.schmidtsciences.org/"
+    }
+  ],
+  "finished_utc": "2026-09-25T04:07:28.647060+00:00"
+}

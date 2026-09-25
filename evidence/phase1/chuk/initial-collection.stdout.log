@@ -1,0 +1,8 @@
+{"key": "arxiv-v1-abs", "status": 200, "byte_count": 41614, "raw_file_sha256": "6c0a8cfd01d70a9d1d448795a3a6dafabf7aa0b408e81c9e2ac3989982424d5d", "pdf_pages": null, "error": null}
+{"key": "arxiv-v2-abs", "status": 200, "byte_count": 43916, "raw_file_sha256": "0318ebf041d9560d19387ff56a6924e4cf887b935ebf4435b8d5c5d3b759528e", "pdf_pages": null, "error": null}
+{"key": "arxiv-v1-pdf", "status": 200, "byte_count": 525081, "raw_file_sha256": "d6eed87e8362379281eb0e3ad23e187103c65750da33db79563380aa084318d9", "pdf_pages": 9, "error": null}
+{"key": "arxiv-v2-pdf", "status": 200, "byte_count": 924766, "raw_file_sha256": "70332e428dd7ab82a352131787ac3db4b321459f0e12a6765a8ab1e6fbc22026", "pdf_pages": 34, "error": null}
+{"key": "arxiv-v1-html", "status": 200, "byte_count": 220564, "raw_file_sha256": "ed2c9dc89d249c0e9e889510fa6c0e2fbfc947b1de599678fa3fcb64dfca7f3c", "pdf_pages": null, "error": null}
+{"key": "arxiv-v2-html", "status": 200, "byte_count": 900954, "raw_file_sha256": "ef13ab65f56eed7cbccbf010b15e0b61552a8b283efec98bfb4b625eac174c25", "pdf_pages": null, "error": null}
+{"key": "arxiv-v1-src", "status": 200, "byte_count": 236272, "raw_file_sha256": "03163633e7600e7d77d03de1ffce043a50127af9ac69c60796feec9d47201a78", "pdf_pages": null, "error": null}
+{"key": "arxiv-v2-src", "status": 200, "byte_count": 470846, "raw_file_sha256": "1afc4e867bc69cabf5128db8b70187af61804e55bd773a16cdf16d17c4284c73", "pdf_pages": null, "error": null}

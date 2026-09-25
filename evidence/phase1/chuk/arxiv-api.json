@@ -1,0 +1,32 @@
+{
+  "key": "arxiv-api",
+  "url": "https://export.arxiv.org/api/query?id_list=2608.24827",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Pass4PrimaryEvidence/1.0",
+    "Accept-Encoding": "identity"
+  },
+  "started_utc": "2026-09-25T04:09:21.133964+00:00",
+  "hash_domain": "exact bytes returned by urllib response.read; no text or line-ending normalization",
+  "body_redistributed": false,
+  "status": 406,
+  "final_url": "https://export.arxiv.org/api/query?id_list=2608.24827",
+  "response_headers": {
+    "Connection": "close",
+    "cache-control": "private, no-store",
+    "Accept-Ranges": "bytes",
+    "Via": "1.1 varnish, 1.1 varnish",
+    "Date": "Fri, 25 Sep 2026 04:09:16 GMT",
+    "X-Served-By": "cache-lga-kjfk8660067-LGA, cache-lga-kjfk8660067-LGA, cache-lim-spjc1280058-LIM",
+    "X-Cache": "MISS, MISS",
+    "X-Cache-Hits": "0, 0",
+    "X-Timer": "S1790309357.646875,VS0,VE95",
+    "Strict-Transport-Security": "max-age=300",
+    "transfer-encoding": "chunked"
+  },
+  "body_cache_path": ".audit-cache/phase1/chuk/arxiv-api.body",
+  "byte_count": 0,
+  "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "stored_hash_recheck_matches": true,
+  "finished_utc": "2026-09-25T04:09:21.385287+00:00"
+}

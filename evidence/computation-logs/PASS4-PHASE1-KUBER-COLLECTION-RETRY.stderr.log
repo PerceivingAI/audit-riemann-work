@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\scripts\pass4_kuber.py", line 161, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\scripts\pass4_kuber.py", line 139, in main
+    http = [http_record("https://api.github.com/repos/Kuberwastaken/riemann", "github-repository.json"),
+            ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\scripts\pass4_kuber.py", line 60, in http_record
+    request = urllib.request.Request(url, headers={"User-Agent": "Riemann-Audit-Pass4", "Accept": "application/vnd.github+json"})
+              ^^^^^^^^^^^^^^
+AttributeError: module 'urllib' has no attribute 'request'

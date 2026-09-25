@@ -1,0 +1,4428 @@
+{
+  "key": "arxiv-aug-list",
+  "url": "https://arxiv.org/list/math.NT/2026-08?show=2000",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Pass4PrimaryEvidence/1.0",
+    "Accept-Encoding": "identity"
+  },
+  "started_utc": "2026-09-25T04:09:19.296489+00:00",
+  "hash_domain": "exact bytes returned by urllib response.read; no text or line-ending normalization",
+  "body_redistributed": false,
+  "status": 200,
+  "final_url": "https://arxiv.org/list/math.NT/2026-08?show=2000",
+  "response_headers": {
+    "Connection": "close",
+    "Content-Length": "720425",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "server": "Google Frontend",
+    "x-frame-options": "SAMEORIGIN",
+    "x-cloud-trace-context": "2d3838b537407e9b6220976bb08a2fdd",
+    "content-type": "text/html; charset=utf-8",
+    "content-security-policy": "frame-ancestors 'none'",
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Date": "Fri, 25 Sep 2026 04:09:16 GMT",
+    "X-Served-By": "cache-lga-kjfk8660043-LGA, cache-lga-kjfk8660043-LGA, cache-lga-kjfk8660036-LGA, cache-lim-spjc1280042-LIM",
+    "X-Cache": "MISS, MISS, MISS",
+    "X-Timer": "S1790309355.761114,VS0,VE1392",
+    "Vary": "Accept-Encoding"
+  },
+  "body_cache_path": ".audit-cache/phase1/chuk/arxiv-aug-list.body",
+  "byte_count": 720425,
+  "raw_file_sha256": "1bce8185a9e89c2c6952b23b81d63e1ae47225ca985b61e2964a48d1c17cfb62",
+  "stored_hash_recheck_matches": true,
+  "citation_metadata": [],
+  "external_links": [
+    {
+      "href": "https://arxiv.org/IgnoreMe"
+    },
+    {
+      "href": "https://arxiv.org/"
+    },
+    {
+      "href": "https://arxiv.org/search"
+    },
+    {
+      "href": "https://arxiv.org/user/create"
+    },
+    {
+      "href": "https://info.arxiv.org/about/donate.html"
+    },
+    {
+      "href": "https://arxiv.org/login"
+    },
+    {
+      "href": "https://arxiv.org/search/advanced"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00184v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Schlitt,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00347v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Calderon,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00387v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xu,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhu,+X"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00429v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bhandari,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00435v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kane,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zindulka,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00615v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Alfarano,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bianucci,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lal%5C'%C4%B1n,+M+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ringeling,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00668v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Nir,+I"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00774v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Habegger,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Schmidt,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00778v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Roy,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yatsyna,+P"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00807v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ichino,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Prasanna,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00845v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gao,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Porat,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Poyeton,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01057v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ad%C5%BEaga,+N"
+    },
+    {
+      "href": "https://github.com/NikolaAdzaga/TorsionRegularTriples"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01064v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Biswas,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01089v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yamamura,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01203v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mohammadi,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01274v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pham,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shen,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xue,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01327v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhu,+L"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wu,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01337v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lal%C3%ADn,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lee,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Oliver,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pozdnyakov,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01399v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Alass,+W"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Eddin,+S+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01417v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Minamide,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sawada,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tsujimura,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01443v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shulga,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01486v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Boukhari,+S+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01498v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Broadbent,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fiori,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kadiri,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ng,+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wilk,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01567v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lin,+Z"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01583v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tsai,+W"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ye,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01675v5"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01781v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hu,+X"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01951v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tang,+Q"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhang,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01999v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Orelma,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02066v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Toyohara,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tao,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yao,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02230v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bachmann,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02234v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Guo,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02255v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zheng,+H"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.21711884"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02265v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02381v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pandey,+T"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.21744861"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02494v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Barrios,+A+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gonz%C3%A1lez-Jim%C3%A9nez,+E"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Novak,+I"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02514v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wong,+K+F"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02568v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yip,+C+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yoo,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02983v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Akhtari,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shumaker,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03097v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Nica,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03268v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Costello,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Korpal,+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03309v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dong,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Nguyen,+V+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zaharescu,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03326v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gezmi%C5%9F,+O"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Green,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03375v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03564v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mureau,+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03583v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Baron%C4%97nas,+%C5%BD"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Drungilas,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jankauskas,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03651v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lee,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Guo,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03934v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Florit,+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03992v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sun,+Z"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04241v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ni,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04249v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lebreton,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04267v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Panraksa,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04391v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ni,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04445v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Earp-Lynch,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Earp-Lynch,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kihel,+O"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tiebekabe,+P"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04492v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04577v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lim,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Maire,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04597v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04760v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wang,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tang,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04873v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Koo,+J+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shin,+D+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yoon,+D+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04878v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gravgaard,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kristensen,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04923v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Reche,+A+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04948v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Guo,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04982v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yang,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05191v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chen,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05309v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hahn,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ismailescu,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kim,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kim,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05319v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Baker,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05396v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Strauch,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wang,+Z"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05470v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Su,+X"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wang,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yi,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05480v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lau,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ono,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05517v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Nada,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sasaki,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sumida-Takahashi,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05853v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Aggarwal,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Andritsch,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05868v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bradley,+P+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05934v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gao,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Qi,+Z"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05961v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gao,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhao,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.06005v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Snodgrass,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.06054v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jeon,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kwon,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.06286v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=David,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Devin,+L"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fazzari,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Waxman,+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.06323v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhao,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.06681v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=He,+X"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sahai,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.06682v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pandey,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.06879v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Burungale,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kobayashi,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Nakamura,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ota,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.06897v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=M%7B%C3%A9%7Dnab%7B%C3%A9%7D,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07094v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bansal,+D+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Maji,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07105v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yang,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zachos,+I"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhao,+Z"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07173v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Feng,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yun,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhang,+W"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07186v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Thorne,+J+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07198v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Robles,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07262v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sharma,+A+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07399v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bondarenko,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Heap,+W"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07416v3"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Nathanson,+M+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07804v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shah,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07880v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ma,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yang,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yang,+Z"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07910v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Korsky,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07936v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wang,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08019v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Basak,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Saettone,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08052v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ghate,+E"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Srinivasan"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08098v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jelinek,+P"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08149v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Panigrahy,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08262v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xue,+W"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08347v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Goswami,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08509v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yan,+X"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08524v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bardhan,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Saikia,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08538v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Huang,+X"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jackson,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Poonen,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pries,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08682v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Holland,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08724v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chocian,+P"
+    },
+    {
+      "href": "https://arxiv.org/abs/2607.23177"
+    },
+    {
+      "href": "https://arxiv.org/abs/2607.27503"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08854v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Aguil%C3%B3-Vidal,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Arenas-Carmona,+L"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Saavedra-Lagos,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08902v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cheng,+M+C+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Coman,+I"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fantini,+V"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Rella,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.09009v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chen,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Seeger,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Rajula"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Technau,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.09063v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ochi,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.09446v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Getz,+J+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gu,+M+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hsu,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.09488v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Campbell,+P+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.09754v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mallick,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pal,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.09806v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Maesaka,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.09851v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Allen,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dell,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fakhari,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=McGown,+K+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Stewart,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tedeschi,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.09906v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Atherfold,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10335v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ceballos,+S+R+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jalalvand,+F"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10378v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ng,+M+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10675v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhang,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10702v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Diao,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10776v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hasan,+S+U"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kaur,+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kumar,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10811v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Feuerpfeil,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10880v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bennett,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hatley,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kononova,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Macri,+V"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Porat,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Praveen,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10911v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gajek-Leonard,+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lei,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10919v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hashimoto,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lido,+G+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lombardo,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mascot,+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Parent,+P"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10984v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.11509v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=L%C3%BCdtke,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Darbar,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dey,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Maiti,+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.11614v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hiranouchi,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sugiyama,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.11864v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhang,+Z"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.11904v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Man,+S+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Widmer,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.11969v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12019v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cullinan,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hajir,+F"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Young,+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12041v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ishida,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12094v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhang,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yang,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12240v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Liu,+Q"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xing,+Z"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12257v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Thorner,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12310v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yuan,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yuan,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12397v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wang,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tian,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12399v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=G%C3%BCrel,+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12400v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wu,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhao,+Q"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12410v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Van+Werde,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12542v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ganash,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12604v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Geneson,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12648v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kr%C3%A1sensk%C3%BD,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Romeo,+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12690v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Goda,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12709v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kim,+H"
+    },
+    {
+      "href": "http://ac.kr"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12722v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jo,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yadav,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12739v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mart%C3%ADn,+B+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sirvent,+V"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12758v3"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12927v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kim,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kim,+D+s"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13145v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Vigni,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13172v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Aggarwal,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Banerjee,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gupta,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13192v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13202v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Savoie,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13232v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shi,+Y"
+    },
+    {
+      "href": "https://doi.org/10.1080/10652469.2026.2700610"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13266v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Krishnamoorthy,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13299v2"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13312v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lee,+W"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13324v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bradley-Thrush,+J+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Garvan,+F"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kalita,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Rolen,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13371v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kazalicki,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Slijep%C4%8Devi%C4%87,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13388v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13509v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Barquero-Sanchez,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Heimrath,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sing,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sirolli,+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Spivey,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wijaya,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13623v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chen,+L"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Im,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Miller,+S+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pradhan,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13637v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Alp%C3%B6ge,+L"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Furman,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13818v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wei,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wang,+Q"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14053v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Komatsu,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hyun,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Song,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14145v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dang,+H+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14190v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gorodetsky,+O"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14241v2"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14371v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bringmann,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Guo,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mertens,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14453v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Otmani,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14495v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Reddy,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tiwari,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14524v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Radi,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14726v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Marashdeh,+M+F"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14777v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Maynard,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Radziwi%C5%82%C5%82,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14852v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tang,+Z+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15063v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Housholder,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Khan,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15119v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Accossato,+F"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Murru,+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Salvatori,+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15219v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Huang,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Paule,+P"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15248v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bohanek,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=McGinty,+O"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ross,+E"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Su,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xue,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15415v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lee,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15431v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dong,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15433v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gow,+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=McGuire,+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15480v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Risan"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15523v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15553v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cheng,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15623v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ma,+X"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhu,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15681v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xie,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15686v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=He,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Liao,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15773v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dong,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wang,+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wang,+W"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhang,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhao,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15807v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhu,+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhang,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15845v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Park,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15866v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mance,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tomaszewski,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15891v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Marques,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15903v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Visser,+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ziegler,+V"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15947v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Grobner,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.16034v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hua,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yang,+X"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.16036v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Terakado,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xue,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yu,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.16108v3"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.16163v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sabuncu,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=T%C3%A1fula,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.16405v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Karemaker,+V"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.16679v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Doyle,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.16735v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhou,+Y"
+    },
+    {
+      "href": "https://arxiv.org/abs/2607.14646v2"
+    },
+    {
+      "href": "https://arxiv.org/abs/2201.01676v3"
+    },
+    {
+      "href": "https://arxiv.org/abs/1409.7204v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17045v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mantovanelli,+M"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.21983543"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17056v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=da+N%C3%B3brega+Neto,+T+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=de+Andrade,+A+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bastos,+J+L+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=de+Araujo,+R+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Interlando,+J+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17072v3"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Vogel,+D"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.22255983"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17166v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jelonek,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Menani,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Michalska,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17199v4"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ji,+X"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17265v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Leung,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17345v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17545v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hu,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17639v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wang,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17686v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dixit,+A+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17725v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Aylward,+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17746v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gu,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhou,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17785v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Asgarli,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Csajb%C3%B3k,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17892v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bazlov,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18014v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bucur,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kedlaya,+K+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sheth,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18197v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18253v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bhattacharjee,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18264v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Finnerty,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mayle,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18350v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bhargava,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18356v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18497v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Nelson,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wassercug,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18525v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Arango-Pi%C3%B1eros,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Keyes,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kobin,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18528v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Banerjee,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mandal,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18608v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Panda,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18842v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Charlton,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Heim,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Neuhauser,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Stumpenhusen,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tr%C3%B6ger,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18892v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chrobak,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Craig,+W"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19058v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mobin,+M+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Islam,+M+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19090v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Geroldinger,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yang,+W"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19255v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mandal,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Raman,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Soman,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19256v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sheikh,+S+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19262v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhang,+X"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19276v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hakimoglu-Brown,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19354v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bourdon,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19525v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Krause,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mousavi,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tao,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ter%C3%A4v%C3%A4inen,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19612v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Donn,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Miller,+L+E"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Taylor,+W+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19706v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cho,+E"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.21973291"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19742v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Nguyen-Dang,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19782v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bai,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19886v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mao,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19972v2"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20028v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Matala-aho,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20125v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lang,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=M%C3%BCller,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Palvannan,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20130v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Abhishek"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Aribam,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Barman,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ghosh,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20431v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bagger,+G+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20615v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+X"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20654v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dias,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tafazolian,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20782v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20995v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hilgart,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Premstaller,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.21015v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Caro,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.21017v3"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xu,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.21198v3"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Karl,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Morton,+P"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.21232v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Holzschuh,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Schmidt,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Stix,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.21346v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mili%C4%87evi%C4%87,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Robinson,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shupe,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.21354v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Verreault,+W"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.21573v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Murty,+M+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Naik,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.21632v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Adiceam,+F"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pavlenkov,+V"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zorin,+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.21675v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22049v4"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Prunescu,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22078v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Badziahin,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22113v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hajli,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Perez-Marco,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22119v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22148v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Brent,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22189v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Herrmann,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22280v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Seki,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22285v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gu,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22297v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Anderson,+T+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chow,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dietmann,+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hokken,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Koymans,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Oliver,+R+J+L"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sawin,+W"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shusterman,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22373v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22431v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Deng,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Espinosa,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22442v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ishimoto,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mayne,+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shapiro,+Q"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Van+Cott,+C+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22590v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Rezvyakova,+I"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22601v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ritter,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Weiss,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22635v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jurasi%C4%87,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jurasi%C4%87,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22717v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jung,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22738v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bhattacharya,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ray,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sujatha,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22779v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhu,+H+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22943v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23017v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bugeaud,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Townsend,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23193v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chalebgwa,+T+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Szalay,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23216v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lemmermeyer,+F"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23281v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tagnon,+L"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.21182759"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23401v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Das,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ghosh,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Narasimhan,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23418v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ma,+W"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23427v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Schneider,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sorensen,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23500v4"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23559v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pasten,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23792v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23844v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Krekov,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23886v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23996v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hu,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yu,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24035v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dahan,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24373v2"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24401v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Neckrasov,+V"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wu,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yang,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24474v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dogra,+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pandit,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24512v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Browning,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Verzobio,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24528v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pratsiovytyi,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ratushniak,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24612v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bara%C5%84czuk,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=%C5%9Alusarski,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24719v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hou,+A+X"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lei,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24736v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cruz,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Holmes,+E"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lon-Wo,+E+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Scheidler,+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tran,+H+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24744v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fan,+X"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24750v1"
+    },
+    {
+      "href": "https://arxiv.org/abs/2608.23281"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.21447478"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.21224266"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24765v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Caparatta,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pauli,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Saidak,+F"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24808v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hardikar,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Garge,+A+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24827v2"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24854v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cardoso,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Leite,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Machiavelo,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Moreira,+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ro%C3%A7adas,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24878v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pintz,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24930v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24932v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mihara,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24939v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Moser,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24948v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tar%C5%82owski,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25059v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25078v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kalinin,+N+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ostafe,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Schindler,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wurzinger,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25309v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Qi,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xu,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25335v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25349v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hussain,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Simmons,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25406v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Elkies,+N+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25424v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shen,+X"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhao,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25450v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25591v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+T+H+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25721v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Macmillan,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25787v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mirzoabdughafurov,+K+I"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25791v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=DeFranco,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25812v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chen,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lin,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25899v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cheng,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25975v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ruffino,+F+F"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26007v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Paul,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pitale,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Saha,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Schmidt,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26311v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pirani,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26384v3"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Holt,+F+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26452v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Batte,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26455v2"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26514v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bao,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26617v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jin,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jo,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26636v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hu,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Huang,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lai,+L"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26721v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Caraiani,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shin,+S+W"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26791v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tan,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Trihan,+F"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tsoi,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26814v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tardy,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26818v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Schleischitz,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26918v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Koizumi,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yokoi,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27016v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kao,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27027v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhang,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27058v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=G%C3%BCle%C3%A7,+B"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27130v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Han,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27255v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27283v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27285v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hase-Liu,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27318v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sharma,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Basnet,+D+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27323v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Long,+L"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhang,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27356v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Abdallah,+R+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kovaleva,+V"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27375v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27418v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27493v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cinkir,+Z"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27541v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cheng,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhao,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27697v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bagchi,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhou-Zheng,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27732v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wright,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27745v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Verwee,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27802v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fonga,+P+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Baker,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28117v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sahoo,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28249v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dymowski,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28255v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Corvaja,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zannier,+U"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Masser,+a+b+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28286v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28332v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Svoray,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28543v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Balakrishnan,+J+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Najman,+F"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shnidman,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sutherland,+A+V"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28774v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Galiote,+D+F"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yeon,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28782v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ma,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Vernon,+P"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29071v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Karmakar,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29288v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shang,+X"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Niu,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29337v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mastella,+L"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Matar,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zerman,+F"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29383v2"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29425v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Strouse,+C+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29439v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cohen,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29470v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Castella,+F"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Liu,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wan,+X"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29527v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cheng,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Erazo,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Moreira,+C+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Vasconcelos,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29558v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Qiao,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29587v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fang,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29636v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29643v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wu,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29741v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Farrell,+J+W+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29779v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bazarbaev,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Rakhimov,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29788v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29796v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bajpai,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29812v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Veselinov,+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Naccarato,+F"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29922v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Baruch,+E+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Karameris,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Purkait,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29938v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=G%C3%BClo%C4%9Flu,+A+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hamakiotes,+A+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lee,+S+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29968v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dujella,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Franu%C5%A1i%C4%87,+Z"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30061v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gun,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kumar,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Thakur,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30069v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Martinez,+W+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ceron,+S+I"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30078v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Younis,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30126v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xiong,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30389v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhang,+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30576v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cauchi,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chen,+E+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Terradillos,+A+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30608v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Di,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30637v3"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lu,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30735v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kleinbock,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30798v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Horie,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yamauchi,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30808v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bartoli,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Stanica,+P"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30810v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ji,+X+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30920v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kowalska,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30942v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.31060v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.31126v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Stadlmann,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00278v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Aniceto,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ballantine,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00300v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xu,+P"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00304v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bah,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shuddhodan,+K+V"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00421v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gray,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Payne,+E"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Swisher,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Watson,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00470v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fu,+L"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Liu,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00575v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Campbell,+J+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.00889v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sakunkoo,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sakunkoo,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Paquin,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01136v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chern,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Eichhorn,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fu,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sellers,+J+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01146v1"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Li,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Yuan,+P"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01325v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Krachun,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01485v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Elber,+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lheem,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01500v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Oh,+J+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.01551v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ma,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02085v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Liu,+F"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tang,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xin,+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02141v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lv,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02708v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dillery,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Eteve,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.02875v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Baldi,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lam,+Y+H+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03194v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Inami,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.03661v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hegde,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lott,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Petridis,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ponagandla,+N+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.04898v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Levy,+I"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Liang,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sosnilo,+V"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05037v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Slutsky,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05220v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bouis,+T"
+    },
+    {
+      "href": "https://arxiv.org/abs/2412.06635v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05498v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dilcher,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jiu,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.05829v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zeng,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.06299v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kwon,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.06576v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shen,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07278v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Guo,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xiao,+R"
+    },
+    {
+      "href": "http://pages.Comments"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.07293v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yaqubi,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mirzavaziri,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08250v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zelingher,+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08278v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lupini,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08518v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08703v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08714v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08762v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gajdzica,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zakarczemny,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08789v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gaiser,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08893v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Han,+R"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Yang,+F"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.08997v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kaur,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.09757v2"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10015v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Costa,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Della+Fiore,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Liu,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10121v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Vedana,+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10272v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hu,+Y"
+    },
+    {
+      "href": "https://arxiv.org/abs/2609.24047"
+    },
+    {
+      "href": "https://arxiv.org/abs/2507.21400"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10551v3"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10742v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Philip,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.10815v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.11372v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chandra,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jain,+S"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.21935814"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.11382v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kanigowski,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Loyd,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.11684v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mahanta,+P+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.11763v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Best,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Peres,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.11943v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Nikzad,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Deninger,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12316v3"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cushman,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Demeter,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wu,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12405v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Mironov,+N+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Musin,+O+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12601v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Achinger,+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=H%C3%BCbner,+K"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lara,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.12664v2"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Wan,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13052v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Milman,+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13199v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Short,+I"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Stanier,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=van+Son,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zabolotskii,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13609v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Laniewski,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13687v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hu,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kim,+Y+H"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kriechbaum,+X"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.13768v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Arakelian,+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kian,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14059v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pinamonti,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tran,+D+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14200v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bottiglione,+L"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14417v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chung,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14467v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Jing,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14545v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Faber,+X"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Patra,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14607v3"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fragomeli,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.14931v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Alekseyev,+M+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15568v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Qu,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wang,+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15744v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kipp,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.15864v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chakraborty,+H+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tanver,+M+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.16426v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shaska,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.16796v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Bertucci,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Van+Blarcom,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Glancy,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Howe,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Madden,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Miller,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Pal,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Papagrigoriou,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Raikman,+N"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tran,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17367v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Vorobtsov,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17517v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Li,+S"
+    },
+    {
+      "href": "http://verify.py"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.17880v1"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Mian,+I"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Siddique,+S"
+    },
+    {
+      "href": "https://github.com/ibrahimmian36/decanus"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.21996019"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18340v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Aliabadi,+M"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Losonczy,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18584v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Nagy,+G+P"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Vajda,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18652v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Ghioca,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Marker,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Steinhorn,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18730v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gavelli,+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18818v2"
+    },
+    {
+      "href": "https://github.com/hxypqr/lonely-runners-function-fields"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18934v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Rapinchuk,+A+S"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Rapinchuk,+I+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Roy,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.18956v1"
+    },
+    {
+      "href": "https://github.com/hxypqr/complexity-sensitive-additive-energy"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19047v1"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Wong,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Cui,+H"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Tan,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Zhan,+X"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Lin,+L"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Guo,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Dai,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Zeng,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Li,+W"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19129v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hegde,+D+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19179v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Lvov,+N"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19253v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Magyar,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19507v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Podest%C3%A1,+R+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Videla,+D+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.19570v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Koziol,+K"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20191v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Nguyen,+Q"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20203v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Qin,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20225v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Luo,+D+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Stevens,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20533v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fox,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Schildkraut,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.20824v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Campos,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.21534v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gonzalez-Hernandez,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.21981v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Chen,+T"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tsai,+C"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22084v1"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Duan,+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Wu,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22291v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Andrews,+G"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Dastidar,+M+G"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22360v1"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Cifci,+F"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Donder,+O+E"
+    },
+    {
+      "href": "https://arxiv.org/search/cs?searchtype=author&query=Cifci,+R"
+    },
+    {
+      "href": "https://github.com/FurkanCifci/mcsi-key-exchange"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22435v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Colucci,+L"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=de+Lima,+M+F"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=de+Andrade+Roberto,+K+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22501v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhou,+T"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22550v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Snellman,+J"
+    },
+    {
+      "href": "https://gitlab.liu.se/jansn19/lattice-line-covers"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22955v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.22961v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23319v2"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23544v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Luo,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.23929v1"
+    },
+    {
+      "href": "https://arxiv.org/search/quant-ph?searchtype=author&query=Maeda,+Y"
+    },
+    {
+      "href": "https://arxiv.org/search/quant-ph?searchtype=author&query=Yano,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24122v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kani,+E"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kir,+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24552v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Gal%C3%A1n,+R+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.24836v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cass,+R"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25007v1"
+    },
+    {
+      "href": "https://arxiv.org/search/hep-th?searchtype=author&query=Alexandrov,+S"
+    },
+    {
+      "href": "https://arxiv.org/search/hep-th?searchtype=author&query=Chattopadhyaya,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.25603v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Funck,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26349v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Garaev,+M+Z"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Konyagin,+S+V"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26392v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Kupers,+A"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Rudenko,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Sierra,+I"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26393v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Langer,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.26590v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math-ph?searchtype=author&query=He,+J"
+    },
+    {
+      "href": "https://arxiv.org/search/math-ph?searchtype=author&query=Wang,+X"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27173v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Fischer,+I"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Reibnegger,+M"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27208v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Shi,+W"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27718v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Defant,+C"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Hariharan,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27834v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Geisser,+T+H"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.27983v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Seress,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28141v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math-ph?searchtype=author&query=Nasr,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/math-ph?searchtype=author&query=Maillard,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28204v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Wei,+D"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Xu,+F"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Zhu,+Y"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28465v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Feng,+E"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.28471v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Tanimoto,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29169v2"
+    },
+    {
+      "href": "https://arxiv.org/search/hep-th?searchtype=author&query=D'Hoker,+E"
+    },
+    {
+      "href": "https://arxiv.org/search/hep-th?searchtype=author&query=Enriquez,+B"
+    },
+    {
+      "href": "https://arxiv.org/search/hep-th?searchtype=author&query=Schlotterer,+O"
+    },
+    {
+      "href": "https://arxiv.org/search/hep-th?searchtype=author&query=Zerbini,+F"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29312v2"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Droschl,+J"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29548v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Karasiewicz,+E"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Takeda,+S"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29659v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.29981v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Labib,+D"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30097v1"
+    },
+    {
+      "href": "https://arxiv.org/html/2608.30180v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Cuthbertson,+P"
+    },
+    {
+      "href": "https://info.arxiv.org/about/ourmembers.html"
+    },
+    {
+      "href": "https://info.arxiv.org/about"
+    },
+    {
+      "href": "https://info.arxiv.org/help"
+    },
+    {
+      "href": "https://info.arxiv.org/help/contact.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/subscribe"
+    },
+    {
+      "href": "https://info.arxiv.org/help/license/index.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/policies/privacy_policy.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/web_accessibility.html"
+    },
+    {
+      "href": "https://status.arxiv.org"
+    },
+    {
+      "href": "https://www.simonsfoundation.org/"
+    },
+    {
+      "href": "https://www.sfi.org.bm/"
+    },
+    {
+      "href": "https://www.schmidtsciences.org/"
+    }
+  ],
+  "finished_utc": "2026-09-25T04:09:21.131523+00:00"
+}

@@ -1,0 +1,11 @@
+{"key": "suzuki-abs", "status": 200, "byte_count": 41612, "raw_file_sha256": "a26610f1d2a31195e36a17ca5639799b51bb0a182da388f01e2df951fd64b392", "pdf_pages": null, "error": null}
+{"key": "suzuki-v2-pdf", "status": 200, "byte_count": 479102, "raw_file_sha256": "f72419965587756995814988e0679af34e45eccec36b9bdc2262b23fa3b7aed7", "pdf_pages": 32, "error": null}
+{"key": "suzuki-v3-pdf", "status": 200, "byte_count": 491037, "raw_file_sha256": "75b8512f7081bd69152781c7a20f3b5dad4374fe0dfc80f3014f9223f044c81a", "pdf_pages": 33, "error": null}
+{"key": "suzuki-v2-src", "status": 200, "byte_count": 37391, "raw_file_sha256": "241f23301e6d91f6762c95246f2f4290280a44acf3ad6649331349469d5ad055", "pdf_pages": null, "error": null}
+{"key": "suzuki-v3-src", "status": 200, "byte_count": 39375, "raw_file_sha256": "b813595a3e762545a0bf798a39f103f9aeea258e59e5cc0f92e11b4dd7646e35", "pdf_pages": null, "error": null}
+{"key": "groskin-abs", "status": 200, "byte_count": 50327, "raw_file_sha256": "157eef84bd4520cd234382ba24748f0da0cabce1d862f7c90716c5dd38a13c79", "pdf_pages": null, "error": null}
+{"key": "arxiv-aug-list", "status": 200, "byte_count": 720425, "raw_file_sha256": "1bce8185a9e89c2c6952b23b81d63e1ae47225ca985b61e2964a48d1c17cfb62", "pdf_pages": null, "error": null}
+{"key": "arxiv-api", "status": 406, "byte_count": 0, "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855", "pdf_pages": null, "error": null}
+{"key": "github-repo-search", "status": 200, "byte_count": 55, "raw_file_sha256": "4af480b8ee5b87b369a76c49bd22c9a783908272ebffbe97898f8ab0f0772a5f", "pdf_pages": null, "error": null}
+{"key": "github-title-search", "status": 200, "byte_count": 88962, "raw_file_sha256": "ae2f3a16ec751a5ed4251afa053b72e704a4cc0f0770ffba357252eca19662be", "pdf_pages": null, "error": null}
+{"key": "zenodo-search", "status": null, "byte_count": null, "raw_file_sha256": null, "pdf_pages": null, "error": "URLError: <urlopen error [Errno 11001] getaddrinfo failed>"}

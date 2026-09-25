@@ -1,0 +1,37 @@
+{
+  "key": "suzuki-v2-src",
+  "url": "https://arxiv.org/src/2606.09096v2",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Pass4PrimaryEvidence/1.0",
+    "Accept-Encoding": "identity"
+  },
+  "started_utc": "2026-09-25T04:09:17.916159+00:00",
+  "hash_domain": "exact bytes returned by urllib response.read; no text or line-ending normalization",
+  "body_redistributed": false,
+  "status": 200,
+  "final_url": "https://arxiv.org/src/2606.09096v2",
+  "response_headers": {
+    "Connection": "close",
+    "Content-Length": "37391",
+    "content-disposition": "attachment; filename=\"arXiv-2606.09096v2.tar.gz\"",
+    "etag": "CNPCz6mIhpcDEAE=",
+    "server": "Google Frontend",
+    "last-modified": "Thu, 24 Sep 2026 01:28:43 GMT",
+    "access-control-allow-origin": "*",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "content-type": "application/gzip",
+    "x-cloud-trace-context": "72b83fb5cb8fd54fbda8ca41237c6fd2",
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Date": "Fri, 25 Sep 2026 04:09:14 GMT",
+    "X-Served-By": "cache-lga-kjfk8660070-LGA, cache-lga-kjfk8660070-LGA, cache-lga-kjfk8660040-LGA, cache-lim-spjc1280042-LIM",
+    "X-Cache": "MISS, MISS, MISS",
+    "X-Timer": "S1790309354.525723,VS0,VE648"
+  },
+  "body_cache_path": ".audit-cache/phase1/chuk/suzuki-v2-src.body",
+  "byte_count": 37391,
+  "raw_file_sha256": "241f23301e6d91f6762c95246f2f4290280a44acf3ad6649331349469d5ad055",
+  "stored_hash_recheck_matches": true,
+  "finished_utc": "2026-09-25T04:09:18.829430+00:00"
+}

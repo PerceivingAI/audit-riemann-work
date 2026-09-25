@@ -1,0 +1,14 @@
+{
+  "key": "zenodo-search",
+  "url": "https://zenodo.org/api/records?q=%222608.24827%22&size=100",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Pass4PrimaryEvidence/1.0",
+    "Accept-Encoding": "identity"
+  },
+  "started_utc": "2026-09-25T04:09:23.366413+00:00",
+  "hash_domain": "exact bytes returned by urllib response.read; no text or line-ending normalization",
+  "body_redistributed": false,
+  "error": "URLError: <urlopen error [Errno 11001] getaddrinfo failed>",
+  "finished_utc": "2026-09-25T04:09:23.390928+00:00"
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "command": [
+    "python",
+    "-B",
+    "scripts/pass4_chuk.py",
+    "--collect"
+  ],
+  "working_directory": "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work",
+  "audit_head": "35cc94c2a9108e03f8506fe35835eb9ed81cb145",
+  "source_before": {
+    "commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+    "tree": "8a1dd144a90a4121601ea839d048860bd724b413",
+    "status_porcelain": ""
+  },
+  "host": {
+    "os": "Windows-11-10.0.26200-SP0",
+    "architecture": "AMD64"
+  },
+  "tools": {
+    "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\carlo\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+    "git": "git version 2.45.2.windows.1"
+  },
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "GIT_OPTIONAL_LOCKS": "0"
+  },
+  "start_time": "2026-09-25T04:15:27.347340+00:00",
+  "audit_tool_hashes": {
+    "scripts/pass4_chuk.py": {
+      "raw_file_sha256": "067d37882a010e4b21ab0ae1f66af6166137428423220a091cb70202ff8b3928",
+      "normalized_sha256": "067d37882a010e4b21ab0ae1f66af6166137428423220a091cb70202ff8b3928"
+    },
+    "scripts/pass4_kuber.py": {
+      "raw_file_sha256": "7999d54e56fdbe5e40d25ed9eb708d53e3cc978f95cb7ade8e7a5d48ea46848e",
+      "normalized_sha256": "7999d54e56fdbe5e40d25ed9eb708d53e3cc978f95cb7ade8e7a5d48ea46848e"
+    },
+    "scripts/pass4_preserve.py": {
+      "raw_file_sha256": "c171c473396feabfba140f2ee97a255a6134d272b83c944b7ba0e10b45ddebfd",
+      "normalized_sha256": "c171c473396feabfba140f2ee97a255a6134d272b83c944b7ba0e10b45ddebfd"
+    },
+    "scripts/pass4_run.py": {
+      "raw_file_sha256": "dd190073a23ba205bd17c45c3a73050870de9377bdbcf435cd8dd17a2d1cd5da",
+      "normalized_sha256": "dd190073a23ba205bd17c45c3a73050870de9377bdbcf435cd8dd17a2d1cd5da"
+    },
+    "scripts/pass4_validate.py": {
+      "raw_file_sha256": "1b26f3abb07087d2061b23f780ee9a94b7c9505558bb68212f961da77f125a0f",
+      "normalized_sha256": "1b26f3abb07087d2061b23f780ee9a94b7c9505558bb68212f961da77f125a0f"
+    }
+  },
+  "audit_input_hashes": {
+    "evidence/phase0/CANDIDATE_MAP.json": {
+      "raw_file_sha256": "206f80b8602ee4000c7dc2394943bf350ea7768f7d226cbfa173e5add13db3f3",
+      "normalized_sha256": "206f80b8602ee4000c7dc2394943bf350ea7768f7d226cbfa173e5add13db3f3"
+    },
+    "evidence/phase0/HISTORICAL_CHANGE_EVENTS.json": {
+      "raw_file_sha256": "8e4a623e2497da18363b18e60b5d1552088cbb086139ef9a5844155b434a5bd0",
+      "normalized_sha256": "8e4a623e2497da18363b18e60b5d1552088cbb086139ef9a5844155b434a5bd0"
+    },
+    "evidence/phase0/PASS3_HASH_DOMAINS.json": {
+      "raw_file_sha256": "5864fd59dab69d0fecaa1b49b58120c4690967d1d1b1e13e6d542e1bf923c839",
+      "normalized_sha256": "5864fd59dab69d0fecaa1b49b58120c4690967d1d1b1e13e6d542e1bf923c839"
+    },
+    "evidence/phase0/PRESERVATION_MANIFEST.json": {
+      "raw_file_sha256": "ae95a921f5332559a7940ec32f707a0078a391f6ff16908a4e2cea18664532d5",
+      "normalized_sha256": "ae95a921f5332559a7940ec32f707a0078a391f6ff16908a4e2cea18664532d5"
+    },
+    "evidence/phase0/SOURCE_BEFORE.json": {
+      "raw_file_sha256": "c8858c21b0d52598e7445e7cbfb5ae0d6071ff7bd6f205b354def82bdf287fcf",
+      "normalized_sha256": "c8858c21b0d52598e7445e7cbfb5ae0d6071ff7bd6f205b354def82bdf287fcf"
+    }
+  },
+  "end_time": "2026-09-25T04:15:29.066642+00:00",
+  "exit_code": 0,
+  "source_after": {
+    "commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+    "tree": "8a1dd144a90a4121601ea839d048860bd724b413",
+    "status_porcelain": ""
+  },
+  "hash_domain": "exact raw file bytes",
+  "line_ending_normalization": "normalized_sha256 replaces CRLF bytes with LF only",
+  "streams": {
+    "stdout": {
+      "path": "evidence/computation-logs/PASS4-PHASE1-CHUK-COLLECTED.stdout.log",
+      "raw_file_sha256": "5c982139a79ebb657610b891d3234fa050483be52c411641c86e76e99a435227",
+      "normalized_sha256": "32d7eb4f3e9ab04d331e87b76512a2e0d147c2b9cf265160d15fc5fe61bf2d84"
+    },
+    "stderr": {
+      "path": "evidence/computation-logs/PASS4-PHASE1-CHUK-COLLECTED.stderr.log",
+      "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "normalized_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}

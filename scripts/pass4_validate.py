@@ -256,7 +256,13 @@ def living_link_checks() -> list[str]:
              "archive/ERRATA_PASS_1.md", "archive/ERRATA_PASS_2.md", "archive/ERRATA_PASS_3.md",
              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md",
              "evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md",
-             "reports/interim/PASS_4_PHASE_0_REPORT.md", "AUDIT_PASS_4.md"]
+             "evidence/search-records/PASS4-PHASE1-CHUK-SOURCES.md",
+             "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+             "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md",
+             "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+             "evidence/literature/PASS_4_PRIOR_ART.md",
+             "reports/interim/PASS_4_PHASE_0_REPORT.md",
+             "reports/interim/PASS_4_PHASE_1_REPORT.md", "AUDIT_PASS_4.md"]
     errors = []
     for name in paths:
         text = read_text(name)

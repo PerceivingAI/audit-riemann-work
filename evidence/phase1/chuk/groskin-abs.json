@@ -1,0 +1,215 @@
+{
+  "key": "groskin-abs",
+  "url": "https://arxiv.org/abs/2607.02828",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Pass4PrimaryEvidence/1.0",
+    "Accept-Encoding": "identity"
+  },
+  "started_utc": "2026-09-25T04:09:19.007601+00:00",
+  "hash_domain": "exact bytes returned by urllib response.read; no text or line-ending normalization",
+  "body_redistributed": false,
+  "status": 200,
+  "final_url": "https://arxiv.org/abs/2607.02828",
+  "response_headers": {
+    "Connection": "close",
+    "Content-Length": "50327",
+    "cache-control": "max-age=3600",
+    "server": "Google Frontend",
+    "last-modified": "Mon, 24 Aug 2026 21:33:27 GMT",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "content-security-policy": "frame-ancestors 'none'",
+    "content-type": "text/html; charset=utf-8",
+    "x-frame-options": "SAMEORIGIN",
+    "x-cloud-trace-context": "21ebb2771c5e015b2c8096ceed0a97e3",
+    "Accept-Ranges": "bytes",
+    "Age": "653272",
+    "Date": "Fri, 25 Sep 2026 04:09:14 GMT",
+    "X-Served-By": "cache-lga21984-LGA, cache-lga21984-LGA, cache-lga21953-LGA, cache-lga-kjfk8660070-LGA, cache-lim-spjc1280040-LIM",
+    "X-Cache": "MISS, HIT, HIT, MISS",
+    "X-Timer": "S1790309355.515036,VS0,VE88"
+  },
+  "body_cache_path": ".audit-cache/phase1/chuk/groskin-abs.body",
+  "byte_count": 50327,
+  "raw_file_sha256": "157eef84bd4520cd234382ba24748f0da0cabce1d862f7c90716c5dd38a13c79",
+  "stored_hash_recheck_matches": true,
+  "citation_metadata": [
+    {
+      "name": "citation_title",
+      "content": "A finite Guinand-Weil dictionary and archimedean tail order for the truncated Weil quadratic form"
+    },
+    {
+      "name": "citation_author",
+      "content": "Groskin, Akiva"
+    },
+    {
+      "name": "citation_date",
+      "content": "2026/07/02"
+    },
+    {
+      "name": "citation_online_date",
+      "content": "2026/08/14"
+    },
+    {
+      "name": "citation_pdf_url",
+      "content": "https://arxiv.org/pdf/2607.02828"
+    },
+    {
+      "name": "citation_arxiv_id",
+      "content": "2607.02828"
+    }
+  ],
+  "external_links": [
+    {
+      "href": "https://arxiv.org/IgnoreMe"
+    },
+    {
+      "href": "https://arxiv.org/"
+    },
+    {
+      "href": "https://arxiv.org/search"
+    },
+    {
+      "href": "https://arxiv.org/user/create"
+    },
+    {
+      "href": "https://info.arxiv.org/about/donate.html"
+    },
+    {
+      "href": "https://arxiv.org/login"
+    },
+    {
+      "href": "https://arxiv.org/search/advanced"
+    },
+    {
+      "href": "https://arxiv.org/abs/2607.02828v1"
+    },
+    {
+      "href": "https://arxiv.org/search/math?searchtype=author&query=Groskin,+A"
+    },
+    {
+      "href": "https://arxiv.org/html/2607.02828v3"
+    },
+    {
+      "href": "https://github.com/akivag613/connes-cvs-"
+    },
+    {
+      "href": "https://doi.org/10.5281/zenodo.21124802"
+    },
+    {
+      "href": "https://arxiv.org/abs/2607.02828"
+    },
+    {
+      "href": "https://arxiv.org/abs/2607.02828v3"
+    },
+    {
+      "href": "https://doi.org/10.48550/arXiv.2607.02828"
+    },
+    {
+      "href": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "href": "https://ui.adsabs.harvard.edu/abs/arXiv:2607.02828"
+    },
+    {
+      "href": "https://scholar.google.com/scholar_lookup?arxiv_id=2607.02828"
+    },
+    {
+      "href": "https://api.semanticscholar.org/arXiv:2607.02828"
+    },
+    {
+      "href": "http://www.bibsonomy.org/BibtexHandler?requTask=upload&url=https://arxiv.org/abs/2607.02828&description=A finite Guinand-Weil dictionary and archimedean tail order for the truncated Weil quadratic form"
+    },
+    {
+      "href": "https://reddit.com/submit?url=https://arxiv.org/abs/2607.02828&title=A finite Guinand-Weil dictionary and archimedean tail order for the truncated Weil quadratic form"
+    },
+    {
+      "href": "https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer"
+    },
+    {
+      "href": "https://www.connectedpapers.com/about"
+    },
+    {
+      "href": "https://www.litmaps.co/"
+    },
+    {
+      "href": "https://www.scite.ai/"
+    },
+    {
+      "href": "https://alphaxiv.org/"
+    },
+    {
+      "href": "https://www.catalyzex.com"
+    },
+    {
+      "href": "https://dagshub.com/"
+    },
+    {
+      "href": "http://gotit.pub/faq"
+    },
+    {
+      "href": "https://huggingface.co/huggingface"
+    },
+    {
+      "href": "https://sciencecast.org/welcome"
+    },
+    {
+      "href": "https://replicate.com/docs/arxiv/about"
+    },
+    {
+      "href": "https://huggingface.co/docs/hub/spaces"
+    },
+    {
+      "href": "https://txyz.ai"
+    },
+    {
+      "href": "https://influencemap.cmlab.dev/"
+    },
+    {
+      "href": "https://core.ac.uk/services/recommender"
+    },
+    {
+      "href": "https://info.arxiv.org/labs/index.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/mathjax.html"
+    },
+    {
+      "href": "https://info.arxiv.org/about/ourmembers.html"
+    },
+    {
+      "href": "https://info.arxiv.org/about"
+    },
+    {
+      "href": "https://info.arxiv.org/help"
+    },
+    {
+      "href": "https://info.arxiv.org/help/contact.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/subscribe"
+    },
+    {
+      "href": "https://info.arxiv.org/help/license/index.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/policies/privacy_policy.html"
+    },
+    {
+      "href": "https://info.arxiv.org/help/web_accessibility.html"
+    },
+    {
+      "href": "https://status.arxiv.org"
+    },
+    {
+      "href": "https://www.simonsfoundation.org/"
+    },
+    {
+      "href": "https://www.sfi.org.bm/"
+    },
+    {
+      "href": "https://www.schmidtsciences.org/"
+    }
+  ],
+  "finished_utc": "2026-09-25T04:09:19.295401+00:00"
+}

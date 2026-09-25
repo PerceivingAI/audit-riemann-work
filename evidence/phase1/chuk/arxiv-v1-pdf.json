@@ -1,0 +1,56 @@
+{
+  "key": "arxiv-v1-pdf",
+  "url": "https://arxiv.org/pdf/2608.24827v1",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Pass4PrimaryEvidence/1.0",
+    "Accept-Encoding": "identity"
+  },
+  "started_utc": "2026-09-25T04:07:28.741854+00:00",
+  "hash_domain": "exact bytes returned by urllib response.read; no text or line-ending normalization",
+  "body_redistributed": false,
+  "status": 200,
+  "final_url": "https://arxiv.org/pdf/2608.24827v1",
+  "response_headers": {
+    "Connection": "close",
+    "Content-Length": "525081",
+    "content-disposition": "inline; filename=\"2608.24827v1.pdf\"",
+    "etag": "CLiTn4aSvZYDEAI=",
+    "server": "Google Frontend",
+    "link": "<https://arxiv.org/pdf/2608.24827>; rel='canonical'",
+    "last-modified": "Wed, 26 Aug 2026 01:27:52 GMT",
+    "access-control-allow-origin": "*",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "content-type": "application/pdf",
+    "x-cloud-trace-context": "c327de8a77ac19624c71550d1c47dc1d",
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Date": "Fri, 25 Sep 2026 04:07:24 GMT",
+    "X-Served-By": "cache-lga-kjfk8660027-LGA, cache-lga-kjfk8660027-LGA, cache-lga-kjfk8660062-LGA, cache-lim-spjc1280051-LIM",
+    "X-Cache": "MISS, MISS, MISS",
+    "X-Timer": "S1790309244.191384,VS0,VE455"
+  },
+  "body_cache_path": ".audit-cache/phase1/chuk/arxiv-v1-pdf.body",
+  "byte_count": 525081,
+  "raw_file_sha256": "d6eed87e8362379281eb0e3ad23e187103c65750da33db79563380aa084318d9",
+  "stored_hash_recheck_matches": true,
+  "pdf_pages": 9,
+  "pdf_metadata": {
+    "/Author": "Marcus Chuk",
+    "/Creator": "arXiv GenPDF (tex2pdf:4af3385)",
+    "/DOI": "https://doi.org/10.48550/arXiv.2608.24827",
+    "/License": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+    "/PTEX.Fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) kpathsea version 6.4.1",
+    "/Producer": "pikepdf 8.15.1",
+    "/Title": "Weil positivity in compact windows: certified two-sided bounds and a Landau\u2013Widom decay law",
+    "/Trapped": "/False",
+    "/arXivID": "https://arxiv.org/abs/2608.24827v1"
+  },
+  "extraction": {
+    "tool": "pypdf",
+    "version": "6.19.0",
+    "path": ".audit-cache/phase1/chuk/arxiv-v1-pdf.txt",
+    "raw_file_sha256": "e89b9b7e6c8da4b7cb652fb1f45a80fd5eb309a68f5432f0d8845d6b21b9495a"
+  },
+  "finished_utc": "2026-09-25T04:07:30.241753+00:00"
+}

@@ -62,7 +62,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -76,7 +76,10 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
@@ -154,7 +157,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -168,7 +171,10 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
@@ -246,7 +252,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -260,7 +266,10 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
@@ -338,7 +347,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -352,7 +361,10 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
@@ -430,7 +442,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -444,7 +456,10 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
@@ -522,7 +537,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -536,7 +551,10 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
@@ -614,7 +632,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -628,7 +646,10 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
@@ -706,7 +727,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -720,7 +741,10 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
@@ -814,8 +838,8 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
-          "method": "E0",
+          "result": "E3",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -828,12 +852,17 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -906,8 +935,8 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
-          "method": "E0",
+          "result": "E3",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -920,12 +949,17 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -998,8 +1032,8 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
-          "method": "E0",
+          "result": "E3",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -1012,12 +1046,17 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -1090,8 +1129,8 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
-          "method": "E0",
+          "result": "E3",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -1104,12 +1143,17 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -1182,8 +1226,8 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
-          "method": "E0",
+          "result": "E3",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -1196,12 +1240,17 @@
           "result": {
             "state": "PENDING",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -1274,8 +1323,8 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
-          "method": "E0",
+          "result": "E3",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -1293,7 +1342,9 @@
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -1366,8 +1417,8 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
-          "method": "E0",
+          "result": "E3",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -1385,7 +1436,9 @@
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -1459,7 +1512,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -1551,7 +1604,7 @@
         "strength": {
           "validity": "E0",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -1651,7 +1704,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -1743,7 +1796,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -1835,7 +1888,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -1926,7 +1979,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -2018,7 +2071,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -2110,7 +2163,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -2202,7 +2255,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -2294,7 +2347,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -3031,7 +3084,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -3123,7 +3176,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -3215,7 +3268,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -3307,7 +3360,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -3399,7 +3452,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -3491,7 +3544,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -3583,7 +3636,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -3675,7 +3728,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -3767,7 +3820,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -3859,7 +3912,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -3951,7 +4004,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -4043,7 +4096,7 @@
         "strength": {
           "validity": "E1",
           "result": "E0",
-          "method": "E0",
+          "method": "E3",
           "software": "E0",
           "priority": "E0"
         },
@@ -4134,7 +4187,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -4226,7 +4279,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -4318,7 +4371,7 @@
         ],
         "strength": {
           "validity": "E1",
-          "result": "E0",
+          "result": "E3",
           "method": "E0",
           "software": "E0",
           "priority": "E0"
@@ -4412,7 +4465,7 @@
           "validity": "E0",
           "result": "E0",
           "method": "E0",
-          "software": "E0",
+          "software": "E3",
           "priority": "E0"
         },
         "obligations": {
@@ -4429,7 +4482,9 @@
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -4504,7 +4559,7 @@
           "validity": "E0",
           "result": "E0",
           "method": "E0",
-          "software": "E0",
+          "software": "E3",
           "priority": "E0"
         },
         "obligations": {
@@ -4521,7 +4576,9 @@
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -4596,7 +4653,7 @@
           "validity": "E0",
           "result": "E0",
           "method": "E0",
-          "software": "E0",
+          "software": "E3",
           "priority": "E0"
         },
         "obligations": {
@@ -4613,7 +4670,9 @@
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -4688,7 +4747,7 @@
           "validity": "E0",
           "result": "E0",
           "method": "E0",
-          "software": "E0",
+          "software": "E3",
           "priority": "E0"
         },
         "obligations": {
@@ -4705,7 +4764,9 @@
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -4780,7 +4841,7 @@
           "validity": "E0",
           "result": "E0",
           "method": "E0",
-          "software": "E0",
+          "software": "E3",
           "priority": "E0"
         },
         "obligations": {
@@ -4797,7 +4858,9 @@
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -4872,7 +4935,7 @@
           "validity": "E0",
           "result": "E0",
           "method": "E0",
-          "software": "E0",
+          "software": "E3",
           "priority": "E0"
         },
         "obligations": {
@@ -4889,7 +4952,9 @@
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -4964,7 +5029,7 @@
           "validity": "E0",
           "result": "E0",
           "method": "E0",
-          "software": "E0",
+          "software": "E3",
           "priority": "E0"
         },
         "obligations": {
@@ -4981,7 +5046,9 @@
           "method": {
             "state": "PENDING",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
+            ]
           },
           "software": {
             "state": "PENDING",
@@ -5057,7 +5124,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {
@@ -5149,7 +5216,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {
@@ -5241,7 +5308,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {
@@ -5349,7 +5416,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {
@@ -5441,7 +5508,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {
@@ -5540,7 +5607,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {
@@ -5631,7 +5698,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {
@@ -5722,7 +5789,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {
@@ -5813,7 +5880,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {
@@ -5920,7 +5987,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {
@@ -6011,7 +6078,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {
@@ -6110,7 +6177,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E0"
+          "priority": "E2"
         },
         "obligations": {
           "validity": {

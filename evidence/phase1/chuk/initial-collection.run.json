@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "command": [
+    "python",
+    "-B",
+    "scripts/pass4_chuk.py",
+    "--item",
+    "arxiv-v1-abs",
+    "https://arxiv.org/abs/2608.24827v1",
+    "--item",
+    "arxiv-v2-abs",
+    "https://arxiv.org/abs/2608.24827v2",
+    "--item",
+    "arxiv-v1-pdf",
+    "https://arxiv.org/pdf/2608.24827v1",
+    "--item",
+    "arxiv-v2-pdf",
+    "https://arxiv.org/pdf/2608.24827v2",
+    "--item",
+    "arxiv-v1-html",
+    "https://arxiv.org/html/2608.24827v1",
+    "--item",
+    "arxiv-v2-html",
+    "https://arxiv.org/html/2608.24827v2",
+    "--item",
+    "arxiv-v1-src",
+    "https://arxiv.org/src/2608.24827v1",
+    "--item",
+    "arxiv-v2-src",
+    "https://arxiv.org/src/2608.24827v2"
+  ],
+  "working_directory": "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work",
+  "audit_head": "35cc94c2a9108e03f8506fe35835eb9ed81cb145",
+  "source_before": {
+    "commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+    "tree": "8a1dd144a90a4121601ea839d048860bd724b413",
+    "status_porcelain": ""
+  },
+  "host": {
+    "os": "Windows-11-10.0.26200-SP0",
+    "architecture": "AMD64"
+  },
+  "tools": {
+    "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\carlo\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+    "git": "git version 2.45.2.windows.1"
+  },
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "GIT_OPTIONAL_LOCKS": "0"
+  },
+  "start_time": "2026-09-25T04:07:28.314472+00:00",
+  "audit_tool_hashes": {
+    "scripts/pass4_chuk.py": {
+      "raw_file_sha256": "7012a7bf2fd0fbdb91f89d6570fa5c72e9c361039d2d6b35e000c92b11a96b6a",
+      "normalized_sha256": "7012a7bf2fd0fbdb91f89d6570fa5c72e9c361039d2d6b35e000c92b11a96b6a"
+    },
+    "scripts/pass4_preserve.py": {
+      "raw_file_sha256": "c171c473396feabfba140f2ee97a255a6134d272b83c944b7ba0e10b45ddebfd",
+      "normalized_sha256": "c171c473396feabfba140f2ee97a255a6134d272b83c944b7ba0e10b45ddebfd"
+    },
+    "scripts/pass4_run.py": {
+      "raw_file_sha256": "dd190073a23ba205bd17c45c3a73050870de9377bdbcf435cd8dd17a2d1cd5da",
+      "normalized_sha256": "dd190073a23ba205bd17c45c3a73050870de9377bdbcf435cd8dd17a2d1cd5da"
+    },
+    "scripts/pass4_validate.py": {
+      "raw_file_sha256": "1b26f3abb07087d2061b23f780ee9a94b7c9505558bb68212f961da77f125a0f",
+      "normalized_sha256": "1b26f3abb07087d2061b23f780ee9a94b7c9505558bb68212f961da77f125a0f"
+    }
+  },
+  "audit_input_hashes": {
+    "evidence/phase0/CANDIDATE_MAP.json": {
+      "raw_file_sha256": "206f80b8602ee4000c7dc2394943bf350ea7768f7d226cbfa173e5add13db3f3",
+      "normalized_sha256": "206f80b8602ee4000c7dc2394943bf350ea7768f7d226cbfa173e5add13db3f3"
+    },
+    "evidence/phase0/HISTORICAL_CHANGE_EVENTS.json": {
+      "raw_file_sha256": "8e4a623e2497da18363b18e60b5d1552088cbb086139ef9a5844155b434a5bd0",
+      "normalized_sha256": "8e4a623e2497da18363b18e60b5d1552088cbb086139ef9a5844155b434a5bd0"
+    },
+    "evidence/phase0/PASS3_HASH_DOMAINS.json": {
+      "raw_file_sha256": "5864fd59dab69d0fecaa1b49b58120c4690967d1d1b1e13e6d542e1bf923c839",
+      "normalized_sha256": "5864fd59dab69d0fecaa1b49b58120c4690967d1d1b1e13e6d542e1bf923c839"
+    },
+    "evidence/phase0/PRESERVATION_MANIFEST.json": {
+      "raw_file_sha256": "ae95a921f5332559a7940ec32f707a0078a391f6ff16908a4e2cea18664532d5",
+      "normalized_sha256": "ae95a921f5332559a7940ec32f707a0078a391f6ff16908a4e2cea18664532d5"
+    },
+    "evidence/phase0/SOURCE_BEFORE.json": {
+      "raw_file_sha256": "c8858c21b0d52598e7445e7cbfb5ae0d6071ff7bd6f205b354def82bdf287fcf",
+      "normalized_sha256": "c8858c21b0d52598e7445e7cbfb5ae0d6071ff7bd6f205b354def82bdf287fcf"
+    }
+  },
+  "end_time": "2026-09-25T04:07:33.210584+00:00",
+  "exit_code": 0,
+  "source_after": {
+    "commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+    "tree": "8a1dd144a90a4121601ea839d048860bd724b413",
+    "status_porcelain": ""
+  },
+  "hash_domain": "exact raw file bytes",
+  "line_ending_normalization": "normalized_sha256 replaces CRLF bytes with LF only",
+  "streams": {
+    "stdout": {
+      "path": "evidence/phase1/chuk/initial-collection.stdout.log",
+      "raw_file_sha256": "02ba072c28b908fdbd2c24873a1a1482a0d635123caa96e904afa82f0f07bc51",
+      "normalized_sha256": "abaa13bb962d8cbe3cc7054a53e9b712ff1b13ef8c1e4694f8ffe410514065d8"
+    },
+    "stderr": {
+      "path": "evidence/phase1/chuk/initial-collection.stderr.log",
+      "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "normalized_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}

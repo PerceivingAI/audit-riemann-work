@@ -1,0 +1,17 @@
+{
+  "head": "94fa51e8f26794ef2d206c6c12e7adb4d85cbeaf",
+  "refs": [
+    "94fa51e8f26794ef2d206c6c12e7adb4d85cbeaf refs/heads/main",
+    "94fa51e8f26794ef2d206c6c12e7adb4d85cbeaf refs/remotes/origin/HEAD",
+    "94fa51e8f26794ef2d206c6c12e7adb4d85cbeaf refs/remotes/origin/main"
+  ],
+  "shallow": "false",
+  "commit_count": 419,
+  "scoped_commit_count": 211,
+  "retained_original_content_blobs": 254,
+  "http_statuses": [
+    200,
+    200,
+    200
+  ]
+}

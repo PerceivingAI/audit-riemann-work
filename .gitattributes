@@ -4,6 +4,7 @@
 /FOURTH_AUDIT.md -text
 /evidence/computation-logs/PASS4-* -text
 /evidence/phase0/*.json -text
+/evidence/phase1/** -text
 /AUDIT_PASS_2.md -text
 /FINAL_AUDIT.md -text
 /TEMPLATES/CLAIM_AUDIT_TEMPLATE.md -text

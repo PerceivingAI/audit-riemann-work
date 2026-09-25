@@ -1,0 +1,56 @@
+{
+  "key": "suzuki-v2-pdf",
+  "url": "https://arxiv.org/pdf/2606.09096v2",
+  "method": "GET",
+  "request_headers": {
+    "User-Agent": "Pass4PrimaryEvidence/1.0",
+    "Accept-Encoding": "identity"
+  },
+  "started_utc": "2026-09-25T04:09:13.982640+00:00",
+  "hash_domain": "exact bytes returned by urllib response.read; no text or line-ending normalization",
+  "body_redistributed": false,
+  "status": 200,
+  "final_url": "https://arxiv.org/pdf/2606.09096v2",
+  "response_headers": {
+    "Connection": "close",
+    "Content-Length": "479102",
+    "content-type": "application/pdf",
+    "access-control-allow-origin": "*",
+    "via": "1.1 google, 1.1 varnish, 1.1 varnish, 1.1 varnish",
+    "link": "<https://arxiv.org/pdf/2606.09096>; rel='canonical'",
+    "x-cloud-trace-context": "9e01fc7e82f4ba27ba1fe982fbc9df06",
+    "content-disposition": "inline; filename=\"2606.09096v2.pdf\"",
+    "etag": "CPy1wZiMqZYDEAI=",
+    "server": "Google Frontend",
+    "last-modified": "Tue, 18 Aug 2026 02:08:25 GMT",
+    "Accept-Ranges": "bytes",
+    "Age": "319695",
+    "Date": "Fri, 25 Sep 2026 04:09:09 GMT",
+    "X-Served-By": "cache-lga-kjfk8660033-LGA, cache-lga-kjfk8660033-LGA, cache-lga-kjfk8660033-LGA, cache-lim-spjc1280027-LIM",
+    "X-Cache": "MISS, HIT, MISS",
+    "X-Timer": "S1790309349.455912,VS0,VE95"
+  },
+  "body_cache_path": ".audit-cache/phase1/chuk/suzuki-v2-pdf.body",
+  "byte_count": 479102,
+  "raw_file_sha256": "f72419965587756995814988e0679af34e45eccec36b9bdc2262b23fa3b7aed7",
+  "stored_hash_recheck_matches": true,
+  "pdf_pages": 32,
+  "pdf_metadata": {
+    "/Author": "Masatoshi Suzuki",
+    "/Creator": "arXiv GenPDF (tex2pdf:8def8d8)",
+    "/DOI": "https://doi.org/10.48550/arXiv.2606.09096",
+    "/License": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+    "/PTEX.Fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) kpathsea version 6.4.1",
+    "/Producer": "pikepdf 8.15.1",
+    "/Title": "Weil's quadratic form via the screw function",
+    "/Trapped": "/False",
+    "/arXivID": "https://arxiv.org/abs/2606.09096v2"
+  },
+  "extraction": {
+    "tool": "pypdf",
+    "version": "6.19.0",
+    "path": ".audit-cache/phase1/chuk/suzuki-v2-pdf.txt",
+    "raw_file_sha256": "d7ef6bdc134170049ede9cd77f552e99f6fed4f6e7ca6eb93f4275e66917b8bf"
+  },
+  "finished_utc": "2026-09-25T04:09:16.010799+00:00"
+}
