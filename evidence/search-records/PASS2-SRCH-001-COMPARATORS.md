@@ -28,6 +28,6 @@
   - Title: *Weil positivity in compact windows: certified two-sided bounds and a Landau–Widom decay law*
   - Submission Date: `2026-08-25T11:42:00Z` (arXiv:2608.24827 [math.NT])
   - Theorem: Full-space unconditional certified positivity at $L=0.8$ (autocorrelation width $1.6$):
-    $$Q(f) \ge 8.9 	imes 10^{-18} \|f\|_2^2 \qquad orall f \in L^2([-0.8, 0.8])$$
+    $$Q(f) \ge 8.9 \times 10^{-18} \|f\|_2^2 \qquad \forall f \in L^2([-0.8, 0.8])$$
   - Method: Full Legendre modal expansion, Gauss-Legendre quadrature discretization, spherical-Bessel recurrences, interval arithmetic certificate of matrix positivity combined with a continuous symbol decay envelope for tail bounds.
-  - Crucial comparison: Chuk proves full-space positivity at a wider support window ($L=0.8$) than `riemann-conjecture`'s $T \in [0.35, 0.54]$, but uses a numerical interval/quadrature proof architecture rather than `riemann-conjecture`'s exact-prime operator decomposition $A_N - rac{3}{\mu_N}(G_V + G_2 + G_R) > 0$ and zero-floating-point exact-rational verification engine.
+  - Crucial comparison: Chuk proves full-space positivity at a wider support window ($L=0.8$) than `riemann-conjecture`'s $T \in [0.35, 0.54]$, but uses a numerical interval/quadrature proof architecture rather than `riemann-conjecture`'s exact-prime operator decomposition $A_N - \frac{3}{\mu_N}(G_V + G_2 + G_R) > 0$ and zero-floating-point exact-rational verification engine.

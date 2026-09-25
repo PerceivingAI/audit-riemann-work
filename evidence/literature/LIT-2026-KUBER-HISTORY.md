@@ -53,8 +53,8 @@ Bibliographies            L=0.45..0.60 Subspaces      22D Subspace at L=0.62    
 | :--- | :--- | :--- | :--- |
 | **Theorem Scope** | **Finite-Dimensional Subspaces Only** | **Full Space $L^2([-T, T])$ Unconditional Theorems** | Fundamental distinction: Kuber leaves infinite-dimensional tails uncertified; `riemann-conjecture` proves full-space theorems. |
 | **High-Mode Tail Bound** | Uncertified (Spectral caps open in `UPDATES.md`) | **Exact Legendre Harmonic Coercivity** $J(q) \ge H_N \|q\|_2^2$ | `riemann-conjecture` uses Tuck's identity to rigorously bound all orthogonal modes $n > N$. |
-| **First-Prime Handling** | Discrete sum over prime evaluations | **Thresholded Compressed Translation Operator** $P_2 = -rac{\log 2}{\sqrt{2}} S_{T, \log 2}$ | Analytical operator isolation with exact norm $\|S_{T,a}\| = 2\cosrac{\pi}{L+1}$. |
-| **Reduction Method** | Direct certified Cholesky on finite grid | **3-Factor Tail-Gram Schur Reduction** $A_N - rac{3}{\mu_N}(G_V + G_2 + G_R) > 0$ | Rigorous analytic reduction from infinite-dimensional operator to finite matrix inequality. |
+| **First-Prime Handling** | Discrete sum over prime evaluations | **Thresholded Compressed Translation Operator** $P_2 = -\frac{\log 2}{\sqrt{2}} S_{T, \log 2}$ | Analytical operator isolation with exact norm $\|S_{T,a}\| = 2\cos\frac{\pi}{L+1}$. |
+| **Reduction Method** | Direct certified Cholesky on finite grid | **3-Factor Tail-Gram Schur Reduction** $A_N - \frac{3}{\mu_N}(G_V + G_2 + G_R) > 0$ | Rigorous analytic reduction from infinite-dimensional operator to finite matrix inequality. |
 | **Verification Engine** | Python + Arb ball interval floating-point | **Zero-Floating-Point Standalone Rust Verifier** (`rh_cert`, `BigRational`) | Distinct exact rational certificate architecture. |
 | **Formalization** | Lean exploratory scripts | **Lean 4 Verified Soundness Lemmas** (`LDL.lean`, `Interval.lean`, etc.) | Standalone machine-checked algebraic lemmas. |
 

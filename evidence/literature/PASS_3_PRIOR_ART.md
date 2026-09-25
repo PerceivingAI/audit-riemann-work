@@ -36,7 +36,7 @@ This dossier consolidates the normalized mathematical and methodological baselin
 
 ### 2.2 Marcus Chuk (`arXiv:2608.24827`, August 25, 2026)
 * **Status**: Unconditional computer-assisted full-space certificate at $L=0.8$.
-* **Findings**: $Q(f) \ge 8.9 	imes 10^{-18} \|f\|_2^2$ on $L^2([-0.8, 0.8])$. Discretized via Gauss-Legendre quadrature with continuous Fourier decay envelopes.
+* **Findings**: $Q(f) \ge 8.9 \times 10^{-18} \|f\|_2^2$ on $L^2([-0.8, 0.8])$. Discretized via Gauss-Legendre quadrature with continuous Fourier decay envelopes.
 * **Audit Impact**: Subsumes mathematical support result novelty for project continuation points $T \in [0.40, 0.54]$ committed post-August 25 (`C-0051..C-0057`). Confirms distinct proof architecture. Full dossier in [`LIT-2026-CHUK-V2.md`](LIT-2026-CHUK-V2.md).
 
 ---
@@ -45,7 +45,7 @@ This dossier consolidates the normalized mathematical and methodological baselin
 
 ### 3.1 Legendre Harmonic Coercivity & Tuck's Identity (1964)
 * **Citation**: E. O. Tuck, *Some methods for flows past blunt slender bodies*, J. Fluid Mech. 18(4), 619–635 (1964), DOI: `10.1017/S0022112064000453`.
-* **Mathematical Statement**: $\int_{-1}^1 rac{P_n(x)-P_n(y)}{|x-y|} dy = 2 H_n P_n(x)$, where $H_n = \sum_{k=1}^n 1/k$.
+* **Mathematical Statement**: $\int_{-1}^1 \frac{P_n(x)-P_n(y)}{|x-y|} dy = 2 H_n P_n(x)$, where $H_n = \sum_{k=1}^n 1/k$.
 * **Project Mapping**: Scaled to $[-T, T]$, yielding singular operator eigenvalues $\lambda_n = 2 H_n$ and lower coercivity bound $J(q) \ge H_N \|q\|_2^2$.
 * **Adjudication**: `KNOWN INGREDIENT / NOVEL APPLICATION` (Tuck 1964).
 
@@ -60,13 +60,13 @@ This dossier consolidates the normalized mathematical and methodological baselin
   - I. J. Schoenberg, *Metric spaces and positive definite functions*, Trans. Amer. Math. Soc. 44(3), 522–536 (1938).
   - M. Suzuki, *Aspects of the screw function corresponding to the Riemann zeta-function*, J. London Math. Soc. 107(4), 1363–1396 (2023).
 * **Mathematical Statement**: A function $\psi$ on a group $G$ is conditionally negative definite iff $e^{-t\psi}$ is positive definite for all $t > 0$.
-* **Project Mapping**: Identifying $\psi(n) = \lambda_{|n|}$ as conditionally negative definite on $\mathbb{Z} \iff 	ext{RH}$.
+* **Project Mapping**: Identifying $\psi(n) = \lambda_{|n|}$ as conditionally negative definite on $\mathbb{Z} \iff \text{RH}$.
 * **Adjudication**: `NOVEL SYNTHESIS SUPPORTED` (Schoenberg 1938 synthesis).
 
 ### 3.4 Multiplicative Convolutions & Bilinear Phase Rank-One Hessians
 * **Citations**:
   - H. L. Montgomery & R. C. Vaughan, *Hilbert's inequality*, J. London Math. Soc. (1974).
   - D. R. Heath-Brown, *Prime numbers in short intervals...*, Can. J. Math. (1982).
-* **Mathematical Statement**: In multiplicative convolutions $(u, v) \mapsto \Phi_n(u+v)$, $	ext{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ has rank 1.
+* **Mathematical Statement**: In multiplicative convolutions $(u, v) \mapsto \Phi_n(u+v)$, $\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ has rank 1.
 * **Project Mapping**: Proves Type-II dyadic bilinear sums are asymptotically separable and cannot beat the $\delta \ge 1/2$ square-root barrier.
 * **Adjudication**: `NOVELTY SUPPORTED` (Original structural barrier).

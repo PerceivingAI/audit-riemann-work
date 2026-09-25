@@ -4,7 +4,7 @@
 > * **Audit Phase**: `Phase 2: Mathematical, Methodological & Obstruction Re-Audit`  
 > * **Status**: `PHASE_2_COMPLETE`  
 > * **Date of Execution**: `2026-09-24T21:05:00Z`  
-> * **Governing Document**: [`SECOND_AUDIT.md`](../../SECOND_AUDIT.md)  
+> * **Governing Document**: [`SECOND_AUDIT.md`](../../archive/SECOND_AUDIT.md)  
 > * **Master Ledger**: [`AUDIT_LEDGER.md`](../../AUDIT_LEDGER.md)  
 > * **Total Claims Adjudicated in Phase 2**: `47` (Theorems, Methods, Operators, Continuation, Obstructions, Li/Laguerre, Airy/Chirp, Gram)
 
@@ -23,7 +23,7 @@ Phase 2 conducted an exhaustive mathematical and methodological re-audit of 47 c
 
 2. **Exact-Prime Legendre-Schur Method Deconstruction (`CLM-METH-001..005`, `CLM-OPER-001..002`, `CLM-CONT-001..002`)**:
    - **Tuck (1964) Foundational Identity**: $J(P_n) = H_n \|P_n\|_2^2$ is classified as `KNOWN INGREDIENT / NOVEL APPLICATION` (Tuck 1964). Applying it to high-mode Weil coercivity $\mu_N > 0$ is novel.
-   - **3-Factor Component Schur Reduction**: $A_N - rac{3}{\mu_N}(G_V + G_2 + G_R) > 0$ is classified as `KNOWN INGREDIENTS / NOVEL SYNTHESIS SUPPORTED`.
+   - **3-Factor Component Schur Reduction**: $A_N - \frac{3}{\mu_N}(G_V + G_2 + G_R) > 0$ is classified as `KNOWN INGREDIENTS / NOVEL SYNTHESIS SUPPORTED`.
    - **Moving-Dimension Continuation**: `KNOWN INGREDIENTS / NOVEL SYNTHESIS SUPPORTED`.
    - **Verification Architecture**: `NOVELTY SUPPORTED`.
 
@@ -35,7 +35,7 @@ Phase 2 conducted an exhaustive mathematical and methodological re-audit of 47 c
 
 4. **Systematic Individual Adjudication of All 15 Obstruction Claims (`CLM-OBST-001..015`)**:
    - Every single obstruction claim has been individually adjudicated in `AUDIT_LEDGER.md`.
-   - Original structural barriers (Rank-one Hessian $	ext{Hess}(\Phi_n)=\Phi_n'' \mathbf{1}\mathbf{1}^T$, Type-II asymptotic separability, Montgomery-Vaughan length barrier, PNT moving scale insufficiency, 69% absorption loss) are rigorously validated as novel structural no-go theorems explaining the failure of standard prime cancellation techniques.
+   - Original structural barriers (Rank-one Hessian $\text{Hess}(\Phi_n)=\Phi_n'' \mathbf{1}\mathbf{1}^T$, Type-II asymptotic separability, Montgomery-Vaughan length barrier, PNT moving scale insufficiency, 69% absorption loss) are rigorously validated as novel structural no-go theorems explaining the failure of standard prime cancellation techniques.
 
 ---
 

@@ -22,7 +22,7 @@
   3. D. R. Heath-Brown, *Prime numbers in short intervals and a generalized Vaughan identity*, Can. J. Math. 34(6), 1365–1377 (1982).
 * **Adjudication**:
   - Montgomery-Vaughan length barrier: `KNOWN INGREDIENT / NOVEL APPL.`.
-  - Proving $	ext{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ has rank 1 in multiplicative convolutions (explaining why Type-II dyadic boxes are separable and cannot beat the $\delta \ge 1/2$ square-root barrier on the Laguerre prime side): `NOVELTY SUPPORTED` (Original structural barrier).
+  - Proving $\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ has rank 1 in multiplicative convolutions (explaining why Type-II dyadic boxes are separable and cannot beat the $\delta \ge 1/2$ square-root barrier on the Laguerre prime side): `NOVELTY SUPPORTED` (Original structural barrier).
 
 ### Query 5.2: Exact Rational Proof Certificates & Zero-Float Verifiers
 * **Database / Engine**: arXiv (math.NT, cs.LO), zbMATH, GitHub

@@ -12,7 +12,7 @@
 
 ### Topic 1: Bilinear / Vaughan Phase Obstructions (`CLM-OBST-011..015`)
 * **Findings**:
-  - Rank-one Hessian $	ext{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ arises from logarithmic phase separability in multiplicative convolutions.
+  - Rank-one Hessian $\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ arises from logarithmic phase separability in multiplicative convolutions.
   - Because the Hessian has rank 1, stationary phase in Type-II bilinear sums cannot yield two-dimensional oscillatory cancellation across dyadic boxes of sub-critical width.
   - This rigorously explains why Vaughan / Heath-Brown identity methods fail to beat the square-root-saving barrier $\delta \ge 1/2$ on the prime side of Li's criterion.
   - **Verdict**: `NOVELTY SUPPORTED` (Original structural no-go theorem).

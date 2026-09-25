@@ -4,7 +4,7 @@
 > * **Audit Phase**: `Phase 3: Verification Architecture & Formal Soundness Audit`  
 > * **Status**: `PHASE_3_COMPLETE`  
 > * **Date of Execution**: `2026-09-24T21:15:00Z`  
-> * **Governing Document**: [`SECOND_AUDIT.md`](../../SECOND_AUDIT.md)  
+> * **Governing Document**: [`SECOND_AUDIT.md`](../../archive/SECOND_AUDIT.md)  
 > * **Master Ledger**: [`AUDIT_LEDGER.md`](../../AUDIT_LEDGER.md)  
 > * **Claims Evaluated**: `CLM-VERF-001` through `CLM-VERF-007`
 
@@ -37,7 +37,7 @@ The repository archives 8 retained proof certificates in `source/riemann-conject
 | `C-0056` | $21/40 = 0.525$ | $96$ | `2026-08-28T010811Z-t21-40-schur-certificate` | 7,743,960 B | `a455dcb995a56f6d...` | `VERIFIED` |
 | `C-0057` | $27/50 = 0.54$ | $104$ | `2026-09-24T183715Z-t27-50-schur-certificate` | 9,084,209 B | `75187f3be283ca95...` | `VERIFIED` |
 
-All 8 retained proof certificates replay deterministically with valid Schur complement bounds $A_N - rac{3}{\mu_N}(G_V + G_2 + G_R) > 0$.
+All 8 retained proof certificates replay deterministically with valid Schur complement bounds $A_N - \frac{3}{\mu_N}(G_V + G_2 + G_R) > 0$.
 
 ---
 
@@ -49,7 +49,7 @@ The formal Lean 4 codebase in `source/riemann-conjecture/formal/` contains 36 ve
 1. **`Cert/Interval.lean` (11 lemmas)**: Soundness of outward-rounded rational interval arithmetic (preservation of containment under negation, addition, subtraction, multiplication, squaring, inversion, division, and strict positivity checks).
 2. **`Cert/LDL.lean` (7 lemmas)**: Invertibility of unit lower-triangular matrices, diagonal quadratic form positivity, and positive definiteness of interval $L D L^T$ congruence factorizations (`ldl_posDef`, `interval_ldl_posDef`).
 3. **`Cert/Gershgorin.lean` (2 lemmas)**: Strict positive row dominance implies positive definiteness; preservation of positive definiteness under invertible matrix congruence.
-4. **`Cert/EndpointAbsorption.lean` (16 lemmas)**: Certified analytical bounds for prime translation absorption constants ($\log 2$, $\sqrt{2}$, $	au$, $\kappa_{	ext{edge}}$, $c_2$, and `first_prime_absorption`).
+4. **`Cert/EndpointAbsorption.lean` (16 lemmas)**: Certified analytical bounds for prime translation absorption constants ($\log 2$, $\sqrt{2}$, $	au$, $\kappa_{\text{edge}}$, $c_2$, and `first_prime_absorption`).
 
 ### Explicit Delimitation of Unformalized Scope:
 To prevent overclaiming, Pass 2 explicitly records the components residing **outside** the Lean 4 formalization:

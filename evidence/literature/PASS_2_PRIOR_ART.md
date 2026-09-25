@@ -2,7 +2,7 @@
 
 > **Dossier Metadata**  
 > * **Document Initialized**: `2026-09-24T20:45:00Z` (Pass 2 Phase 1)  
-> * **Standard**: 4-Dimensional Prior Art Evaluation per [`SECOND_AUDIT.md`](../../SECOND_AUDIT.md)  
+> * **Standard**: 4-Dimensional Prior Art Evaluation per [`SECOND_AUDIT.md`](../../archive/SECOND_AUDIT.md)  
 > * **Scope**: Comprehensive analysis of mandatory comparators (`Kuberwastaken/riemann`, Marcus Chuk `arXiv:2608.24827`) and primary mathematical literature.
 
 ---
@@ -53,7 +53,7 @@ submission_date: "2026-08-25T11:42:00Z"
 
 ### 2.1 Technical Architecture
 Marcus Chuk establishes the first unconditional computer-assisted full-space certificate of Weil positivity on compact support $L = 0.8$ (autocorrelation support width $1.6$):
-$$Q(f) \ge 8.9 	imes 10^{-18} \|f\|_2^2 \qquad orall f \in L^2([-0.8, 0.8]).$$
+$$Q(f) \ge 8.9 \times 10^{-18} \|f\|_2^2 \qquad \forall f \in L^2([-0.8, 0.8]).$$
 
 Key mathematical techniques:
 * **Discretization**: Modal expansion on Legendre polynomials using Gauss-Legendre quadrature and spherical Bessel recurrences.
@@ -72,7 +72,7 @@ Key mathematical techniques:
 | **Priority vs. C-0051..C-0057** | August 25, 2026 (Public arXiv) | August 26–September 24, 2026 | Chuk's theorem post-dates `C-0050`, but pre-dates `C-0051..C-0057`. |
 
 ### 2.3 Adjudication Impact
-* **Mathematical Result Novelty**: Chuk's public August 25 theorem at $L=0.8$ established compact Weil positivity beyond the prime-free threshold ($T > rac{1}{2}\log 2 pprox 0.34657$). Therefore, project continuation points $T \in [0.40, 0.54]$ registered after August 25 (`C-0051..C-0057`) are **valid certified demonstrations of the exact-prime method**, but are mathematically subsumed by Chuk's wider support bound.
+* **Mathematical Result Novelty**: Chuk's public August 25 theorem at $L=0.8$ established compact Weil positivity beyond the prime-free threshold ($T > \frac{1}{2}\log 2 \approx 0.34657$). Therefore, project continuation points $T \in [0.40, 0.54]$ registered after August 25 (`C-0051..C-0057`) are **valid certified demonstrations of the exact-prime method**, but are mathematically subsumed by Chuk's wider support bound.
 * **Method & Software Novelty**: `riemann-conjecture`'s exact-prime Legendre-Schur synthesis and zero-floating-point exact rational verifier remain **fully independent and novel methodologies**.
 
 ---
@@ -81,7 +81,7 @@ Key mathematical techniques:
 
 ### 3.1 Legendre Harmonic Coercivity & Tuck's Identity (1964)
 * **Primary Citation**: E. O. Tuck, *Some methods for flows past blunt slender bodies*, J. Fluid Mech. 18(4), 619–635 (1964).
-* **Identity**: $\int_{-1}^1 rac{P_n(x)-P_n(y)}{|x-y|} dy = 2 H_n P_n(x)$.
+* **Identity**: $\int_{-1}^1 \frac{P_n(x)-P_n(y)}{|x-y|} dy = 2 H_n P_n(x)$.
 * **Classification**: `KNOWN INGREDIENT / NOVEL APPLICATION`. Tuck's 1964 identity is the foundational mathematical ingredient; applying it to establish high-mode Weil positivity coercivity $\mu_N > 0$ is an original synthesis.
 
 ### 3.2 Li / Laguerre Formulations & Lagarias Baseline (2007)
@@ -100,4 +100,4 @@ Key mathematical techniques:
 ### 3.4 Multiplicative Bilinear Phase Barriers & Montgomery-Vaughan (1974)
 * **Primary Citations**:
   - H. L. Montgomery & R. C. Vaughan, *Hilbert's inequality*, J. London Math. Soc. (1974).
-* **Classification**: `NOVELTY SUPPORTED`. Proving that the Hessian matrix of the phase function in multiplicative prime convolutions has rank 1 ($	ext{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$) rigorously establishes why Type-II Vaughan/Heath-Brown sums are asymptotically separable and cannot beat the $\delta \ge 1/2$ square-root barrier.
+* **Classification**: `NOVELTY SUPPORTED`. Proving that the Hessian matrix of the phase function in multiplicative prime convolutions has rank 1 ($\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$) rigorously establishes why Type-II Vaughan/Heath-Brown sums are asymptotically separable and cannot beat the $\delta \ge 1/2$ square-root barrier.

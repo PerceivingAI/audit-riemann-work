@@ -24,7 +24,7 @@
   5. M. Suzuki, *Aspects of the screw function corresponding to the Riemann zeta-function*, J. London Math. Soc. 107(4), 1363–1396 (2023).
 * **Adjudication**:
   - Standard Li criterion $\lambda_n \ge 0$ is a scalar sequence condition.
-  - Proving $\psi(n) = \lambda_{|n|}$ is conditionally negative definite on $\mathbb{Z} \iff 	ext{RH}$ (and hence $e^{-t\lambda_{|n|}}$ is positive definite for all $t > 0$ via Schoenberg 1938) is an original structural synthesis (`NOVEL SYNTHESIS SUPPORTED`).
+  - Proving $\psi(n) = \lambda_{|n|}$ is conditionally negative definite on $\mathbb{Z} \iff \text{RH}$ (and hence $e^{-t\lambda_{|n|}}$ is positive definite for all $t > 0$ via Schoenberg 1938) is an original structural synthesis (`NOVEL SYNTHESIS SUPPORTED`).
 
 ### Query 3.2: Laguerre Prime Expansions, Pole Subtraction & Shift Filters
 * **Database / Engine**: MathSciNet, Google Scholar, arXiv

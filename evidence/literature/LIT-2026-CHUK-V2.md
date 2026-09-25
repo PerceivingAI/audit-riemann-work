@@ -18,9 +18,9 @@ Marcus Chuk establishes the first unconditional computer-assisted certificate of
 
 ### Primary Theorem Statement:
 Let $Q(f)$ denote Weil's quadratic functional on test functions $f \in L^2([-L, L])$. For $L = 0.8$:
-$$\lambda^*(0.8) = \inf_{f \in L^2([-0.8, 0.8]), \|f\|_2=1} Q(f) \ge 8.9 	imes 10^{-18} > 0.$$
+$$\lambda^*(0.8) = \inf_{f \in L^2([-0.8, 0.8]), \|f\|_2=1} Q(f) \ge 8.9 \times 10^{-18} > 0.$$
 Furthermore, Chuk establishes the rigorous two-sided enclosure:
-$$8.9 	imes 10^{-18} \le \lambda^*(0.8) \le 2.27 	imes 10^{-17}.$$
+$$8.9 \times 10^{-18} \le \lambda^*(0.8) \le 2.27 \times 10^{-17}.$$
 
 ---
 
@@ -44,7 +44,7 @@ $$8.9 	imes 10^{-18} \le \lambda^*(0.8) \le 2.27 	imes 10^{-17}.$$
 | **First Public Timestamp** | **2026-08-25T11:42:00Z** (Public arXiv Submission) | **2026-08-21T14:05:13Z** (`6dd1d8f` Git Commit) | Git commit pre-dates Chuk by 3.9 days; public push unverified. |
 | **Support Parameter** | $L = 0.8$ ($[-0.8, 0.8]$, width $1.6$) | $T = 0.35 	o 0.54$ ($[-T, T]$) | Chuk proves positivity across a wider support domain than $T=0.54$. |
 | **Proof Architecture** | Full numerical discretization + continuous Fourier decay envelope | Exact-prime operator decomposition + Tuck harmonic coercivity + Schur complement | **Two fundamentally distinct mathematical proof architectures.** |
-| **First-Prime Handling** | Global numerical quadrature integral | Explicit compressed translation operator $P_2 = -rac{\log 2}{\sqrt{2}} S_{T, \log 2}$ | `riemann-conjecture` isolates analytical prime geometry. |
+| **First-Prime Handling** | Global numerical quadrature integral | Explicit compressed translation operator $P_2 = -\frac{\log 2}{\sqrt{2}} S_{T, \log 2}$ | `riemann-conjecture` isolates analytical prime geometry. |
 | **Verification Engine** | Floating-point interval arithmetic (Arb/MPFI) | Zero-floating-point standalone Rust verifier (`rh_cert`, `BigRational`) | Exact rational certificates vs. floating interval certificates. |
 
 ---

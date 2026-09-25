@@ -4,7 +4,7 @@
 > * **Audit Phase**: `Phase 4: Priority & Chronological Cross-Examination`  
 > * **Status**: `PHASE_4_COMPLETE`  
 > * **Date of Execution**: `2026-09-24T21:25:00Z`  
-> * **Governing Document**: [`SECOND_AUDIT.md`](../../SECOND_AUDIT.md)  
+> * **Governing Document**: [`SECOND_AUDIT.md`](../../archive/SECOND_AUDIT.md)  
 > * **Master Ledger**: [`AUDIT_LEDGER.md`](../../AUDIT_LEDGER.md)  
 > * **Timeline Baseline**: [`PASS_2_TIMELINE.md`](../../evidence/public-timeline/PASS_2_TIMELINE.md)  
 > * **Claims Evaluated**: `CLM-PRIO-001` through `CLM-PRIO-012`

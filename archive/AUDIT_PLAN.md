@@ -12,7 +12,7 @@ This document outlines the phased execution strategy, prioritization matrix, ver
 
 ## 1. Audit Tiering & Execution Priority
 
-The 50 candidate propositions in [`CLAIMS_TO_AUDIT.md`](CLAIMS_TO_AUDIT.md) are prioritized into four sequential tiers based on mathematical significance, methodology impact, and priority exposure:
+The 50 candidate propositions in [`CLAIMS_TO_AUDIT.md`](../CLAIMS_TO_AUDIT.md) are prioritized into four sequential tiers based on mathematical significance, methodology impact, and priority exposure:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐

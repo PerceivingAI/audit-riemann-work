@@ -54,6 +54,6 @@
   1. Marcus Chuk, *Weil positivity in compact windows: certified two-sided bounds and a Landau–Widom decay law*, arXiv:2608.24827v1 (Submitted `2026-08-25T11:42:00Z`).
   2. arXiv:2608.24827v2 (Revised `2026-09-04`).
 * **Relevance & Normalization Assessment**:
-  - Full-space unconditional certified positivity at $L=0.8$: $Q(f) \ge 8.9 	imes 10^{-18} \|f\|_2^2$.
+  - Full-space unconditional certified positivity at $L=0.8$: $Q(f) \ge 8.9 \times 10^{-18} \|f\|_2^2$.
   - Discretization via Gauss-Legendre quadrature + spherical Bessel recurrences with interval arithmetic matrix enclosures.
   - Distinct certified proof architecture from `riemann-conjecture`'s exact rational Schur reduction.

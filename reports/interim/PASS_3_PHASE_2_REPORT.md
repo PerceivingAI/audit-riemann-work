@@ -16,7 +16,7 @@ WS-02 and WS-03 have successfully reconstructed [`AUDIT_LEDGER.md`](../../AUDIT_
 ### Key Structural Improvements:
 
 1. **Resolution of Pass 2 Mapping Shifts**:
-   - **`CLM-GRAM-001` vs `CLM-GRAM-002`**: Realigned proposition statements and rationales so that `CLM-GRAM-001` evaluates the Li Gram matrix hierarchy ($K_{jk}^{(N)} \ge 0 \iff 	ext{RH}$) and `CLM-GRAM-002` evaluates the Schoenberg-Herglotz conditionally negative definite sequence characterization ($\psi(n)=\lambda_{|n|}$ on $\mathbb{Z}$).
+   - **`CLM-GRAM-001` vs `CLM-GRAM-002`**: Realigned proposition statements and rationales so that `CLM-GRAM-001` evaluates the Li Gram matrix hierarchy ($K_{jk}^{(N)} \ge 0 \iff \text{RH}$) and `CLM-GRAM-002` evaluates the Schoenberg-Herglotz conditionally negative definite sequence characterization ($\psi(n)=\lambda_{|n|}$ on $\mathbb{Z}$).
    - **`CLM-VERF-004..006`**: Realigned proposition statements and rationales so that `CLM-VERF-004` evaluates the pre-theorem promotion boundary, `CLM-VERF-005` evaluates adversarial contract failure separation, and `CLM-VERF-006` evaluates the 8/8 retained proof chain hash replay.
 
 2. **Decoupled 4-Axis Matrix Structure (All 66 Claims)**:

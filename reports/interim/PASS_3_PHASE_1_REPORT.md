@@ -20,7 +20,7 @@ WS-04 has completely overhauled the literature and repository search logging to 
 3. **Shortlisted Items with Full Citations**: Specific inspected papers, preprints, books, and repository files are cited with formal bibliographic metadata (DOIs, arXiv identifiers, publication dates, and section references).
 4. **Explicit Logging of Null / Zero-Hit Searches**:
    - `PASS3-SRCH-001`: Null search confirming `Kuberwastaken/riemann` lacks harmonic coercivity or exact-prime Schur reductions.
-   - `PASS3-SRCH-002`: Null search confirming the 3-factor tail-Gram Schur formula $A_N - rac{3}{\mu_N}(G_V + G_2 + G_R) > 0$ is absent from prior literature.
+   - `PASS3-SRCH-002`: Null search confirming the 3-factor tail-Gram Schur formula $A_N - \frac{3}{\mu_N}(G_V + G_2 + G_R) > 0$ is absent from prior literature.
    - `PASS3-SRCH-003`: Null search confirming the second-order pole-annihilating shift filter $T=(E-1)(E-q)$ is original.
    - `PASS3-SRCH-004`: Null searches across GitHub REST API, Wayback Machine, and Software Heritage / GH Archive confirming that public push events for commit `6dd1d8f0` (`C-0050`) prior to August 25, 2026 lack third-party external indexation.
    - `PASS3-SRCH-005`: Null search confirming zero-floating-point exact rational verifier architectures for compact Weil certificates have not been previously deployed.
