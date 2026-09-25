@@ -1,4 +1,4 @@
-# Master Audit Plan — Audit Pass 2: Adversarial Re-Audit of `riemann-conjecture`
+# Audit Plan — Audit Pass 2: Adversarial Re-Audit of `riemann-conjecture`
 
 ## Executive Summary & Governance
 
