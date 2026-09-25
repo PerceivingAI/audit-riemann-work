@@ -58,7 +58,7 @@ Pass 4 Phase 3 has conducted an independent mathematical validity audit across a
   - `CLM-OBST-001`: Global replacement of $V+P_2$ by $0.69V$ produces an indefinite quadratic form on $P_0-P_2$, proving endpoint absorption cannot be extended globally.
   - `CLM-OBST-004..005`: Pointwise PNT bounds and Vinogradov-Korobov bounds are exponentially insufficient on moving prime scales $\log x \sim cn$.
   - `CLM-OBST-009`: Montgomery-Vaughan mean-value theorem forces an unavoidable length penalty $O(N)$ for long Dirichlet polynomials ($N = \exp(4nu_0/A)$), preventing $L^2$ large-sieve methods from reaching the RH root target.
-  - `CLM-OBST-011..015`: Multiplicative convolutions preserve rank-one Hessian geometry ($\operatorname{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$); Type-II boxes are asymptotically separable ($O(1/n)$ phase defect), establishing a structural no-go theorem for conventional Vaughan/Heath-Brown bilinear phase cancellation.
+  - `CLM-OBST-011..015`: Multiplicative convolutions preserve rank-one Hessian geometry ($\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$); Type-II boxes are asymptotically separable ($O(1/n)$ phase defect), establishing a structural no-go theorem for conventional Vaughan/Heath-Brown bilinear phase cancellation.
   - **Verification Basis**: `[INDEPENDENT_DERIVATION]` (`E3`).
 
 ---

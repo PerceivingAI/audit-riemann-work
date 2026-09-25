@@ -39,7 +39,7 @@
 
 ### Item 1: Vaughan & Heath-Brown Bilinear Decompositions
 * **Content**: Classical Type-I / Type-II prime sum decompositions for bilinear phase cancellation.
-* **Disposition**: `KNOWN INGREDIENT / NOVEL SYNTHESIS SUPPORTED` (for `CLM-OBST-011..015`). Proving that the Hessian matrix of the Laguerre phase in multiplicative convolutions has rank 1 ($\operatorname{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$) and that Type-II boxes are asymptotically separable ($O(1/n)$ phase defect) establishes a structural no-go theorem for generic phase cancellation.
+* **Disposition**: `KNOWN INGREDIENT / NOVEL SYNTHESIS SUPPORTED` (for `CLM-OBST-011..015`). Proving that the Hessian matrix of the Laguerre phase in multiplicative convolutions has rank 1 ($\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$) and that Type-II boxes are asymptotically separable ($O(1/n)$ phase defect) establishes a structural no-go theorem for generic phase cancellation.
 
 ### Item 2: Montgomery–Vaughan Mean-Value Theorem
 * **Content**: $L^2$ mean value bounds for Dirichlet polynomials $\int_0^T |\sum a_n n^{-it}|^2 dt = \sum |a_n|^2 (T + O(n))$.
@@ -61,7 +61,7 @@
 | `CLM-OBST-008` | Natural $\sqrt{n}$ Mellin frequency cap imposed by first prime $m=2$ | Prime atom support imposes $\gamma_{\max}(n) = O(\sqrt{n})$. | `NOVEL SYNTHESIS SUPPORTED` |
 | `CLM-OBST-009` | Montgomery-Vaughan mean-value length barrier for long Dirichlet sums | Proves length term $O(N)$ forces RMS root base $\exp(2u_0/A) > 1$. | `KNOWN INGREDIENT / NOVEL APPL.` |
 | `CLM-OBST-010` | Microlocal subexponential control is already zero-sensitive | Proves uniform local cell control would exclude right-of-line zeros. | `NOVEL SYNTHESIS SUPPORTED` |
-| `CLM-OBST-011` | Rank-one Hessian $\operatorname{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ in multiplicative convolutions | Multiplicative convolution preserves rank-1 phase geometry. | `NOVEL SYNTHESIS SUPPORTED` |
+| `CLM-OBST-011` | Rank-one Hessian $\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ in multiplicative convolutions | Multiplicative convolution preserves rank-1 phase geometry. | `NOVEL SYNTHESIS SUPPORTED` |
 | `CLM-OBST-012` | Standard dyadic Type-II chirp boxes are asymptotically separable | Proves phase defect $|\Delta F| \le C(\log 2)^2/n \implies O(1/n)$ separability. | `NOVEL SYNTHESIS SUPPORTED` |
 | `CLM-OBST-013` | Nonseparability threshold begins only at logarithmic widths $\sim\sqrt{n}$ | Balanced bilinear nonseparability requires $H_r \sim H_s \sim \sqrt{n}$. | `NOVEL SYNTHESIS SUPPORTED` |
 | `CLM-OBST-014` | Exponent bookkeeping: Direct prime estimates require $\delta \ge 1/2$ saving | Half-weight shift forces square-root savings requirement. | `NOVEL SYNTHESIS SUPPORTED` |

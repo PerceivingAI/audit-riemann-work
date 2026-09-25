@@ -17,7 +17,7 @@ In this foundational paper, Yoshida constructs and analyzes the explicit-formula
 
 ### 1.1 Theorem 1 (p. 310): Prime-Free Compact Positivity
 Yoshida establishes that for the Riemann zeta function, the explicit-formula quadratic form $H(f)$ (in the pole-inclusive normalization) is strictly positive definite on the space of test functions supported in the prime-free compact window:
-$$\operatorname{supp} f \subseteq [-a, a], \qquad a \le \frac{1}{2}\log 2 \approx 0.34657359$$
+$$\text{supp} f \subseteq [-a, a], \qquad a \le \frac{1}{2}\log 2 \approx 0.34657359$$
 * **Proof Method**: 200-mode Fourier series expansion on the interval $[-a, a]$ with rigorous analytical error bounds on the truncation remainder.
 * **Significance**: First unconditional rigorous proof of compact Weil positivity beyond the trivial point $a=0$.
 

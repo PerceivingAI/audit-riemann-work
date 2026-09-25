@@ -19,7 +19,7 @@ The theorem reduction proceeds in four exact steps:
    $$Q_T(w) = J(w) + V(w) + P_2(w) + R_T(w) - c_T \|w\|_2^2$$
    where $J(w) = \frac{1}{4}\iint \frac{|w(x)-w(y)|^2}{|x-y|} dx dy$, $V(x) = -\frac{1}{2}\log(1-x^2)$, $P_2$ is the $p=2$ compressed translation operator, and $R_T$ is Suzuki's finite-support residual kernel.
 2. **Legendre Harmonic Complement Coercivity**:
-   On the orthogonal complement subspace $\mathcal{Q}_N = \operatorname{span}\{P_0, \dots, P_{N-1}\}^\perp$, Tuck's identity yields:
+   On the orthogonal complement subspace $\mathcal{Q}_N = \text{span}\{P_0, \dots, P_{N-1}\}^\perp$, Tuck's identity yields:
    $$J(q) \ge H_N \|q\|_2^2 \implies Q_T(q) \ge \mu_N \|q\|_2^2, \qquad \mu_N = H_N - c_T - c_2 - \rho_R > 0$$
 3. **Component Tail-Gram Schur Reduction**:
    Decomposing the low-to-tail coupling block as $B_N = B_V + B_2 + B_R$, Cauchy-Schwarz yields full-space positivity if the finite $N \times N$ matrix satisfies:

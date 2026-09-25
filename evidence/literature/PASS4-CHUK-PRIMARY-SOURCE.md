@@ -17,7 +17,7 @@
 ## 1. Primary Mathematical Theorems & Normalized Statements
 
 The paper investigates the normalized infimum of the Weil quadratic functional on compact support windows:
-$$\lambda^*(L) = \inf_{f \in L^2(\mathbb{R}), \, \operatorname{supp} f \subseteq [-L, L], \, \|f\|_2 = 1} Q(f)$$
+$$\lambda^*(L) = \inf_{f \in L^2(\mathbb{R}), \, \text{supp} f \subseteq [-L, L], \, \|f\|_2 = 1} Q(f)$$
 
 ### 1.1 Theorem 1.1: One-Stroke Reduction
 For any $L > 0$, define the prime-comb mass $A_L = \sum_{\log n < 2L} \frac{2\Lambda(n)}{\sqrt{n}}$ and the comb-alignment frequency $T_1 = 2\pi e^{A_L}$. For any $T^\sharp > T_1$ such that $\beta^* := \log\frac{T^\sharp}{2\pi} - \frac{1}{T^\sharp} - A_L > 0$, the Weil quadratic form satisfies the lower bound:
@@ -27,7 +27,7 @@ $$Q(f) \ge \bigl(\min(\lambda_{\min}(M_N), \, \beta^* - \varepsilon_D) - \vareps
 where $\varepsilon_D, \varepsilon_B \le 10^{-100}$ are explicit super-exponential tail bounds when $2N \gtrsim eLT^\sharp/2$.
 
 ### 1.2 Theorem 1.2: Certified Positivity on Support 1.6 ($L=0.8$)
-For every real even $f \in L^2(\mathbb{R})$ with $\operatorname{supp} f \subseteq [-0.8, 0.8]$ (autocorrelation support $\operatorname{supp}(f \star \tilde{f}) \subseteq [-1.6, 1.6]$):
+For every real even $f \in L^2(\mathbb{R})$ with $\text{supp} f \subseteq [-0.8, 0.8]$ (autocorrelation support $\text{supp}(f \star \tilde{f}) \subseteq [-1.6, 1.6]$):
 $$Q(f) \ge 8.9 \times 10^{-18} \|f\|_2^2 > 0$$
 Furthermore, Theorem 6.2 and Corollary 6.3 establish that:
 1. Positivity holds for **arbitrary complex** test functions $f \in L^2[-0.8, 0.8]$ (since the odd parity sector satisfies $Q \ge 8.2 \times 10^{-15} \|f\|_2^2$).

@@ -19,7 +19,7 @@ Connes and Consani provide a conceptual operator-theoretic proof of the positivi
 ### 1.1 Prolate Spheroidal Functions & Sonin Spaces
 * **Core Construction**: The root of positivity at the archimedean place is expressed as the trace of the scaling action compressed onto the orthogonal complement of cutoff projections in phase space (Sonin space).
 * **Toeplitz Matrix Control**: The difference between the Weil distribution and the Sonin trace is expressed in terms of prolate spheroidal wave functions, controlled via the spectral theory of Hermitian Toeplitz matrices.
-* **Range of Positivity**: Establishes unconditional positivity on the prime-free window $\operatorname{supp} f \subseteq [-\frac{1}{2}\log 2, \frac{1}{2}\log 2]$.
+* **Range of Positivity**: Establishes unconditional positivity on the prime-free window $\text{supp} f \subseteq [-\frac{1}{2}\log 2, \frac{1}{2}\log 2]$.
 
 ---
 

@@ -28,7 +28,7 @@
 ### CLM-LAGU-003
 * **Proposition**: Pole-subtracted prime-Laguerre root criterion: $\text{RH} \iff \limsup |S_n|^{1/n} \le 1$.
 * **Pinned Source Location**: `source/riemann-conjecture/docs/CLAIMS.md#L119-L123`
-* **Independent Derivation**: Once the geometric pole mode $q^n$ is subtracted ($S_n = P_n - (1-q^n)$), the remaining spectrum of zeros $\rho$ contributes $\sum (z_\rho^{-n}-1)$. Under RH, $|z_\rho| = 1 \implies |S_n|^{1/n} \le 1$. If RH fails, $\exists \rho$ with $\operatorname{Re}(\rho) > 1/2 \implies |z_\rho| < 1 \implies \limsup |S_n|^{1/n} = |z_\rho|^{-1} > 1$.
+* **Independent Derivation**: Once the geometric pole mode $q^n$ is subtracted ($S_n = P_n - (1-q^n)$), the remaining spectrum of zeros $\rho$ contributes $\sum (z_\rho^{-n}-1)$. Under RH, $|z_\rho| = 1 \implies |S_n|^{1/n} \le 1$. If RH fails, $\exists \rho$ with $\text{Re}(\rho) > 1/2 \implies |z_\rho| < 1 \implies \limsup |S_n|^{1/n} = |z_\rho|^{-1} > 1$.
 * **Verification Basis**: `[INDEPENDENT_DERIVATION]`
 * **Validity Evidence Strength**: `E3` | **Factual Status**: `VERIFIED`
 

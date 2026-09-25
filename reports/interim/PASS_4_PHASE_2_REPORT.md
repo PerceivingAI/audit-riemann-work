@@ -58,7 +58,7 @@ Pass 4 Phase 2 has executed multi-family, database-by-database literature search
 * **Dossier**: [`evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md`](../../evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md)
 * **Claims**: `CLM-OBST-001..015`
 * **Findings**:
-  - `CLM-OBST-011..015` (Bilinear Phase Obstructions): Multiplicative convolutions preserve rank-one Hessian geometry ($\operatorname{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$); Type-II boxes are asymptotically separable ($O(1/n)$ phase defect), proving that generic Vaughan/Heath-Brown phase cancellation cannot bypass the $\delta \ge 1/2$ square-root barrier (`NOVEL SYNTHESIS SUPPORTED`).
+  - `CLM-OBST-011..015` (Bilinear Phase Obstructions): Multiplicative convolutions preserve rank-one Hessian geometry ($\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$); Type-II boxes are asymptotically separable ($O(1/n)$ phase defect), proving that generic Vaughan/Heath-Brown phase cancellation cannot bypass the $\delta \ge 1/2$ square-root barrier (`NOVEL SYNTHESIS SUPPORTED`).
   - `CLM-OBST-009` (Montgomery-Vaughan Barrier): Applying Montgomery–Vaughan mean-value theorem proves $L^2$ large-sieve machinery leaves an exponential root base $\exp(2u_0/A) > 1$ (`KNOWN INGREDIENT / NOVEL APPL.`).
 
 ### 2.6 Topic 6: Zero-Floating-Point Verification Architecture and Formal Soundness

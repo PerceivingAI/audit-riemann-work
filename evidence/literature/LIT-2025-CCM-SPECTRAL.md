@@ -21,7 +21,7 @@ Let $QW_\lambda^N$ denote the restriction of the Weil quadratic form to the span
 2. The corresponding eigenfunction $\xi$ is **even** (invariant under $u \mapsto u^{-1}$).
 
 Then $D_{\log}^{(\lambda, N)} := D_{\log}^{(\lambda)} - |D_{\log}^{(\lambda)}\xi\rangle\langle\delta_N|$ is self-adjoint on $E'_N \oplus E_N^\perp$, and its regularized determinant satisfies:
-$$\operatorname{det}_{\mathrm{reg}}(D_{\log}^{(\lambda, N)} - z) = -i \lambda^{-iz} \hat{\xi}(z)$$
+$$\text{det}_{\mathrm{reg}}(D_{\log}^{(\lambda, N)} - z) = -i \lambda^{-iz} \hat{\xi}(z)$$
 whose zeros are all real.
 
 ### 1.2 Open Convergence Obstacles (§7–8)

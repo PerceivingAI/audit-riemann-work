@@ -18,7 +18,7 @@ Obstruction Group D evaluates structural no-go theorems establishing why convent
 ## 2. Claim-by-Claim Validity Review
 
 ### CLM-OBST-011
-* **Proposition**: Rank-one Hessian $\operatorname{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ in multiplicative convolutions.
+* **Proposition**: Rank-one Hessian $\text{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$ in multiplicative convolutions.
 * **Pinned Source Location**: `source/riemann-conjecture/docs/CLAIMS.md#L350-L354`
 * **Independent Mathematical Check**:
   - For $m = a_1 \dots a_k$ with $r_j = \log a_j$, the Laguerre phase is $F_k(r_1, \dots, r_k) = \Phi_n(r_1 + \dots + r_k)$.

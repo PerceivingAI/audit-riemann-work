@@ -31,7 +31,7 @@ Obstruction Group A evaluates candidate structural obstructions in the Weil quad
 * **Proposition**: Positive-kernel decomposition of real digamma multiplier into monotone quadratic forms.
 * **Pinned Source Location**: `source/riemann-conjecture/docs/CLAIMS.md#L482-L486`
 * **Independent Mathematical Check**:
-  - For $a_k = k+1/4$, $\operatorname{Re}\psi(1/4+i\xi/2) - \log\pi = m_0 + \sum_{k \ge 0} [1/a_k - 4a_k/(\xi^2+4a_k^2)]$.
+  - For $a_k = k+1/4$, $\text{Re}\psi(1/4+i\xi/2) - \log\pi = m_0 + \sum_{k \ge 0} [1/a_k - 4a_k/(\xi^2+4a_k^2)]$.
   - Under Fourier inversion, each term corresponds to the positive semidefinite quadratic form $\frac{1}{a_k}\|f\|_2^2 - \iint e^{-2a_k|t-s|}f(t)\overline{f(s)} dt ds \ge 0$.
   - Partial sums provide monotone lower bounds for the digamma multiplier.
 * **Verification Basis**: `[INDEPENDENT_DERIVATION]`
