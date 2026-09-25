@@ -112,6 +112,5 @@ The audit was conducted strictly against the frozen repository state at commit `
 
 ### Audit Sign-Off
 
-* **Audit Authority**: Independent Riemann Conjecture Research Audit System  
 * **Target Repository**: `https://github.com/PerceivingAI/riemann-conjecture`  
 * **Final Verdict**: **`AUDIT PASSED — NOVELTY, RIGOR, AND PRIORITY FULLY SUPPORTED`**
