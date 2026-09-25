@@ -5,7 +5,7 @@ A public, independent, and evidentiary audit of the mathematical, methodological
 > * **Audit Status**: Completed (`AUDIT_COMPLETE`)  
 > * **Audit Initialized**: `2026-09-24T00:00:00Z`  
 > * **Audit Concluded**: `2026-09-24T00:00:00Z`  
-> * **Final Comprehensive Report**: [`reports/FINAL_AUDIT.md`](reports/FINAL_AUDIT.md)  
+> * **Final Comprehensive Report**: [`FINAL_AUDIT.md`](FINAL_AUDIT.md)  
 > * **Target Pinned Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`
 
 
@@ -30,6 +30,7 @@ The audit evaluates candidate hypotheses against established mathematical litera
 ```text
 riemann-conjecture-audit/
 ├── README.md                  # Public overview, scope, and governance
+├── FINAL_AUDIT.md             # Master comprehensive final audit report
 ├── AUDIT_PLAN.md              # Master phased execution strategy, tiering, and gates
 ├── AUDIT_PROTOCOL.md          # Methodological rules, taxonomy, and standards
 ├── SOURCE.md                  # Source repo provenance, commit pinning, commit map
