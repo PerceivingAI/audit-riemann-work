@@ -1,883 +1,240 @@
-# Audit Pass 2 — Adversarial Re-Audit of `riemann-conjecture`
+# Master Audit Plan — Audit Pass 2: Adversarial Re-Audit of `riemann-conjecture`
 
-You are conducting **Audit Pass 2** of the public research project:
+## Executive Summary & Governance
 
-`https://github.com/PerceivingAI/riemann-conjecture`
+This document establishes the operational execution plan, methodological protocol, verification gates, and milestone roadmap for **Audit Pass 2** of the public research repository [`https://github.com/PerceivingAI/riemann-conjecture`](https://github.com/PerceivingAI/riemann-conjecture).
 
-The audit repository itself is also public and contains the complete first audit pass.
+Audit Pass 2 is an independent, adversarial re-audit. Its primary mission is to **audit Audit Pass 1** rather than defend it. Every conclusion, verdict, and baseline established in Pass 1 is treated as a testable hypothesis subject to confirmation, narrowing, downgrading, or outright rejection based on primary evidence.
 
-## Core principle
-
-**Do not assume Audit Pass 1 is correct.**
-
-Pass 1 is a historical audit artifact. Preserve it exactly as part of the public audit trail, but treat every conclusion in it as a hypothesis that may need to be confirmed, narrowed, downgraded, or rejected.
-
-Your task is to **audit the first audit**, not defend it.
-
-The objective is to move toward the most accurate scientific assessment possible, even when that weakens claims made in Pass 1.
-
----
-
-# 1. Repository and historical boundaries
-
-The target research repository is:
-
-`https://github.com/PerceivingAI/riemann-conjecture`
-
-The audited closed-state research commit is:
-
-`51feb3d176e4a53773c22dc157567cc0486f4c71`
-
-The current Audit Pass 1 public head is:
-
-`20b3f9d — FINAL_AUDIT.md - Document Complete - First Audit Complete`
-
-Treat that commit and its contents as an immutable historical record of the first audit.
-
-Do **not** rewrite Pass 1 to make it retrospectively correct.
-
-Corrections belong in new Pass 2 artifacts.
-
-The source research snapshot under:
-
-`source/riemann-conjecture/`
-
-must remain read-only.
-
-Do not modify the source project's history, certificates, findings, claims, computations, or theorem records.
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│                        Audit Pass 2 Core Mandate                       │
+├────────────────────────────────────────────────────────────────────────┤
+│ • Skeptical & Adversarial Default: Seek evidence that disproves Pass 1 │
+│ • Complete Claim Accounting: Adjudicate all 66 candidate claims        │
+│ • Expanded Prior Art: Include public repos (e.g. Kuberwastaken/riemann)│
+│ • Primary Paper Re-Audits: Exact comparison with Chuk (arXiv:2608.24827)│
+│ • Decoupled Novelty: Math Result vs. Method vs. Software vs. Priority  │
+│ • Strict Priority Standards: Cryptographic commit ≠ verified public push│
+│ • Exact Boundary Scopes: Zero-FP verification & Lean proof boundaries  │
+│ • Preservation of History: Pass 1 immutable; Pass 2 builds new record  │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 2. Audit stance
+## 1. Governance, Repositories & Historical Boundaries
 
-Your stance must be:
+### 1.1 Target Repository Boundaries
+* **Target Research Repository**: `https://github.com/PerceivingAI/riemann-conjecture`
+* **Audited Closed-State Research Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`
+* **Source Snapshot Path**: `source/riemann-conjecture/` (Strict Read-Only; no modifications to history, certificates, findings, or code).
 
-**Adversarial, independent, skeptical, evidence-driven, and correction-seeking.**
-
-For every important Pass 1 conclusion, ask:
-
-> What evidence would prove this conclusion wrong?
-
-Actively search for that evidence.
-
-Finding prior art, an earlier disclosure, an equivalent formulation, a stronger result, a methodological predecessor, a normalization error, or an unsupported timeline assumption is a **successful audit outcome**, not a failure.
-
-Likewise, do not downgrade a claim merely because Pass 1 was overconfident. If a claim survives stronger scrutiny, record that clearly.
+### 1.2 Pass 1 Historical Immutability
+* **Pass 1 Public Head**: Commit `20b3f9d` (`FINAL_AUDIT.md - Document Complete - First Audit Complete`).
+* **Preservation Rule**: Pass 1 artifacts (`FINAL_AUDIT.md`, `reports/FINAL_AUDIT.md`, Pass 1 dossiers, search records) remain unaltered as historical audit evidence.
+* **Non-Authoritative Status**: Pass 1 conclusions cannot be cited as evidence for underlying scientific claims. All claims must be evaluated against primary sources.
+* **Corrections in New Artifacts**: All Pass 2 adjudications, corrections, and ledger updates reside in dedicated Pass 2 files (`AUDIT_LEDGER.md`, `reports/AUDIT_PASS_2.md`, `evidence/search-records/PASS2-*.md`, etc.).
 
 ---
 
-# 3. Pass 1 must not be treated as authority
+## 2. Core Methodological Corrections from Pass 1
 
-The following Pass 1 outputs are evidence about what the first auditor concluded, but are **not authoritative conclusions**:
+Pass 2 directly resolves four fundamental shortcomings identified in Pass 1:
 
-* `FINAL_AUDIT.md`
-* `reports/FINAL_AUDIT.md`
-* Pass 1 claim dossiers
-* Pass 1 literature baseline
-* Pass 1 timeline matrix
-* Pass 1 novelty verdicts
-* Pass 1 priority verdicts
-
-You may cite them when explaining what is being re-examined, but never use a Pass 1 conclusion as evidence that the underlying scientific claim is true.
-
-Return to primary sources.
+| Deficiency in Pass 1 | Required Pass 2 Investigation & Correction |
+| :--- | :--- |
+| **Claim Under-Counting** (50 stated vs. 66 actual) | Programmatic inventory of all 66 claim IDs in `CLAIMS_TO_AUDIT.md`. Every claim receives an explicit Pass 2 disposition in `AUDIT_LEDGER.md`. |
+| **Timestamp Inconsistencies** (Placeholder timestamps `2026-09-24T00:00:00Z`) | Reconstruct exact repository chronology. Distinguish metadata placeholders, Git author time, committer time, local commit time, and public push timestamps. |
+| **Incomplete Dossier Coverage** (Selective individual dossiers) | Audit exact dossier counts vs. aggregate reports; generate missing dossiers for high-impact claims; guarantee individual ledger adjudication for all 66 items. |
+| **Narrow Literature Search Logs** (Limited search records) | Expand multi-database queries (MathSciNet, zbMATH, arXiv, Crossref, Google Scholar) and public code repository scans with timestamped execution logs. |
 
 ---
 
-# 4. Known Pass 1 problems that must be investigated
-
-Audit Pass 2 begins with several known adverse findings. Verify them independently rather than accepting them blindly.
-
-### Claim accounting
-
-`CLAIMS_TO_AUDIT.md` contains **66 unique claim IDs**, not 50.
-
-Recount them programmatically and establish the authoritative claim inventory.
-
-Every one of the 66 claims must receive an explicit Pass 2 disposition.
-
-Do not summarize 66 claims as 50.
-
-### Audit timestamps
-
-Pass 1 contains timestamps such as:
-
-`2026-09-24T00:00:00Z`
-
-that appear to predate creation of the audited closed-state commit and/or the audit repository itself.
-
-Reconstruct the actual audit chronology from Git history.
-
-Distinguish clearly between:
-
-* document metadata placeholders;
-* Git author time;
-* Git committer time;
-* actual audit-repository commit time;
-* public-push evidence.
-
-Do not silently edit historical Pass 1 timestamps.
-
-Document the discrepancy in Pass 2.
-
-### Incomplete claim dossiers
-
-Pass 1 appears not to contain an individual dossier for every claim despite stating that all candidate claims were evaluated.
-
-Determine exactly:
-
-* how many Pass 1 dossiers exist;
-* which claims had individual dossiers;
-* which were only covered by aggregate reports;
-* which lacked a documented evidentiary adjudication.
-
-Pass 2 should fill those gaps.
-
-### Literature-search coverage
-
-Pass 1's stated audit protocol required stronger adversarial search coverage than the recorded search logs appear to demonstrate.
-
-Re-evaluate whether the search protocol was actually satisfied.
-
-Do not infer “comprehensive search” from a small number of broad search documents.
-
----
-
-# 5. Expand the prior-art search beyond papers
-
-Pass 2 must search **public research repositories as well as papers and preprints**.
-
-This is mandatory.
-
-Relevant evidence can include:
-
-* arXiv;
-* journal literature;
-* conference proceedings;
-* MathSciNet;
-* zbMATH;
-* Google Scholar;
-* Semantic Scholar;
-* Crossref;
-* author websites;
-* GitHub;
-* GitLab;
-* public research notebooks;
-* Zenodo;
-* OSF;
-* Software Heritage;
-* Internet Archive;
-* GH Archive;
-* forks and mirrors;
-* mailing lists;
-* public issue discussions;
-* preprint servers;
-* institutional repositories.
-
-A result does not cease to be relevant prior art merely because it was not formatted as a conventional paper.
-
----
-
-# 6. Mandatory contemporary comparator: `Kuberwastaken/riemann`
-
-Pass 2 must investigate the public repository:
-
-`https://github.com/Kuberwastaken/riemann`
-
-This source was missed in Pass 1.
-
-Determine carefully:
-
-* its creation/publication timeline;
-* earliest relevant commits;
-* what mathematical statements it actually proves;
-* whether its results are finite-dimensional, full-space, conditional, numerical, or rigorous;
-* its support normalization;
-* its prime-entry/operator formulation;
-* its use of Arb or interval arithmetic;
-* its continuation strategy;
-* whether any of its methods overlap with:
-
-  * compressed prime translations;
-  * support thresholds;
-  * Legendre bases;
-  * exact-prime treatment;
-  * moving-dimension continuation;
-  * finite-section positivity;
-  * rigorous tail control.
-
-Do **not** assume this repository invalidates the `riemann-conjecture` project's claims.
-
-Normalize the mathematics first.
-
-It may turn out to address a substantially different finite-dimensional family rather than the full-space theorem proved by `C-0050`.
-
-The objective is accurate comparison.
-
----
-
-# 7. Mandatory contemporary comparator: Marcus Chuk
-
-Re-audit:
-
-Marcus Chuk
-arXiv:2608.24827
-*Weil positivity in compact windows: certified two-sided bounds and a Landau–Widom decay law*
-
-Use the actual paper, not summaries.
-
-Establish precisely:
-
-* arXiv submission time;
-* version history;
-* theorem statement;
-* support normalization;
-* whether the theorem is full-space or finite-dimensional;
-* certification method;
-* use of Legendre expansions;
-* numerical precision;
-* quadrature-error certification;
-* Cholesky/residual certification;
-* tail estimates;
-* interval arithmetic;
-* exact vs non-exact arithmetic distinctions.
-
-Do not describe Chuk merely as a “floating-point matrix discretization” if the actual proof includes rigorous certified interval/error bounds.
-
-Compare architectures accurately:
-
-**different certified proof architecture** is acceptable wording if supported.
-
----
-
-# 8. Separate four different notions of novelty
-
-Every claim must be classified independently under these dimensions:
-
-### A. Mathematical-result novelty
-
-Example:
-
-> Was strict localized Weil positivity at this support value itself previously established?
-
-### B. Method novelty
-
-Example:
-
-> Was this exact-prime Legendre harmonic coercivity + tail-Gram Schur reduction previously used?
-
-### C. Verification/software novelty
-
-Example:
-
-> Was a zero-floating-point standalone exact-rational verifier/certificate architecture previously used for this problem?
-
-### D. Chronological priority
-
-Example:
-
-> Was this particular result or method publicly disclosed before comparable work?
-
-Do not infer one from another.
-
-A mathematical result may already be known while the method remains novel.
-
-A method may be independently new even when another method proves a stronger theorem.
-
-A Git date may establish chronology without establishing mathematical novelty.
-
----
-
-# 9. Re-audit all eight theorem claims individually
-
-Re-evaluate:
-
-* `C-0050` — `T=7/20`, `N=32`
-* `C-0051` — `T=2/5`, `N=40`
-* `C-0052` — `T=17/40`, `N=48`
-* `C-0053` — `T=9/20`, `N=56`
-* `C-0054` — `T=19/40`, `N=68`
-* `C-0055` — `T=1/2`, `N=80`
-* `C-0056` — `T=21/40`, `N=96`
-* `C-0057` — `T=27/50`, `N=104`
-
-Distinguish:
-
-**Validity** from **novelty**.
-
-The eight retained theorem certificates may remain mathematically valid even if their novelty status changes.
-
-Important chronological issue:
-
-Chuk's August 25 theorem reportedly establishes positivity throughout a larger support window.
-
-Therefore, later `C-0051..C-0057` points may be:
-
-* independently certified results;
-* important demonstrations of the exact-prime method;
-* continuation evidence;
-
-without necessarily being novel mathematical support theorems after August 25.
-
-Determine this carefully rather than inheriting Pass 1's blanket `8/8 novelty supported` conclusion.
-
----
-
-# 10. Give special attention to `C-0050`
-
-`C-0050` is particularly important because its source commit is dated:
-
-`6dd1d8f07e23dd39fcd2e36974c53a5054f810ec`
-
-`2026-08-21T14:05:13Z`
-
-This predates Chuk's August 25 arXiv submission at the Git-commit metadata level.
-
-Pass 2 must determine whether there is independent evidence that the commit was actually publicly accessible on August 21.
-
-Search for:
-
-* GitHub PushEvent data;
-* GH Archive;
-* Software Heritage;
-* Wayback Machine;
-* GitHub forks;
-* public mirrors;
-* external clones;
-* GitHub notifications;
-* commit links in public communication;
-* public GitHub API/event archives;
-* third-party indexing;
-* repository snapshots.
-
-Do not automatically equate:
-
-`Git commit timestamp`
-
-with:
-
-`verified public disclosure timestamp`.
-
-A Git commit object is cryptographically hash-addressed, but its embedded timestamps are author-controlled metadata.
-
-If public availability on August 21 cannot be independently demonstrated, use the audit's weaker priority category rather than overstating certainty.
-
-If it **can** be demonstrated, record the evidence precisely.
-
----
-
-# 11. Re-audit the exact-prime Legendre-Schur method
-
-The strongest method candidate is the synthesis involving:
-
-$$
-J(q)\ge H_N\|q\|_2^2
-$$
-
-plus the exact prime/residual decomposition and component tail-Gram Schur estimate
-
-$$
-A_N-\frac{3}{\mu_N}(G_V+G_2+G_R)>0.
-$$
-
-Investigate separately:
-
-* Legendre harmonic-number eigenvalue identity;
-* use of that identity as a Weil high-mode coercivity estimate;
-* exact-prime compressed translation treatment;
-* residual-kernel handling;
-* componentwise tail Gram construction;
-* factor-3 Schur estimate;
-* outward rationalization;
-* exact congruence/Gershgorin certificate;
-* adaptive/moving-dimension continuation.
-
-For each component answer:
-
-1. Is the ingredient known?
-2. Is the application known?
-3. Is the combination known?
-4. Is the implementation/certificate architecture known?
-5. What is the earliest public evidence?
-
-Do not call standard ingredients novel.
-
----
-
-# 12. Re-audit the Li/Laguerre claims much more deeply
-
-Pass 1 treated many Li/Laguerre claims as novel after a relatively small literature survey.
-
-Perform dedicated searches for each important cluster:
-
-* deterministic pole mode \(1-q^n\);
-* pole-subtracted Li/Laguerre sequence;
-* shift filter
-
-  $$
-  (E-1)(E-q);
-  $$
-* RH-equivalent root-growth formulation;
-* \(d(\psi-x)\) discrepancy representation;
-* Airy saddle reconstruction of the pole rate;
-* exact Cayley zero mode;
-* critical-half-weight chirp;
-* stationary frequency map;
-* microlocal Dirichlet reduction;
-* block-\(L^2\) equivalence;
-* PNT-error obstruction;
-* high-frequency endpoint merger;
-* \(\sqrt n\) prime-side frequency cap;
-* Vaughan/Heath-Brown obstruction;
-* rank-one Hessian preservation;
-* Type-II asymptotic separability;
-* nonseparability threshold.
-
-Search not just exact terminology but mathematical equivalents.
-
-A result expressed in generating-function, saddle-point, Mellin-transform, finite-difference, or explicit-formula terminology may be equivalent despite different wording.
-
----
-
-# 13. Re-audit the Li conditional-negative-definite formulation
-
-Investigate the claim that:
-
-$$
-\psi(n)=\lambda_{|n|}
-$$
-
-is conditionally negative definite on \(\mathbb Z\) iff RH, and hence:
-
-$$
-e^{-t\lambda_{|n|}}
-$$
-
-is positive definite for all \(t>0\).
-
-Search broadly in:
-
-* Li coefficient literature;
-* Schoenberg theory;
-* negative type kernels;
-* Herglotz/Bochner theory;
-* infinitely divisible positive-definite sequences;
-* Toeplitz kernels;
-* semigroup formulations;
-* harmonic analysis on \(\mathbb Z\) and \(\mathbb T\).
-
-Do not conclude novelty merely because the phrase “conditionally negative definite Li coefficients” does not appear verbatim.
-
----
-
-# 14. Re-audit obstruction claims individually
-
-There are 15 `CLM-OBST` claims.
-
-Do not aggregate them into “15 novel obstructions.”
-
-Each must be individually adjudicated.
-
-For every obstruction determine whether it is:
-
-* an original theorem;
-* a straightforward consequence of standard estimates;
-* a reformulation of a known barrier;
-* a new application of a known barrier;
-* independently rediscovered;
-* already explicit in prior work.
-
-Particular attention:
-
-* absolute PNT-error barrier;
-* Vinogradov–Korobov insufficiency;
-* block-\(L^2\) equivalence;
-* Montgomery–Vaughan length barrier;
-* rank-one Hessian;
-* separability of Type-II boxes;
-* square-root-saving threshold;
-* generic Vaughan/Heath-Brown no-go;
-* lossy 69% endpoint absorption.
-
----
-
-# 15. Re-audit verification architecture claims
-
-Separate **verified implementation facts** from **novelty claims**.
-
-It is valid to verify factual statements such as:
-
-* retained proof chain replays 8/8;
-* SHA-256 hashes match;
-* verifier uses `BigRational`;
-* targeted theorem verification uses no floating-point arithmetic;
-* malformed contract and theorem failure use separate exit codes;
-* Lean modules prove specified lemmas.
-
-But novelty requires external prior-art comparison.
-
-Search for comparable proof-certificate systems in:
-
-* computer-assisted number theory;
-* interval-arithmetic proof certificates;
-* exact rational certificates;
-* independent checker architectures;
-* formalized numerical proofs;
-* Arb-based theorem generation;
-* Lean/Coq/HOL verification of numerical certificates.
-
-Do not conclude “first” simply because Chuk uses a different implementation.
-
----
-
-# 16. Verify the “zero floating point” statement precisely
-
-Audit the exact scope.
-
-Determine whether:
-
-* certificate generation uses floating/Arb arithmetic;
-* certificate verification uses no IEEE floating-point;
-* all mathematical acceptance decisions in `rh_cert` use exact integers/rationals;
-* parsing, logging, conversions, diagnostics or unrelated utilities use floats anywhere.
-
-Use precise wording such as:
-
-> The theorem-verification acceptance path uses exact arbitrary-precision rational arithmetic and does not rely on floating-point acceptance tests.
-
-if that is what the code supports.
-
-Avoid broader wording than the implementation justifies.
-
----
-
-# 17. Correctly describe formal verification scope
-
-Do not state or imply that Lean proves the entire `C-0050..C-0057` theorem chain unless it actually does.
-
-Determine exactly which lemmas/modules are formalized:
-
-* interval arithmetic;
-* Gershgorin;
-* LDL/congruence;
-* endpoint absorption;
-* related soundness statements.
-
-Then state clearly which parts remain outside Lean:
-
-* analytic derivation;
-* certificate generator;
-* Rust implementation correspondence;
-* schema/admission logic;
-* full end-to-end theorem proof.
-
----
-
-# 18. Timeline evidence rules
-
-For every priority claim maintain separate fields:
-
-$$
-T_{\text{idea}},
-T_{\text{commit}},
-T_{\text{public push}},
-T_{\text{external post}},
-T_{\text{publication}}.
-$$
-
-Never collapse them.
-
-Use priority verdicts such as:
-
-* `PRIOR ART FOUND`
-* `PRIORITY NOT SUPPORTED`
-* `PRIORITY PLAUSIBLE`
-* `PRIORITY SUPPORTED`
-* `INCONCLUSIVE`
-
-`PRIORITY SUPPORTED` should require externally verifiable evidence of public availability, not only an internally timestamped Git object.
-
----
-
-# 19. Novelty verdict taxonomy
-
-Use conservative verdicts.
-
-Recommended outcomes:
-
+## 3. Four-Dimensional Evaluation Taxonomy
+
+Every claim in Pass 2 must be evaluated across four orthogonal dimensions without inferring one from another:
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│                        Four Novelty Dimensions                         │
+├────────────────────────────────┬───────────────────────────────────────┤
+│ A. Mathematical Result Novelty │ Was the mathematical theorem/bound     │
+│                                │ itself previously established?        │
+├────────────────────────────────┼───────────────────────────────────────┤
+│ B. Method Novelty              │ Was the analytical technique / proof   │
+│                                │ reduction previously known or applied?│
+├────────────────────────────────┼───────────────────────────────────────┤
+│ C. Verification / Arch Novelty │ Was the software / certificate checker│
+│                                │ architecture previously implemented?  │
+├────────────────────────────────┼───────────────────────────────────────┤
+│ D. Chronological Priority      │ Was this result/method publicly        │
+│                                │ disclosed prior to external works?    │
+└────────────────────────────────┴───────────────────────────────────────┘
+```
+
+### Standardized Verdict Set
 * `PRIOR ART FOUND`
 * `INDEPENDENT REDISCOVERY`
 * `KNOWN INGREDIENT / NOVEL APPLICATION`
 * `KNOWN INGREDIENTS / NOVEL SYNTHESIS SUPPORTED`
 * `POSSIBLY NOVEL — NO PRIOR ART FOUND`
 * `NOVELTY SUPPORTED`
-* `PRIORITY PLAUSIBLE`
-* `PRIORITY SUPPORTED`
-* `INCONCLUSIVE`
+* `PRIORITY SUPPORTED` (Requires verified public push / disclosure evidence)
+* `PRIORITY PLAUSIBLE` (Commit metadata verified; external push date unconfirmed)
+* `PRIORITY NOT SUPPORTED`
 * `CLAIM REQUIRES NARROWER WORDING`
 * `CLAIM NOT SUPPORTED`
-
-Reserve `NOVELTY SUPPORTED` for claims that survive substantial claim-specific search.
-
-Absence of a search hit is not automatically proof of novelty.
+* `INCONCLUSIVE — REQUIRES PASS 3`
 
 ---
 
-# 20. All 66 claims need Pass 2 dispositions
+## 4. Mandatory Comparators & Expanded Prior Art Scope
 
-Build an authoritative ledger such as:
+### 4.1 Contemporary Code Repository: `Kuberwastaken/riemann`
+* **Target**: `https://github.com/Kuberwastaken/riemann`
+* **Audit Objectives**:
+  1. Determine commit/push timeline and earliest relevant public commits.
+  2. Normalize mathematical statements: finite-dimensional vs. full-space, conditional vs. unconditional, numerical vs. certified.
+  3. Inspect operator formulation, prime-entry handling, Arb/interval arithmetic usage, finite sections, and tail control.
+  4. Assess method overlap with compressed translations, Legendre harmonic coercivity, exact-prime treatment, and continuation.
 
-`AUDIT_LEDGER.md`
+### 4.2 Contemporary Preprint: Marcus Chuk (`arXiv:2608.24827`)
+* **Target**: *Weil positivity in compact windows: certified two-sided bounds and a Landau–Widom decay law* (Aug 25, 2026).
+* **Audit Objectives**:
+  1. Detailed analysis of primary text, theorems, and version history.
+  2. Compare support window normalization ($T$ vs. Chuk's coordinates).
+  3. Inspect proof architecture: Legendre expansions, quadrature certification, Cholesky/residual bounds, interval arithmetic vs. exact rational arithmetic.
+  4. Compare theorem strength vs. `C-0050..C-0057` across chronological checkpoints.
 
-Include:
-
-| Claim | Pass 1 Verdict | Pass 2 Verdict | Changed? | Reason | Evidence |
-| ----- | -------------- | -------------- | -------- | ------ | -------- |
-
-All **66** claim IDs must appear.
-
-No claim may disappear merely because it was omitted from Pass 1's individual dossiers.
-
-If a claim cannot be adequately audited in Pass 2, mark:
-
-`INCONCLUSIVE — REQUIRES PASS 3`
-
-rather than inventing certainty.
+### 4.3 Expanded Multi-Source Literature & Code Search
+Search across arXiv, journal databases, zbMATH, MathSciNet, Google Scholar, Semantic Scholar, GitHub, GitLab, Zenodo, OSF, Software Heritage, and GH Archive.
 
 ---
 
-# 21. Preserve Pass 1 historical integrity
-
-Do not overwrite:
-
-`FINAL_AUDIT.md`
-
-or:
-
-`reports/FINAL_AUDIT.md`
-
-as though Pass 1 never happened.
-
-Instead create new Pass 2 artifacts, for example:
+## 5. Specific Target Investigations
 
 ```text
-AUDIT_LEDGER.md
-reports/AUDIT_PASS_2.md
-reports/interim/PASS_2_*.md
-evidence/search-records/PASS2-*.md
-claims/... additional or revised Pass 2 dossiers
+┌────────────────────────────────────────────────────────────────────────┐
+│                   Pass 2 High-Impact Target Matrix                     │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. Individual Re-Audit of Theorems C-0050 through C-0057               │
+│ 2. Priority & Public Disclosure Verification for C-0050 (Aug 21)       │
+│ 3. Decomposed Analysis of Exact-Prime Legendre-Schur Method            │
+│ 4. Deep Literature Mapping of Li / Laguerre / Chirp / Herglotz Claims  │
+│ 5. Systematic Adjudication of All 15 Obstruction Claims (CLM-OBST)     │
+│ 6. Precise Boundary Audit for Zero-FP and Lean Formal Verification     │
+│ 7. Strict Non-Overclaim Policy on Riemann Hypothesis (RH)              │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-If useful, add a small notice near current navigation documentation stating that Pass 1 is historical and has been superseded for current conclusions by later passes.
+### 5.1 Individual Audit of Eight Theorem Points (`C-0050` – `C-0057`)
+* Separate mathematical validity from result novelty.
+* Evaluate whether `C-0051..C-0057` post-date Chuk's August 25 wider-support theorem, distinguishing independent method demonstration from novel support boundary records.
 
-But do not alter the substance of Pass 1.
+### 5.2 Deep Priority Audit for `C-0050`
+* Source commit `6dd1d8f07e23dd39fcd2e36974c53a5054f810ec` carries author timestamp `2026-08-21T14:05:13Z`.
+* Investigate independent external public accessibility evidence (PushEvents, GH Archive, Software Heritage, Wayback Machine, fork trees).
+* Enforce verdict standard: `PRIORITY SUPPORTED` only with verified public availability; otherwise `PRIORITY PLAUSIBLE`.
+
+### 5.3 Method Deconstruction: Exact-Prime Legendre-Schur
+Dissect the synthesis $J(q) \ge H_N \|q\|_2^2$ and $A_N - \frac{3}{\mu_N}(G_V + G_2 + G_R) > 0$ into constituent components:
+1. Legendre harmonic coercivity identity $J(P_n) = H_n \|P_n\|_2^2$.
+2. High-mode Weil positivity coercivity application.
+3. Compressed prime translation operator treatment.
+4. Componentwise tail Gram matrix decomposition and factor-3 Schur estimate.
+5. Outward rationalization and exact LDL/Gershgorin certificate pipeline.
+6. Adaptive moving-dimension continuation.
+
+### 5.4 Li / Laguerre / Nonlinear Chirp Claims
+Conduct deep equivalence searches for:
+* Deterministic pole mode $1-q^n$ and pole-subtracted sequence.
+* Shift filter $T = (E-1)(E-q)$.
+* Li coefficient conditional negative definiteness ($\psi(n) = \lambda_{|n|}$ cnd $\iff$ RH, Schoenberg/Herglotz semigroups).
+* Discrepancy representation $d(\psi(x)-x)$, Airy saddle pole reproduction, Cayley zero modes, and bilinear chirp separability.
+
+### 5.5 Obstruction Claims (`CLM-OBST-001` – `CLM-OBST-015`)
+Individually adjudicate all 15 obstruction claims (PNT error barriers, rank-one Hessian preservation, Montgomery-Vaughan length barrier, 69% absorption loss, Type-II separability).
+
+### 5.6 Verification Architecture & Lean Scope Boundaries
+* **Zero-Floating-Point Scope**: Confirm exact boundaries (verifier acceptance path vs. certificate generator / parsers / diagnostics).
+* **Lean Formalization Scope**: State exactly which modules/lemmas are proved (LDL, Gershgorin, Interval, Endpoint Absorption) vs. parts outside Lean (generator, analytical derivation, full theorem chain).
+
+### 5.7 RH Scope Enforcement
+Confirm that all findings represent finite-support localized Weil positivity or RH-equivalent criteria, with zero unproved leaps to full RH.
 
 ---
 
-# 22. Record corrections explicitly
-
-For every changed verdict record:
-
-* Pass 1 conclusion;
-* new evidence;
-* Pass 2 conclusion;
-* why the change occurred.
-
-Example:
+## 6. Phased Execution Roadmap
 
 ```text
-CLM-PRIO-005
-
-Pass 1:
-PRIORITY SUPPORTED
-
-Pass 2:
-PRIORITY PLAUSIBLE
-
-Reason:
-The Aug. 21 Git commit object is verified, but independent evidence
-of public push/accessibility on Aug. 21 has not yet been located.
-Commit metadata alone is insufficient under TIMELINE_RULES.md.
+Phase 0 ──► Phase 1 ──► Phase 2 ──► Phase 3 ──► Phase 4 ──► Phase 5
+Inventory   Expanded    Math &      Verifier    Chronology  Ledger &
+& Baseline  Prior Art   Methodology & Formal    & Priority  Pass 2 Dossier
 ```
 
-Or, if external evidence is found:
+### Phase 0: Claim Inventory & Chronology Reconstruction
+* Run programmatic count and extract all 66 claim IDs from `CLAIMS_TO_AUDIT.md`.
+* Map Pass 1 dossier coverage gaps.
+* Reconstruct commit and metadata chronology for both `riemann-conjecture` and `riemann-conjecture-audit`.
+* **Exit Gate**: Complete 66-claim inventory mapped; baseline chronology documented.
+
+### Phase 1: Expanded Prior Art & Comparator Ingestion
+* Ingest and mathematically normalize `Kuberwastaken/riemann`.
+* Ingest and dissect Marcus Chuk (`arXiv:2608.24827`).
+* Execute multi-database searches across all claim clusters; write query records to `evidence/search-records/PASS2-*.md`.
+* **Exit Gate**: Comparative analysis dossiers for Chuk and Kuberwastaken; search logs logged.
+
+### Phase 2: Mathematical, Methodological & Obstruction Re-Audit
+* Re-evaluate `C-0050..C-0057` validity vs. result novelty.
+* Deconstruct Exact-Prime Legendre-Schur method components.
+* Evaluate Li/Laguerre and Schoenberg/Herglotz equivalence.
+* Adjudicate all 15 `CLM-OBST` claims individually.
+* **Exit Gate**: Drafted claim assessments for all math, method, and obstruction claims.
+
+### Phase 3: Verification Architecture & Formal Soundness Audit
+* Verify `rh_cert` Rust replay behavior and certificate hashes.
+* Audit precision boundaries: verify that acceptance decisions use exact rational arithmetic without floating-point dependencies.
+* Audit Lean formalization files (`source/riemann-conjecture/formal/`) and explicitly delimit proved lemmas vs. unformalized components.
+* **Exit Gate**: Precise verification scope dossier drafted.
+
+### Phase 4: Priority & Chronological Cross-Examination
+* Search public GitHub events, archives, and mirrors for `C-0050` public push verification.
+* Build multi-anchor timeline matrix in `evidence/public-timeline/PASS_2_TIMELINE.md`.
+* Assign decoupled priority verdicts (`PRIORITY SUPPORTED`, `PRIORITY PLAUSIBLE`, etc.).
+* **Exit Gate**: Chronology matrix complete with primary timestamp citations.
+
+### Phase 5: Synthesis, Authoritative Ledger & Deliverables
+* Construct `AUDIT_LEDGER.md` with explicit rows for all 66 claims.
+* Compile master report `reports/AUDIT_PASS_2.md`.
+* Identify unresolved items and establish "Required Pass 3 Investigations".
+* **Exit Gate**: Full Pass 2 deliverable suite delivered without overwriting Pass 1 artifacts.
+
+---
+
+## 7. Deliverable Matrix
 
 ```text
-Pass 2:
-PRIORITY SUPPORTED
-
-New evidence:
-GH Archive PushEvent ...
-Software Heritage snapshot ...
-public fork containing commit ...
+riemann-conjecture-audit/
+├── SECOND_AUDIT.md                     # This master execution plan
+├── AUDIT_LEDGER.md                     # Authoritative 66-claim verdict & change ledger
+├── reports/
+│   ├── AUDIT_PASS_2.md                 # Master Pass 2 comprehensive audit report
+│   └── interim/
+│       └── PASS_2_INTERIM_REPORT.md    # Mid-pass progress dossier
+├── evidence/
+│   ├── public-timeline/
+│   │   └── PASS_2_TIMELINE.md          # Multi-anchor priority & disclosure timeline
+│   ├── literature/
+│   │   └── PASS_2_PRIOR_ART.md         # Normalized comparative prior art & comparator dossier
+│   └── search-records/
+│       └── PASS2-*.md                  # Reproducible search logs with real execution timestamps
+└── claims/
+    └── [category]/                     # New and updated Pass 2 claim dossiers
 ```
 
 ---
 
-# 23. Search-record requirements
+## 8. Non-Closure Principle & Pass 3 Transition
 
-Every substantial novelty determination must have a reproducible search record containing:
-
-* date/time actually performed;
-* databases searched;
-* exact queries;
-* query variants;
-* normalization synonyms;
-* relevant hits;
-* relevant negative searches;
-* papers/repos inspected;
-* why candidate prior art was or was not equivalent.
-
-Do not use fabricated or placeholder timestamps.
-
-Use actual execution time.
-
----
-
-# 24. Literature evidence standards
-
-Prefer primary sources.
-
-For each relevant source record:
-
-* title;
-* author;
-* publication/preprint date;
-* version date;
-* DOI/arXiv/repository identifier;
-* stable URL;
-* exact theorem/page/section;
-* quoted or closely paraphrased mathematical statement;
-* normalization mapping to project notation;
-* method comparison;
-* relevance to specific claim IDs.
-
-Do not rely solely on abstracts or search snippets for a novelty verdict.
-
----
-
-# 25. Do not confuse stronger later results with prior art for earlier priority
-
-Be precise chronologically.
-
-If the project publicly disclosed a theorem on August 21 and a stronger theorem appeared publicly on August 25, the later theorem does not retroactively erase the earlier disclosure.
-
-But you must establish that August 21 **public disclosure** occurred.
-
-Similarly, later project continuation points after August 25 may not themselves constitute result novelty if already subsumed by the stronger external theorem.
-
-Separate those issues.
-
----
-
-# 26. No RH overclaim
-
-Maintain the existing boundary throughout.
-
-The project does **not** prove RH.
-
-It proves finite-support localized Weil positivity statements and develops several RH-equivalent reformulations/obstructions.
-
-Do not convert an RH-equivalent criterion into progress toward proving that criterion unless an independent estimate actually advances it.
-
----
-
-# 27. Pass 2 deliverables
-
-At minimum produce:
-
-```text
-AUDIT_LEDGER.md
-reports/AUDIT_PASS_2.md
-evidence/public-timeline/PASS_2_TIMELINE.md
-evidence/literature/PASS_2_PRIOR_ART.md
-evidence/search-records/PASS2-*.md
-```
-
-Create individual Pass 2 dossiers for high-impact claims where necessary.
-
-`AUDIT_PASS_2.md` should contain:
-
-* scope;
-* corrections to Pass 1;
-* claim-accounting correction;
-* chronology correction;
-* missed prior art;
-* theorem-validity findings;
-* novelty findings;
-* priority findings;
-* verification findings;
-* claims upgraded;
-* claims unchanged;
-* claims downgraded;
-* claims marked inconclusive;
-* unresolved questions for Pass 3.
-
----
-
-# 28. Pass 2 must not call itself the final audit
-
-Do **not** create or overwrite:
-
-`CONSOLIDATED_FINAL_AUDIT.md`
-
-unless specifically instructed later.
-
-Pass 2 is another adversarial stage.
-
-The purpose is convergence, not closure.
-
-End with a section:
-
-## Required Pass 3 Investigations
-
-List every claim that still deserves deeper investigation.
-
----
-
-# 29. Commit discipline
-
-The audit repository is itself part of the evidence.
-
-Make logically separated public commits where practical, for example:
-
-```text
-Audit Pass 2 - Correct claim inventory and chronology
-Audit Pass 2 - Expand Weil positivity prior art
-Audit Pass 2 - Reassess theorem and method novelty
-Audit Pass 2 - Reassess Li Laguerre claims
-Audit Pass 2 - Reassess verification architecture
-Audit Pass 2 - Publish second-pass audit report
-```
-
-Do not squash away corrections.
-
-The history is part of the scientific record.
-
----
-
-# 30. Final objective
-
-The objective is **not** to maximize the number of novel claims.
-
-The objective is to determine as accurately as possible:
-
-* what the project actually proved;
-* what was already known;
-* what was independently rediscovered;
-* what appears to be genuinely new;
-* what methodological synthesis is new;
-* what verification architecture is new;
-* what was publicly disclosed first;
-* what priority cannot yet be established;
-* and what remains uncertain.
-
-A Pass 2 conclusion that substantially weakens Pass 1 is acceptable.
-
-A Pass 2 conclusion that strengthens a claim is also acceptable.
-
-Evidence decides.
-
-The standard for success is:
-
-> **A reader hostile to the project's claims should still be able to follow the evidence trail and understand why each surviving conclusion was reached.**
+Audit Pass 2 is an intermediate adversarial stage aimed at scientific convergence. It must not declare itself the final audit or overwrite consolidated final templates. Any claim lacking definitive primary evidence or requiring deeper formalization review will be marked `INCONCLUSIVE — REQUIRES PASS 3` and listed under **Required Pass 3 Investigations** in `reports/AUDIT_PASS_2.md`.
