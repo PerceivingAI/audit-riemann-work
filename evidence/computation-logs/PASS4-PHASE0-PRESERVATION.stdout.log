@@ -1,0 +1,24 @@
+{
+  "historical_content_restorations": [
+    "AUDIT_PASS_2.md",
+    "archive/AUDIT_PLAN.md",
+    "evidence/literature/PASS_2_PRIOR_ART.md",
+    "evidence/public-timeline/PASS_2_TIMELINE.md",
+    "evidence/search-records/PASS2-SRCH-001-COMPARATORS.md",
+    "evidence/search-records/PASS2-SRCH-002-MATHEMATICAL-METHOD.md",
+    "evidence/search-records/PASS2-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+    "evidence/search-records/PASS2-SRCH-004-OBSTRUCTIONS-AND-VERIFICATION.md",
+    "evidence/search-records/SRCH-2026-002.md",
+    "reports/AUDIT_PASS_2.md",
+    "reports/interim/PASS_2_PHASE_0_REPORT.md",
+    "reports/interim/PASS_2_PHASE_1_REPORT.md",
+    "reports/interim/PASS_2_PHASE_2_REPORT.md",
+    "reports/interim/PASS_2_PHASE_3_REPORT.md",
+    "reports/interim/PASS_2_PHASE_4_REPORT.md"
+  ],
+  "preserved_version_records": 181,
+  "stored_paths": 106,
+  "source_files_and_directories": 3948,
+  "source_pin": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+  "source_clean": true
+}

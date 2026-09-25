@@ -4,7 +4,7 @@
 > * **Audit Phase**: `Phase 0: Claim Inventory & Chronology Reconstruction`  
 > * **Status**: `PHASE_0_COMPLETE`  
 > * **Date of Execution**: `2026-09-24T20:15:00Z`  
-> * **Governing Document**: [`SECOND_AUDIT.md`](../../SECOND_AUDIT.md)  
+> * **Governing Document**: [`SECOND_AUDIT.md`](../../archive/SECOND_AUDIT.md)  
 > * **Master Ledger**: [`AUDIT_LEDGER.md`](../../AUDIT_LEDGER.md)  
 > * **Audited Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`
 

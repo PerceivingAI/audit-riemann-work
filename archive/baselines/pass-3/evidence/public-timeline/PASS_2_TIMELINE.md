@@ -2,7 +2,7 @@
 
 > **Timeline Reconstruction Metadata**  
 > * **Document Initialized**: `2026-09-24T20:00:00Z` (Pass 2 Phase 0)  
-> * **Standard**: Multi-Anchor Chronology per [`SECOND_AUDIT.md`](../../SECOND_AUDIT.md)  
+> * **Standard**: Multi-Anchor Chronology per [`SECOND_AUDIT.md`](../../archive/SECOND_AUDIT.md)  
 > * **Evaluation Rules**: Cryptographic Git commit hash $\ne$ verified public disclosure. Explicit tracking of $T_{\text{idea}}$, $T_{\text{commit}}$, $T_{\text{public\_push}}$, $T_{\text{ext\_post}}$, and $T_{\text{publication}}$.
 
 ---

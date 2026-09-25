@@ -1,0 +1,579 @@
+{
+  "scope": "All intervening audit change events after the Pass 1 baseline through the initial Pass 4 plan commit; includes renames and changes later reverted.",
+  "queries": [
+    [
+      "git",
+      "rev-list",
+      "--reverse",
+      "20b3f9d8ccbfe469861b85bf77a0053522c6a87a..c2a305a60f8eb1819a685896196dfb880d0325c0"
+    ],
+    [
+      "git",
+      "diff-tree",
+      "--no-commit-id",
+      "--name-status",
+      "-r",
+      "-M",
+      "<each commit>"
+    ],
+    [
+      "git",
+      "show",
+      "-s",
+      "--format=%H%n%aI%n%cI%n%s",
+      "<each commit>"
+    ]
+  ],
+  "event_timestamp_domain": "Exact Git author/committer event metadata; not evidence of public availability.",
+  "events": [
+    {
+      "commit": "878a94e2dcc4dd506b20861aae378201d6917c95",
+      "author_timestamp": "2026-09-24T19:56:54-05:00",
+      "committer_timestamp": "2026-09-24T19:56:54-05:00",
+      "subject": "SECOND_AUDIT.md - Initial document",
+      "changes": [
+        {
+          "status": "A",
+          "paths": [
+            "SECOND_AUDIT.md"
+          ]
+        },
+        {
+          "status": "R100",
+          "paths": [
+            "AUDIT_PLAN.md",
+            "archive/AUDIT_PLAN.md"
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "fe0fc38e45c6308ac57ef1d5fcfe36975a386184",
+      "author_timestamp": "2026-09-24T20:00:13-05:00",
+      "committer_timestamp": "2026-09-24T20:00:13-05:00",
+      "subject": "SECOND_AUDIT.md - Plan",
+      "changes": [
+        {
+          "status": "M",
+          "paths": [
+            "SECOND_AUDIT.md"
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "66d70cd1d1de4e31cfacc902eddb225ba1b77c79",
+      "author_timestamp": "2026-09-24T20:18:30-05:00",
+      "committer_timestamp": "2026-09-24T20:18:30-05:00",
+      "subject": "SECOND_AUDIT.md - Adversarial audit complete",
+      "changes": [
+        {
+          "status": "A",
+          "paths": [
+            "AUDIT_LEDGER.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "AUDIT_PASS_2.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "SECOND_AUDIT.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/literature/PASS_2_PRIOR_ART.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/public-timeline/PASS_2_TIMELINE.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/search-records/PASS2-SRCH-001-COMPARATORS.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/search-records/PASS2-SRCH-002-MATHEMATICAL-METHOD.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/search-records/PASS2-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/search-records/PASS2-SRCH-004-OBSTRUCTIONS-AND-VERIFICATION.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/AUDIT_PASS_2.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/interim/PASS_2_PHASE_0_REPORT.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/interim/PASS_2_PHASE_1_REPORT.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/interim/PASS_2_PHASE_2_REPORT.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/interim/PASS_2_PHASE_3_REPORT.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/interim/PASS_2_PHASE_4_REPORT.md"
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "63eadd5dfbd6f8b306c9b4a3f4beb6993fb8a686",
+      "author_timestamp": "2026-09-24T20:33:07-05:00",
+      "committer_timestamp": "2026-09-24T20:33:07-05:00",
+      "subject": "THIRD_AUDIT.md - Initial document",
+      "changes": [
+        {
+          "status": "A",
+          "paths": [
+            "THIRD_AUDIT.md"
+          ]
+        },
+        {
+          "status": "R100",
+          "paths": [
+            "SECOND_AUDIT.md",
+            "archive/SECOND_AUDIT.md"
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "42ffbcd066d81237b5ba698a4122feb887fd7e8e",
+      "author_timestamp": "2026-09-24T20:35:53-05:00",
+      "committer_timestamp": "2026-09-24T20:35:53-05:00",
+      "subject": "THIRD_AUDIT.md - WS-01 - Machine-Generated Chronology Reconstruction",
+      "changes": [
+        {
+          "status": "A",
+          "paths": [
+            "evidence/public-timeline/PASS_3_TIMELINE.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/interim/PASS_3_PHASE_0_REPORT.md"
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "e534db498654f0671290897a892278d21109abe6",
+      "author_timestamp": "2026-09-24T20:38:14-05:00",
+      "committer_timestamp": "2026-09-24T20:38:14-05:00",
+      "subject": "THIRD_AUDIT.md - WS-02 - Programmatic Ledger Rebuilding & WS-03 - Full 4-Axis Decoupled Ledger Implementation",
+      "changes": [
+        {
+          "status": "M",
+          "paths": [
+            "AUDIT_LEDGER.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/interim/PASS_3_PHASE_2_REPORT.md"
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "e920e26d7f513485a8035deb551c2e29bfa93278",
+      "author_timestamp": "2026-09-24T20:42:57-05:00",
+      "committer_timestamp": "2026-09-24T20:42:57-05:00",
+      "subject": "THIRD_AUDIT.md - WS-04 - Fully Reproducible Literature",
+      "changes": [
+        {
+          "status": "A",
+          "paths": [
+            "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/interim/PASS_3_PHASE_1_REPORT.md"
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "989632ca417c2d86b0adc9b108db81698738b59b",
+      "author_timestamp": "2026-09-24T20:44:01-05:00",
+      "committer_timestamp": "2026-09-24T20:44:01-05:00",
+      "subject": "THIRD_AUDIT.md - WS-05 - Commit-by-Commit Comparator History & WS-06 Structured Primary Literature & Comparator Dossiers",
+      "changes": [
+        {
+          "status": "A",
+          "paths": [
+            "evidence/literature/LIT-2026-CHUK-V2.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/literature/LIT-2026-KUBER-HISTORY.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/literature/PASS_3_PRIOR_ART.md"
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "a79acd86d6947927f80ddf947276b665eecfa2dc",
+      "author_timestamp": "2026-09-24T21:04:57-05:00",
+      "committer_timestamp": "2026-09-24T21:04:57-05:00",
+      "subject": "THIRD_AUDIT.md - WS-07 - Raw Computational Replay Evidence & Log Capture",
+      "changes": [
+        {
+          "status": "A",
+          "paths": [
+            "evidence/computation-logs/PASS3-REPLAY-CERT-8OF8.log"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/computation-logs/PASS3-REPLAY-MANIFEST.json"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/computation-logs/PASS3-REPLAY-PYTEST.log"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/computation-logs/PASS3-REPLAY-RUST-CERT.log"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "evidence/computation-logs/PASS3-REPLAY-RUST-ENGINE.log"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/interim/PASS_3_PHASE_3_REPORT.md"
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "99e2afc5742b1ebae9987eabdda22f9ee844de61",
+      "author_timestamp": "2026-09-24T21:08:20-05:00",
+      "committer_timestamp": "2026-09-24T21:08:20-05:00",
+      "subject": "THIRD_AUDIT.md - WS-08 to WS-12 Protocol & Taxonomy Versioning",
+      "changes": [
+        {
+          "status": "M",
+          "paths": [
+            "AUDIT_PASS_2.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "AUDIT_PASS_3.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "AUDIT_PROTOCOL.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "README.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "archive/AUDIT_PLAN.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/literature/LIT-2026-CHUK-V2.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/literature/LIT-2026-KUBER-HISTORY.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/literature/PASS_2_PRIOR_ART.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/literature/PASS_3_PRIOR_ART.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/public-timeline/PASS_2_TIMELINE.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/search-records/PASS2-SRCH-001-COMPARATORS.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/search-records/PASS2-SRCH-002-MATHEMATICAL-METHOD.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/search-records/PASS2-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/search-records/PASS2-SRCH-004-OBSTRUCTIONS-AND-VERIFICATION.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "evidence/search-records/SRCH-2026-002.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "reports/AUDIT_PASS_2.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/AUDIT_PASS_3.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "reports/interim/PASS_2_PHASE_0_REPORT.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "reports/interim/PASS_2_PHASE_1_REPORT.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "reports/interim/PASS_2_PHASE_2_REPORT.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "reports/interim/PASS_2_PHASE_3_REPORT.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "reports/interim/PASS_2_PHASE_4_REPORT.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "reports/interim/PASS_3_PHASE_1_REPORT.md"
+          ]
+        },
+        {
+          "status": "M",
+          "paths": [
+            "reports/interim/PASS_3_PHASE_2_REPORT.md"
+          ]
+        },
+        {
+          "status": "A",
+          "paths": [
+            "reports/interim/PASS_3_PHASE_4_REPORT.md"
+          ]
+        }
+      ]
+    },
+    {
+      "commit": "c2a305a60f8eb1819a685896196dfb880d0325c0",
+      "author_timestamp": "2026-09-24T21:33:08-05:00",
+      "committer_timestamp": "2026-09-24T21:33:08-05:00",
+      "subject": "AUDIT_PASS_4.md - Initial document",
+      "changes": [
+        {
+          "status": "A",
+          "paths": [
+            "AUDIT_PASS_4.md"
+          ]
+        },
+        {
+          "status": "R100",
+          "paths": [
+            "THIRD_AUDIT.md",
+            "archive/THIRD_AUDIT.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "historical_paths_touched_after_completion": [
+    "AUDIT_PASS_2.md",
+    "archive/AUDIT_PLAN.md",
+    "archive/SECOND_AUDIT.md",
+    "evidence/literature/PASS_2_PRIOR_ART.md",
+    "evidence/public-timeline/PASS_2_TIMELINE.md",
+    "evidence/search-records/PASS2-SRCH-001-COMPARATORS.md",
+    "evidence/search-records/PASS2-SRCH-002-MATHEMATICAL-METHOD.md",
+    "evidence/search-records/PASS2-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+    "evidence/search-records/PASS2-SRCH-004-OBSTRUCTIONS-AND-VERIFICATION.md",
+    "evidence/search-records/SRCH-2026-002.md",
+    "reports/AUDIT_PASS_2.md",
+    "reports/interim/PASS_2_PHASE_0_REPORT.md",
+    "reports/interim/PASS_2_PHASE_1_REPORT.md",
+    "reports/interim/PASS_2_PHASE_2_REPORT.md",
+    "reports/interim/PASS_2_PHASE_3_REPORT.md",
+    "reports/interim/PASS_2_PHASE_4_REPORT.md"
+  ],
+  "content_restored_paths": [
+    "AUDIT_PASS_2.md",
+    "archive/AUDIT_PLAN.md",
+    "evidence/literature/PASS_2_PRIOR_ART.md",
+    "evidence/public-timeline/PASS_2_TIMELINE.md",
+    "evidence/search-records/PASS2-SRCH-001-COMPARATORS.md",
+    "evidence/search-records/PASS2-SRCH-002-MATHEMATICAL-METHOD.md",
+    "evidence/search-records/PASS2-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+    "evidence/search-records/PASS2-SRCH-004-OBSTRUCTIONS-AND-VERIFICATION.md",
+    "evidence/search-records/SRCH-2026-002.md",
+    "reports/AUDIT_PASS_2.md",
+    "reports/interim/PASS_2_PHASE_0_REPORT.md",
+    "reports/interim/PASS_2_PHASE_1_REPORT.md",
+    "reports/interim/PASS_2_PHASE_2_REPORT.md",
+    "reports/interim/PASS_2_PHASE_3_REPORT.md",
+    "reports/interim/PASS_2_PHASE_4_REPORT.md"
+  ],
+  "touched_without_final_content_difference": [
+    "archive/SECOND_AUDIT.md"
+  ]
+}

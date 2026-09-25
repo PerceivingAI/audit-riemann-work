@@ -13,7 +13,7 @@
 ### Topic 1: Li Coefficients & Schoenberg Conditional Negative Definiteness
 * **Query**: `"Li coefficients" "conditionally negative definite" OR "negative definite" OR "Schoenberg" OR "Herglotz" "Riemann"`
 * **Findings**:
-  - Li (1997), Bombieri–Lagarias (1999), Lagarias (2007) establish $	ext{RH} \iff \lambda_n \ge 0$.
+  - Li (1997), Bombieri–Lagarias (1999), Lagarias (2007) establish $\text{RH} \iff \lambda_n \ge 0$.
   - Gröchenig (2020, arXiv:2007.12889) relates RH to Schoenberg's theory of *totally positive functions* (minors of Toeplitz kernels), not conditional negative definiteness.
   - Suzuki (2023, J. London Math. Soc.) connects screw functions to Hermitian positive-semidefinite forms and Li moments.
   - The specific statement in `CLM-GRAM-001` that $\psi(n) = \lambda_{|n|}$ is conditionally negative definite on $\mathbb{Z}$ iff RH (and therefore $e^{-t\lambda_{|n|}}$ is positive definite for all $t > 0$ via Schoenberg 1938) represents a **novel structural characterization** connecting Li's criterion to Schoenberg metric embeddings and Herglotz/Bochner semigroups on $\mathbb{Z}$.

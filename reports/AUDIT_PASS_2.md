@@ -4,7 +4,7 @@
 > * **Document Type**: Master Comprehensive Audit Dossier (Pass 2)  
 > * **Audit Status**: `AUDIT_PASS_2_COMPLETE` (Non-Closure Stage; Leads into Pass 3)  
 > * **Audit Effective Timestamp**: `2026-09-24T21:30:00Z`  
-> * **Governing Master Plan**: [`SECOND_AUDIT.md`](../archive/SECOND_AUDIT.md)  
+> * **Governing Master Plan**: [`SECOND_AUDIT.md`](../SECOND_AUDIT.md)  
 > * **Authoritative Ledger**: [`AUDIT_LEDGER.md`](../AUDIT_LEDGER.md)  
 > * **Audited Target Repository**: `https://github.com/PerceivingAI/riemann-conjecture`  
 > * **Audited Closed-State Research Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`  
@@ -67,10 +67,10 @@ Pass 2 has investigated and resolved four structural defects inherited from Audi
 * **Discretization & Tail Control**: Full Legendre modal expansion with Gauss-Legendre quadrature and continuous symbol decay envelopes using floating-point interval arithmetic.
 * **Comparative Impact**:
   - **Result Novelty**: Chuk's theorem establishes compact Weil positivity across a wider support domain ($L=0.8$) than the repository's frontier ($T=0.54$). Therefore, project continuation points $T \in [0.40, 0.54]$ committed after August 25 (`C-0051..C-0057`) are mathematically subsumed as support records.
-  - **Method Novelty**: `riemann-conjecture`'s exact-prime operator decomposition $A_N - \frac{3}{\mu_N}(G_V + G_2 + G_R) > 0$ and zero-floating-point exact-rational verifier represent a fundamentally distinct, independent proof architecture.
+  - **Method Novelty**: `riemann-conjecture`'s exact-prime operator decomposition $A_N - \frac{3}{\mu_N}(G_V + G_2 + G_R) > 0$ and zero-floating-point exact-rational verifier represent a fundamentally distinct, independent proof architecture.
 
 ### 3.3 Foundational Mathematical Literature
-* **Tuck (1964, J. Fluid Mech.)**: Foundational source for Legendre harmonic number eigenvalue identity $\int_{-1}^1 \frac{P_n(x)-P_n(y)}{|x-y|} dy = 2 H_n P_n(x)$ (`KNOWN INGREDIENT / NOVEL APPLICATION`).
+* **Tuck (1964, J. Fluid Mech.)**: Foundational source for Legendre harmonic number eigenvalue identity $\int_{-1}^1 \frac{P_n(x)-P_n(y)}{|x-y|} dy = 2 H_n P_n(x)$ (`KNOWN INGREDIENT / NOVEL APPLICATION`).
 * **Lagarias (2007, Ann. Inst. Fourier)**: Explicit prior art for Euler-product prime-Laguerre expansion $\lambda_n^{(p)}$ (`PRIOR ART FOUND`).
 * **Schoenberg (1938) / Suzuki (2023)**: Normalized relation between Li coefficients, conditionally negative definite sequences on $\mathbb{Z}$, and positive definite semigroups $e^{-t\lambda_{|n|}}$ (`NOVELTY SUPPORTED`).
 * **Montgomery-Vaughan (1974)**: Mean value theorem for Dirichlet polynomials explaining analytical length barriers (`KNOWN INGREDIENT / NOVEL APPLICATION`).
@@ -102,10 +102,10 @@ Every claim in Pass 2 is evaluated across four decoupled axes:
 * **`CLM-METH-001` (Exact-Prime Weil Decomposition)**: `KNOWN INGREDIENTS / NOVEL SYNTHESIS SUPPORTED`.
 * **`CLM-METH-002` (Legendre Harmonic Coercivity)**: `KNOWN INGREDIENT / NOVEL APPLICATION` (Tuck 1964 applied to high-mode Weil coercivity $\mu_N > 0$).
 * **`CLM-METH-003` (High-Mode Complement Bound)**: `KNOWN INGREDIENTS / NOVEL SYNTHESIS SUPPORTED`.
-* **`CLM-METH-004` (Component Tail-Gram Schur Criterion)**: `KNOWN INGREDIENTS / NOVEL SYNTHESIS SUPPORTED` ($A_N - \frac{3}{\mu_N}(G_V + G_2 + G_R) > 0$).
+* **`CLM-METH-004` (Component Tail-Gram Schur Criterion)**: `KNOWN INGREDIENTS / NOVEL SYNTHESIS SUPPORTED` ($A_N - \frac{3}{\mu_N}(G_V + G_2 + G_R) > 0$).
 * **`CLM-METH-005` (Exact Rational Proof Architecture)**: `NOVELTY SUPPORTED`.
 * **`CLM-OPER-001` (Weil Primes as Compressed Translations)**: `KNOWN INGREDIENT / NOVEL APPLICATION`.
-* **`CLM-OPER-002` (Compressed Shift Norm $\|S_{T,a}\| = 2\cos\frac{\pi}{L+1}$)**: `KNOWN INGREDIENT / NOVEL APPLICATION` (Path graph Chebyshev spectrum applied to translation operators).
+* **`CLM-OPER-002` (Compressed Shift Norm $\|S_{T,a}\| = 2\cos\frac{\pi}{L+1}$)**: `KNOWN INGREDIENT / NOVEL APPLICATION` (Path graph Chebyshev spectrum applied to translation operators).
 * **`CLM-CONT-001` (Moving-Dimension Continuation)**: `KNOWN INGREDIENTS / NOVEL SYNTHESIS SUPPORTED`.
 * **`CLM-CONT-002` (Rejection of Deceptive Finite Sections)**: `NOVELTY SUPPORTED`.
 
@@ -186,14 +186,14 @@ The project establishes certified finite-support localized Weil positivity theor
 
 ## 7. Required Pass 3 Investigations (Non-Closure Rule)
 
-In strict adherence to Section 28 of [`SECOND_AUDIT.md`](../archive/SECOND_AUDIT.md), Audit Pass 2 does not declare scientific closure. The following specific items are designated for **Audit Pass 3**:
+In strict adherence to Section 28 of [`SECOND_AUDIT.md`](../SECOND_AUDIT.md), Audit Pass 2 does not declare scientific closure. The following specific items are designated for **Audit Pass 3**:
 
 1. **Independent Verification of August 21 Public Push (`CLM-PRIO-005`)**:
    - Query third-party event mirrors (GH Archive historical torrents, Software Heritage commit ingest logs, GitHub notification archives) to definitively settle whether commit `6dd1d8f0` was publicly fetchable prior to August 25.
 2. **Lean 4 End-to-End Formalization Expansion (`CLM-VERF-007`)**:
    - Formalize the semantic correspondence between Lean's matrix definitions and `rh_cert` Rust structs.
-   - Formalize the analytical deduction linking the discrete rational certificate inequality $A_N - \frac{3}{\mu_N}(G_V+G_2+G_R) > 0$ to full-space operator positivity $Q(f) > 0$ on $L^2([-T,T])$.
+   - Formalize the analytical deduction linking the discrete rational certificate inequality $A_N - \frac{3}{\mu_N}(G_V+G_2+G_R) > 0$ to full-space operator positivity $Q(f) > 0$ on $L^2([-T,T])$.
 3. **Continuous Symbol vs. Discrete Operator Equivalence**:
    - Perform an analytical deep dive comparing Marcus Chuk's continuous Landau-Widom symbol bounds with `riemann-conjecture`'s exact discrete Legendre coercivity eigenvalue bounds.
 4. **Continuation Beyond $T=0.54$**:
-   - Re-evaluate future project commits beyond $T=0.54$ to determine the computational and analytical scaling limits of the exact-prime moving-dimension strategy when encountering the second prime $p=3$ ($T > \frac{1}{2}\log 3 \a\approx 0.5493$).
+   - Re-evaluate future project commits beyond $T=0.54$ to determine the computational and analytical scaling limits of the exact-prime moving-dimension strategy when encountering the second prime $p=3$ ($T > \frac{1}{2}\log 3 \approx 0.5493$).
