@@ -1,0 +1,13 @@
+============================= test session starts =============================
+platform win32 -- Python 3.14.0, pytest-9.0.2, pluggy-1.6.0
+rootdir: C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture
+configfile: pyproject.toml
+plugins: anyio-4.13.0
+collected 168 items
+
+source\riemann-conjecture\tests\test_identities.py ..................... [ 12%]
+........................................................................ [ 55%]
+........................................................................ [ 98%]
+...                                                                      [100%]
+
+============================= 168 passed in 0.24s =============================

@@ -1,0 +1,5 @@
+ERROR: usage: python.exe -m pytest [options] [file_or_dir] [file_or_dir] [...]
+python.exe -m pytest: error: unrecognized arguments: -n
+  inifile: C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\pyproject.toml
+  rootdir: C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture
+

@@ -1,0 +1,10 @@
+    Finished `release` profile [optimized] target(s) in 0.23s
+     Running unittests src\lib.rs (source\riemann-conjecture\target\release\deps\rh_cert-1c8509a9edb65075.exe)
+     Running unittests src\main.rs (source\riemann-conjecture\target\release\deps\rh_cert-98f98b69c58adc87.exe)
+     Running tests\test_cert.rs (source\riemann-conjecture\target\release\deps\test_cert-258cb34a9a35b02a.exe)
+     Running tests\test_exact_prime_schur.rs (source\riemann-conjecture\target\release\deps\test_exact_prime_schur-c2e6810bb4ee8b9e.exe)
+     Running tests\test_gershgorin.rs (source\riemann-conjecture\target\release\deps\test_gershgorin-ebe9f2800708199c.exe)
+     Running tests\test_interval.rs (source\riemann-conjecture\target\release\deps\test_interval-4cefc0f027b032a3.exe)
+     Running tests\test_ldl.rs (source\riemann-conjecture\target\release\deps\test_ldl-53601a663bea72fa.exe)
+     Running tests\test_proptest.rs (source\riemann-conjecture\target\release\deps\test_proptest-3f68291c59d3d0fe.exe)
+   Doc-tests rh_cert

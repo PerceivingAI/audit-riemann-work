@@ -1,0 +1,128 @@
+{
+  "manifest_version": "1.0.0",
+  "audit_stage": "Audit Pass 4 (Phase 4 Computational & Verification-Chain Audit)",
+  "generation_timestamp": "2026-09-25T03:45:00.000000+00:00",
+  "audited_source_commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+  "hash_domain": "raw_file_bytes (raw_file_sha256); normalized_sha256 replaces CRLF bytes with LF only",
+  "line_ending_normalization": "CRLF -> LF before SHA-256 computation",
+  "host_metadata": {
+    "system": "Windows",
+    "release": "11",
+    "architecture": "AMD64",
+    "python_version": "3.14.0",
+    "rustc_version": "rustc 1.97.1",
+    "cargo_version": "cargo 1.97.1"
+  },
+  "runs": [
+    {
+      "name": "rh_cert_test_suite",
+      "command": "cargo test --release --manifest-path source/riemann-conjecture/crates/rh_cert/Cargo.toml",
+      "cwd": ".",
+      "exit_code": 0,
+      "log_file": "PASS4-REPLAY-RUST-CERT.stdout.log",
+      "raw_file_sha256": "43ba0e8c8a149b1c750b28ce9ae75fbb3111fba82834b6f123d4c38d58a594ff",
+      "test_summary": "48/48 unit and integration tests passed (interval, ldl, gershgorin, cert admission, proptest)"
+    },
+    {
+      "name": "rh_engine_test_suite",
+      "command": "cargo test --release --manifest-path source/riemann-conjecture/crates/rh_engine/Cargo.toml",
+      "cwd": ".",
+      "exit_code": 0,
+      "log_file": "PASS4-REPLAY-RUST-ENGINE.stdout.log",
+      "raw_file_sha256": "468bc7f28bc9910d655f4c51480f28876c2eb565dc9b1a51167dc8f3624e54e4",
+      "test_summary": "15/15 unit and integration tests passed (laguerre, sieve, phase, summation, invariants)"
+    },
+    {
+      "name": "retained_certificates_8of8",
+      "command": "python -B scripts/pass4_replay_certs.py",
+      "cwd": ".",
+      "exit_code": 0,
+      "log_file": "PASS4-REPLAY-CERT-8OF8.stdout.log",
+      "raw_file_sha256": "4bfdc6a061c0c2794eb8e398d89e02c630f699042b4d2ee21b8f10b784f185db",
+      "test_summary": "8/8 retained proof certificates verified successfully via standalone rh_cert binary"
+    },
+    {
+      "name": "python_mathematical_identities",
+      "command": "python -m pytest -o addopts=\"\" source/riemann-conjecture/tests/test_identities.py",
+      "cwd": ".",
+      "exit_code": 0,
+      "log_file": "PASS4-REPLAY-PYTEST-IDENTITIES.stdout.log",
+      "raw_file_sha256": "09904b6b69335f47ea57223e758bc6e6f96aa50085a67c5270141f237bf421cb",
+      "test_summary": "168/168 core mathematical identity tests passed"
+    }
+  ],
+  "retained_certificates": [
+    {
+      "claim": "C-0050",
+      "computation_id": "X-20260821-005",
+      "certificate_path": "source/riemann-conjecture/computations/2026-08-21T123446Z-exact-prime-schur-certificate/data/certificate.json",
+      "support_T": "7/20",
+      "dimension": 32,
+      "raw_file_sha256": "99ed74cc8fdb96ae0e5db1b2dea60da65052d96bc670df5b69d94a47d99c1255",
+      "verifier_result": "PASS (exit 0)"
+    },
+    {
+      "claim": "C-0051",
+      "computation_id": "X-20260826-001",
+      "certificate_path": "source/riemann-conjecture/computations/2026-08-26T171400Z-one-prime-support-continuation/data/certificate-T040-N40.json",
+      "support_T": "2/5",
+      "dimension": 40,
+      "raw_file_sha256": "8f9fa235beb9b4ee3c4f7cde11732a1b0b5295a7bbc94c03857417ee8a2b1be2",
+      "verifier_result": "PASS (exit 0)"
+    },
+    {
+      "claim": "C-0052",
+      "computation_id": "X-20260826-002",
+      "certificate_path": "source/riemann-conjecture/computations/2026-08-26T183125Z-seventeen-fortieths-schur-certificate/data/certificate.json",
+      "support_T": "17/40",
+      "dimension": 48,
+      "raw_file_sha256": "6c74a386097bb30c2924f70d82e90d5ffc4d2dcb029543b7c973949948bdd325",
+      "verifier_result": "PASS (exit 0)"
+    },
+    {
+      "claim": "C-0053",
+      "computation_id": "X-20260826-003",
+      "certificate_path": "source/riemann-conjecture/computations/2026-08-26T190517Z-nine-twentieths-schur-certificate/data/certificate.json",
+      "support_T": "9/20",
+      "dimension": 56,
+      "raw_file_sha256": "98f2b839d7f52c971966e7f9da9ae4e318c30a491821ad86abee6411b51932e0",
+      "verifier_result": "PASS (exit 0)"
+    },
+    {
+      "claim": "C-0054",
+      "computation_id": "X-20260827-002",
+      "certificate_path": "source/riemann-conjecture/computations/2026-08-27T122716Z-nineteen-fortieths-schur-certificate/data/certificate.json",
+      "support_T": "19/40",
+      "dimension": 68,
+      "raw_file_sha256": "d9ba45f0026de31ded30ab3a08cd8272982424368c63426131cd08428aab8ac5",
+      "verifier_result": "PASS (exit 0)"
+    },
+    {
+      "claim": "C-0055",
+      "computation_id": "X-20260827-004",
+      "certificate_path": "source/riemann-conjecture/computations/2026-08-27T170850Z-one-half-schur-certificate/data/certificate.json",
+      "support_T": "1/2",
+      "dimension": 80,
+      "raw_file_sha256": "95dd6c7a497ad605ddc81129a774bade5fbbc769d0f6fdf29172b89da2a57a7d",
+      "verifier_result": "PASS (exit 0)"
+    },
+    {
+      "claim": "C-0056",
+      "computation_id": "X-20260828-001",
+      "certificate_path": "source/riemann-conjecture/computations/2026-08-28T010811Z-t21-40-schur-certificate/data/certificate.json",
+      "support_T": "21/40",
+      "dimension": 96,
+      "raw_file_sha256": "a455dcb995a56f6d387e79b199cfc6f18ba6fca108fcfe3c00987e1c47b44824",
+      "verifier_result": "PASS (exit 0)"
+    },
+    {
+      "claim": "C-0057",
+      "computation_id": "X-20260924-001",
+      "certificate_path": "source/riemann-conjecture/computations/2026-09-24T183715Z-t27-50-schur-certificate/data/certificate.json",
+      "support_T": "27/50",
+      "dimension": 104,
+      "raw_file_sha256": "75187f3be283ca9596a714c4a12822c4c58cd4b33e7624110ff102d68c9aab3f",
+      "verifier_result": "PASS (exit 0)"
+    }
+  ]
+}

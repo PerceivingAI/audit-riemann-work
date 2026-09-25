@@ -67,7 +67,7 @@
           "validity": "E4",
           "result": "E3",
           "method": "E0",
-          "software": "E0",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -167,7 +167,7 @@
           "validity": "E4",
           "result": "E3",
           "method": "E0",
-          "software": "E0",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -267,7 +267,7 @@
           "validity": "E4",
           "result": "E3",
           "method": "E0",
-          "software": "E0",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -367,7 +367,7 @@
           "validity": "E4",
           "result": "E3",
           "method": "E0",
-          "software": "E0",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -467,7 +467,7 @@
           "validity": "E4",
           "result": "E3",
           "method": "E0",
-          "software": "E0",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -567,7 +567,7 @@
           "validity": "E4",
           "result": "E3",
           "method": "E0",
-          "software": "E0",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -667,7 +667,7 @@
           "validity": "E4",
           "result": "E3",
           "method": "E0",
-          "software": "E0",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -767,7 +767,7 @@
           "validity": "E4",
           "result": "E3",
           "method": "E0",
-          "software": "E0",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -4664,7 +4664,9 @@
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-001.md",
         "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
-        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md",
+        "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+        "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
       ],
       "current_review": {
         "status": "VERIFIED",
@@ -4677,7 +4679,7 @@
           "validity": "E4",
           "result": "E0",
           "method": "E0",
-          "software": "E3",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -4685,7 +4687,8 @@
             "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
             "evidence": [
-              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+              "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
             ]
           },
           "result": {
@@ -4763,7 +4766,9 @@
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-001.md",
         "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
-        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md",
+        "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+        "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
       ],
       "current_review": {
         "status": "VERIFIED",
@@ -4776,7 +4781,7 @@
           "validity": "E4",
           "result": "E0",
           "method": "E0",
-          "software": "E3",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -4784,7 +4789,8 @@
             "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
             "evidence": [
-              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+              "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
             ]
           },
           "result": {
@@ -4862,7 +4868,9 @@
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-005.md",
         "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
-        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md",
+        "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+        "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
       ],
       "current_review": {
         "status": "VERIFIED",
@@ -4875,7 +4883,7 @@
           "validity": "E4",
           "result": "E0",
           "method": "E0",
-          "software": "E3",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -4883,7 +4891,8 @@
             "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
             "evidence": [
-              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+              "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
             ]
           },
           "result": {
@@ -4961,7 +4970,9 @@
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-005.md",
         "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
-        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md",
+        "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+        "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
       ],
       "current_review": {
         "status": "VERIFIED",
@@ -4974,7 +4985,7 @@
           "validity": "E4",
           "result": "E0",
           "method": "E0",
-          "software": "E3",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -4982,7 +4993,8 @@
             "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
             "evidence": [
-              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+              "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
             ]
           },
           "result": {
@@ -5060,7 +5072,9 @@
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-005.md",
         "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
-        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md",
+        "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+        "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
       ],
       "current_review": {
         "status": "VERIFIED",
@@ -5073,7 +5087,7 @@
           "validity": "E4",
           "result": "E0",
           "method": "E0",
-          "software": "E3",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -5081,7 +5095,8 @@
             "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
             "evidence": [
-              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+              "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
             ]
           },
           "result": {
@@ -5159,7 +5174,9 @@
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-006.md",
         "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
-        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md",
+        "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+        "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
       ],
       "current_review": {
         "status": "VERIFIED",
@@ -5172,7 +5189,7 @@
           "validity": "E4",
           "result": "E0",
           "method": "E0",
-          "software": "E3",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -5180,7 +5197,8 @@
             "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
             "evidence": [
-              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+              "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
             ]
           },
           "result": {
@@ -5258,7 +5276,9 @@
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_3_INTERIM_REPORT.md",
         "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
-        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md",
+        "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+        "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
       ],
       "current_review": {
         "status": "VERIFIED",
@@ -5271,7 +5291,7 @@
           "validity": "E4",
           "result": "E0",
           "method": "E0",
-          "software": "E3",
+          "software": "E4",
           "priority": "E0"
         },
         "obligations": {
@@ -5279,7 +5299,8 @@
             "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
             "evidence": [
-              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+              "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
             ]
           },
           "result": {

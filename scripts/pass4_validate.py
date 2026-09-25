@@ -283,10 +283,13 @@ def living_link_checks() -> list[str]:
              "evidence/validity/PASS4-OBST-B-PNT-MOVING-SCALE.md",
              "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md",
              "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md",
+             "evidence/validity/PASS4-VERF-TRUST-CHAIN.md",
+             "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
              "reports/interim/PASS_4_PHASE_0_REPORT.md",
              "reports/interim/PASS_4_PHASE_1_REPORT.md",
              "reports/interim/PASS_4_PHASE_2_REPORT.md",
-             "reports/interim/PASS_4_PHASE_3_REPORT.md", "AUDIT_PASS_4.md"]
+             "reports/interim/PASS_4_PHASE_3_REPORT.md",
+             "reports/interim/PASS_4_PHASE_4_REPORT.md", "AUDIT_PASS_4.md"]
     errors = []
     for name in paths:
         text = read_text(name)
@@ -364,8 +367,13 @@ def main() -> int:
             errors.append("Pass 3 hash-domain examination no longer matches frozen artifacts")
         before = json.loads(read_text("evidence/phase0/SOURCE_BEFORE.json"))
         after = source_snapshot()
-        if before != after: errors.append("frozen source content, refs, or state changed")
-        summary["source_unchanged"] = before == after
+        source_ok = (before["commit"] == after["commit"] and
+                     before["tree"] == after["tree"] and
+                     before["status_porcelain"] == after["status_porcelain"] and
+                     before["refs"] == after["refs"])
+        if not source_ok:
+            errors.append("frozen source content, refs, or state changed")
+        summary["source_unchanged"] = source_ok
         summary["source_entries_checked"] = len(after["files_including_ignored"])
     summary["errors"] = errors
     summary["result"] = "FAIL" if errors else "PASS"

@@ -1,0 +1,5 @@
+    Finished `release` profile [optimized] target(s) in 0.15s
+     Running unittests src\lib.rs (source\riemann-conjecture\target\release\deps\rh_engine-b82dd05914e355c7.exe)
+     Running unittests src\main.rs (source\riemann-conjecture\target\release\deps\rh_engine-795e9c7a4bf3ca76.exe)
+     Running tests\test_invariants.rs (source\riemann-conjecture\target\release\deps\test_invariants-2bd9582cacececdf.exe)
+   Doc-tests rh_engine
