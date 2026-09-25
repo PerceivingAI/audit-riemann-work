@@ -1,13 +1,15 @@
-# Candidate Claims Queue & Adjudication Status
+# Candidate inventory: 66 propositions
 
-> **IMPORTANT NOTICE**  
-> This queue records the formal adjudication verdicts resulting from the independent audit of [`https://github.com/PerceivingAI/riemann-conjecture`](https://github.com/PerceivingAI/riemann-conjecture) conducted per [`AUDIT_PROTOCOL.md`](AUDIT_PROTOCOL.md).
+This living inventory supplies exact candidate IDs, proposition text, categories, and historical source-reference leads for Pass 4. Its verdict and dossier columns are inherited audit assertions, not new Pass 4 verification. Historical source-anchor dates are retained as leads, not established first-publication dates.
 
-> **Queue Metadata**  
-> * **Queue Initialized**: `2026-09-24T00:00:00Z`  
-> * **Last Queue Update**: `2026-09-24T00:00:00Z`  
-> * **Audit Status**: `AUDIT_COMPLETE`  
-> * **Total Claims Evaluated**: `50` (Adjudicated: 50, In Progress: 0, Queued: 0)
+- Status: `PASS_4_PHASE_0`, accounting and evidence infrastructure.
+- Inventory: 66 unique IDs across 10 ID families.
+- Execution plan: [FOURTH_AUDIT.md](FOURTH_AUDIT.md).
+- Current evidence status: [EVIDENCE_COVERAGE.md](EVIDENCE_COVERAGE.md).
+- Resolved mapping records: [candidate map](evidence/phase0/CANDIDATE_MAP.json).
+- Historical inventory versions: `archive/baselines/pass-1/CLAIMS_TO_AUDIT.md`, `archive/baselines/pass-2/CLAIMS_TO_AUDIT.md`, and `archive/baselines/pass-3/CLAIMS_TO_AUDIT.md`.
+
+Several inherited dossier paths do not exist. They remain visible as historical references, not active evidence links. The candidate map records those gaps and routes each ID to an existing Phase 0 mapping section. No missing dossier has been fabricated.
 
 ---
 
@@ -163,7 +165,7 @@
 
 ## XIII. Negative Claim Boundaries Adjudication
 
-The audit confirms that the project adheres to all negative boundary constraints:
+The following are inherited audit assertions, not independently rechecked in Phase 0:
 * **NO RH PROOF CLAIM**: Verified. The repository nowhere claims to have proved the Riemann Hypothesis.
 * **NO ARBITRARY SUPPORT CLAIM**: Verified. All results are strictly localized to compact supports $T \le 27/50$.
 * **NO TWO-PRIME EXTENSION CLAIM**: Verified. The repository explicitly stops at $T=0.54$, acknowledging that $p=3$ activation ($T \ge 0.5493$) requires new multi-prime operator geometry.

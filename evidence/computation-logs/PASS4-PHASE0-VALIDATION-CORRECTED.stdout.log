@@ -1,0 +1,26 @@
+{"mutation": "missing_id", "rejected_for_expected_reason": true, "diagnostics": ["candidate map: missing/duplicate/unexpected candidate ID"]}
+{"mutation": "duplicate_id", "rejected_for_expected_reason": true, "diagnostics": ["candidate map: missing/duplicate/unexpected candidate ID"]}
+{"mutation": "wrong_proposition", "rejected_for_expected_reason": true, "diagnostics": ["CLM-MATH-001: canonical proposition mismatch"]}
+{"mutation": "missing_link", "rejected_for_expected_reason": true, "diagnostics": ["CLM-MATH-001: missing evidence link", "CLM-MATH-001: missing evidence link"]}
+{"mutation": "nonexistent_file", "rejected_for_expected_reason": true, "diagnostics": ["CLM-MATH-001: missing or invalid referenced file: evidence/nonexistent-pass4-fixture.md"]}
+{"mutation": "missing_anchor", "rejected_for_expected_reason": true, "diagnostics": ["CLM-MATH-001: missing section anchor: evidence/search-records/PASS4-PHASE0-SEARCH-STATUS.md#clm-math-001-nonexistent"]}
+{"mutation": "wrong_rationale_subject", "rejected_for_expected_reason": true, "diagnostics": ["CLM-MATH-001: rationale mapped to wrong proposition"]}
+{"mutation": "unsupported_verified", "rejected_for_expected_reason": true, "diagnostics": ["CLM-MATH-001: unsupported VERIFIED promotion"]}
+{"mutation": "unsupported_complete", "rejected_for_expected_reason": true, "diagnostics": ["CLM-MATH-001: incomplete evidence obligations"]}
+{
+  "candidate_count": 66,
+  "current_verified": 0,
+  "inherited_classifications_preserved": true,
+  "completion_mode": false,
+  "version_records_checked": 181,
+  "stored_version_checks": 175,
+  "execution_records_checked": [
+    "evidence/computation-logs/PASS4-PHASE0-HASH-DOMAINS.run.json",
+    "evidence/computation-logs/PASS4-PHASE0-PRESERVATION.run.json",
+    "evidence/computation-logs/PASS4-PHASE0-VALIDATION.run.json"
+  ],
+  "source_unchanged": true,
+  "source_entries_checked": 3948,
+  "errors": [],
+  "result": "PASS"
+}

@@ -1,58 +1,26 @@
-# Source Provenance & Target Definition
+# Source provenance and frozen target
 
-This document establishes the exact identity, commit pins, provenance records, and historical anchors for the target repository under audit.
-> **Provenance Record Metadata**  
-> * **Record Established**: `2026-09-24T00:00:00Z`  
-> * **Submodule Verification**: `51feb3d176e4a53773c22dc157567cc0486f4c71` verified on `2026-09-24`  
-> * **Read-Only Verification**: Enforced
+## Audited target
 
+- Repository: `https://github.com/PerceivingAI/riemann-conjecture`.
+- Frozen commit: `51feb3d176e4a53773c22dc157567cc0486f4c71`.
+- Frozen tree: `8a1dd144a90a4121601ea839d048860bd724b413`.
+- Checkout: `source/riemann-conjecture/`, read-only.
 
----
+Phase 0 captured the source commit, tree, refs, Git status, and a raw-byte inventory before historical restoration. The initial Git status is clean. Existing ignored build outputs and caches are present; clean Git status does not imply their absence. They are included in the byte inventory and must not be removed or modified.
 
-## 1. Audited Target Repository
+[Source baseline](evidence/phase0/SOURCE_BEFORE.json) contains all 3,948 file/directory entries captured, including 3,444 files. Each file's `sha256` hashes exact raw bytes; directory entries record existence, and symlink entries record the target. The comparison does not claim to preserve access timestamps. Source identity checks use Git with optional index locks disabled. No source build, test, theorem replay, or dependency installation is needed for Phase 0.
 
-* **Repository URL**: `https://github.com/PerceivingAI/riemann-conjecture`
-* **Repository Visibility**: `PUBLIC`
-* **Public Creation Timestamp**: `2026-08-20T20:39:42Z`
-* **Audit Boundary**: Strictly Read-Only snapshot
+## Candidate locations and historical leads
 
----
+[CANDIDATE_MAP.json](evidence/phase0/CANDIDATE_MAP.json) records pinned source locations, exact inventory proposition digests, original reference labels, and resolved historical commit IDs for all 66 candidates. A resolved Git object proves identity, not that it contains the first complete proof or was public at that time.
 
-## 2. Frozen Snapshot Anchor
+The prior provenance table and its creation-time assertions remain preserved in [Pass 3 SOURCE.md](archive/baselines/pass-3/SOURCE.md). They are leads for later chronology, not newly verified event evidence. Phase 0 does not assert the source repository's creation time or earliest public push.
 
-The closed-state commit representing the primary target of this audit is:
+Source excerpt digests use UTF-8 text formed by joining the selected decoded lines with LF and no added final newline. They detect changes in the inspected excerpt; raw file identities are independently retained in the source baseline.
 
-```text
-Commit Hash: 51feb3d176e4a53773c22dc157567cc0486f4c71
-Timestamp  : 2026-09-24
-Tree Location: source/riemann-conjecture (Git submodule / pinned checkout)
-```
+## Execution boundary
 
----
+Do not edit source code, findings, derivations, certificates, retained calculations, documentation, or Git history. Do not place outputs or caches there. Later execution must redirect all writes into audit-owned paths or use a documented hash-verified execution copy. Any source defect is an audit finding with commit, path, line/section, candidate ID, and evidence.
 
-## 3. Historical Commit Anchors & Provenance Map
-
-Priority and provenance audits must evaluate the exact point of origin for each specific result within the Git history, rather than evaluating solely the terminal commit `51feb3d`.
-
-| Anchor Commit SHA | Commit Timestamp (UTC) | Milestone / Proposition Introduced | Associated Claims |
-| :--- | :--- | :--- | :--- |
-| `[Repo Creation]` | `2026-08-20T20:39:42Z` | Initial public repository creation on GitHub | `CLM-PRIO-001` |
-| `cc57e7037a40...` | `2026-08-20` | Pole-subtracted Li/Laguerre criterion, Euler product decomposition, shift-filter work | `CLM-LAGU-001` to `005`, `CLM-OBST-004`, `CLM-PRIO-007`, `008` |
-| `64e884b89c11...` | `2026-08-20` | Stationary-map, single-zero matching, nonlinear chirp, block-$L^2$ formulation | `CLM-AIRY-001` to `007`, `CLM-OBST-006` to `010`, `CLM-PRIO-009` |
-| `1752f19dec98...` | `2026-08-20/21` | Bilinear / Vaughan / Heath-Brown rank-one Hessian and phase obstructions | `CLM-OBST-011` to `015`, `CLM-PRIO-010` |
-| `fab5933fdcbd...` | `2026-08-21` | Li Gram kernel hierarchy, Schoenberg CND formulation, compressed-translation operator | `CLM-OPER-001`, `002`, `CLM-GRAM-001` to `003`, `CLM-PRIO-011`, `012` |
-| `3111accb59df...` | `2026-08-21` | Legendre coercivity, exact-prime decomposition, high-mode complement bound, tail-Gram Schur | `CLM-METH-001` to `004`, `CLM-OBST-001` to `003`, `CLM-PRIO-004` |
-| `6dd1d8f07e23...` | `2026-08-21T14:05:13Z` | First completed exact-prime theorem C-0050 ($T=0.35, N=32$), exact rational certificate & verifier | `CLM-MATH-001`, `CLM-METH-005`, `CLM-VERF-001`, `002`, `CLM-PRIO-005` |
-| `b5405a9347a8...` | `2026-08-26` | Moving-dimension continuation sequence start (C-0051 through C-0056) | `CLM-MATH-002` to `007`, `CLM-CONT-001`, `CLM-VERF-004` |
-| `51feb3d176e4...` | `2026-09-24` | Final closed state: C-0057 ($T=0.54, N=104$), 8/8 retained proof chain replay, Lean soundness | `CLM-MATH-008`, `CLM-CONT-002`, `CLM-VERF-003`, `005` to `007`, `CLM-PRIO-006` |
-
----
-
-## 4. Source Inspection Rules
-
-1. **Local Access**: Files from the source repository must be accessed strictly via `source/riemann-conjecture/`.
-2. **Provenance Verification**: For every audited claim, the auditor must cross-check:
-   * The earliest commit where the mathematical statement appears.
-   * The earliest commit where the complete proof / code artifact was committed.
-   * Author and committer timestamps for those commits.
-3. **No Direct Mutation**: The `source/riemann-conjecture/` directory must remain untouched by any audit tooling or edits.
+The validator compares the current checkout's files/directories, raw hashes, refs, commit, tree, and Git status with the captured baseline. This is a local preservation check, not proof of historical public availability. [TIMELINE_RULES.md](TIMELINE_RULES.md) governs that separate question.

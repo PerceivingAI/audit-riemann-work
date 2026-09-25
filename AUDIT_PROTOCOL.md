@@ -1,108 +1,85 @@
-# Audit Protocol — Version 2.0.0
+# Audit protocol, version 3
 
-This document defines the operational rules, decoupled multi-axis classification taxonomy, and analytical standards governing the independent audit of [`https://github.com/PerceivingAI/riemann-conjecture`](https://github.com/PerceivingAI/riemann-conjecture).
+## Status and scope
 
-> **Protocol Governance Metadata**  
-> * **Protocol Version**: `2.0.0` (Updated for Multi-Pass Multi-Axis Governance)  
-> * **Effective Date**: `2026-09-24T23:10:00Z`  
-> * **Audited Closed-State Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`
+Pass 4 uses **five evidentiary axes plus one disposition field** under [FOURTH_AUDIT.md](FOURTH_AUDIT.md). Phase 0 establishes accounting and provenance; it does not independently verify mathematics, novelty, software soundness, or priority.
 
----
+The frozen target is `51feb3d176e4a53773c22dc157567cc0486f4c71`. The source checkout and its history remain read-only. Historical policy versions are preserved under `archive/baselines/`; this policy governs living Pass 4 records, not retroactive edits to earlier passes.
 
-## 1. Epistemological Stance
+## Evidence-led decisions
 
-1. **Null Hypothesis**: The default stance for any candidate claim is **non-novelty** and **prior existence**.
-2. **Burden of Proof**: The burden rests on proving novelty through exhaustive literature and code search, mathematical comparison, and structural differentiation.
-3. **Hypothesis vs. Fact**: Unaudited propositions listed in `CLAIMS_TO_AUDIT.md` are hypotheses under test, not established facts.
-4. **Adversarial Standard**: Negative findings, overlapping prior art, and contradictory evidence must be fully documented and given equal prominence.
-5. **Non-Closure Standard**: Where evidence is incomplete or unverified (e.g. unverified public push timestamps), claims must be designated `INCONCLUSIVE` rather than forced into premature certainty.
+1. Treat earlier audit classifications as hypotheses. Neither novelty nor prior existence is a predetermined verdict.
+2. Identify the exact proposition and relevant axes before collecting or classifying evidence.
+3. Distinguish source assertions, inspected derivations, independent derivations, machine replay, formal checking, external comparison, and public event records.
+4. Give adverse and supporting evidence equal evidentiary treatment. Do not discard adverse findings from Git history.
+5. Missing or inaccessible evidence stays unresolved. A null search does not establish novelty or prove non-occurrence.
+6. Keep source defects as audit findings. Do not correct code, mathematics, certificates, documentation, or retained computations in the source checkout.
 
----
+## Classification fields
 
-## 2. Versioned 4-Axis Multi-Dimensional Taxonomy (v2.0.0)
+| Field | Meaning |
+| --- | --- |
+| Validity / factual status | Whether the exact proposition is established within the stated scope |
+| Result comparison | Relationship to external mathematical results |
+| Method comparison | Relationship to existing techniques |
+| Verification/software comparison | Relationship to proof architectures and implementation facts |
+| Chronology / priority | Content-specific public chronological evidence |
+| Evidence disposition | Completeness, unresolved evidence, or need for narrower wording |
 
-Every claim in the authoritative ledger (`AUDIT_LEDGER.md`) MUST be independently evaluated across five orthogonal axes plus a final disposition:
+The disposition is not a sixth evidentiary axis. Phase 0 retains all six inherited classification values in an explicitly labeled Pass 3 hypothesis view. `evidence/phase0/CANDIDATE_MAP.json` holds those immutable baseline values separately from `current_review`. A baseline `VERIFIED` or `COMPLETE` is not a Pass 4 promotion.
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                        Versioned 4-Axis Taxonomy                       │
-├─────────────────────────────────┬──────────────────────────────────────┤
-│ Axis 1: Mathematical Validity   │ • VERIFIED                           │
-│                                 │ • FALSIFIED                          │
-│                                 │ • UNTESTED / THEORETICAL             │
-├─────────────────────────────────┼──────────────────────────────────────┤
-│ Axis 2: Mathematical Result     │ • NOVEL SUPPORT BOUND                │
-│         Novelty                 │ • POSSIBLY NOVEL                     │
-│                                 │ • RESULT SUBSUMED BY PRIOR ART       │
-│                                 │ • PRIOR ART FOUND                    │
-│                                 │ • N/A (Method / Software / Barrier)  │
-├─────────────────────────────────┼──────────────────────────────────────┤
-│ Axis 3: Method Novelty          │ • NOVEL SYNTHESIS SUPPORTED          │
-│                                 │ • KNOWN INGREDIENT / NOVEL APPL.     │
-│                                 │ • KNOWN METHOD                       │
-│                                 │ • N/A (Pure Math Result / Verifier)  │
-├─────────────────────────────────┼──────────────────────────────────────┤
-│ Axis 4: Software / Verification │ • NOVEL VERIFICATION ARCHITECTURE    │
-│         Novelty                 │ • VERIFIED IMPLEMENTATION FACT       │
-│                                 │ • STANDARD IMPLEMENTATION            │
-│                                 │ • N/A (Analytical Claim)             │
-├─────────────────────────────────┼──────────────────────────────────────┤
-│ Axis 5: Chronological Priority  │ • PRIORITY SUPPORTED (Public Push)   │
-│                                 │ • PRIORITY PLAUSIBLE (Commit Only)   │
-│                                 │ • PRIOR ART FOUND (External Earlier) │
-│                                 │ • INCONCLUSIVE                       │
-├─────────────────────────────────┼──────────────────────────────────────┤
-│ Axis 6: Final Disposition       │ • COMPLETE                           │
-│                                 │ • CLAIM REQUIRES NARROWER WORDING    │
-│                                 │ • INCONCLUSIVE — REQUIRES PASS 4     │
-└─────────────────────────────────┴──────────────────────────────────────┘
-```
+Current review states begin at `NOT_ADJUDICATED`, with disposition `INCONCLUSIVE — REQUIRES LATER PASS`. This records an audit-evidence gap, not a scientific reversal of the inherited classification. Any later substantive change must record old value, new value, affected axis, reason, and supporting evidence. The living inventory preserves exact canonical proposition text; narrower interpretations are separate findings.
 
----
+## Verification provenance
 
-## 3. Mathematical Normalization Rules
+Every current validity decision has a `Verification Basis` selected from:
 
-Before comparing any candidate claim to prior literature:
+- `MACHINE_REPLAY`
+- `INDEPENDENT_DERIVATION`
+- `FORMAL_PROOF_CHECK`
+- `SOURCE_DERIVATION_REVIEW`
+- `PRIMARY_LITERATURE_MATCH`
+- `CODE_INSPECTION`
+- `HISTORICAL_RECORD`
+- `NOT_INDEPENDENTLY_VERIFIED`
 
-1. **Variable Normalization**: Align notation for intervals, support widths (e.g., support $L$ vs. half-width $T$), scaled coordinates ($[-1, 1]$ vs. $[0, 1]$), normalization constants, and Fourier transform conventions.
-2. **Regime Alignment**: Distinguish between asymptotic results ($N \to \infty$, $t \to \infty$) and effective/explicit finite bounds.
-3. **Operator Equivalence**: Map operators (transfer operators, Schur complements, discrete path Laplacians) to standard mathematical terminology before asserting methodological differences.
+A positive basis requires an evidence reference and a statement of what it checks. A theorem label, a source quotation, or a successful certificate replay does not establish every upstream mathematical implication. Mixed checked/unchecked components must be separated explicitly.
 
----
+## Evidence strength
 
-## 4. Multi-Anchor Chronology & Priority Standards
+| Level | Audit evidence represented |
+| --- | --- |
+| E0 | Candidate or related source lead only |
+| E1 | Relevant source assertion located, not independently checked |
+| E2 | Source derivation or code inspected |
+| E3 | Independently reproduced or rederived |
+| E4 | Independently machine-verified or formally verified within declared scope |
+| E5 | Independently reproduced and externally corroborated |
 
-Priority evaluations must explicitly evaluate four independent timestamp anchors:
-$$T_{\text{idea}} \le T_{\text{commit}} \le T_{\text{public\_push}} \quad \text{vs.} \quad T_{\text{ext\_post}} \le T_{\text{publication}}$$
+Record strength separately for validity, result, method, software, and priority. Levels do not rank scientific merit. An E1 source assertion does not justify `SOURCE_DERIVATION_REVIEW`; E4 finite acceptance does not certify an unreviewed infinite-dimensional reduction. Phase 0 leaves comparison and priority evidence at E0 until their evidence is examined. Historical evidence remains accessible as a lead rather than silently credited as a new check.
 
-1. **$T_{\text{commit}}$**: Author/committer timestamp inside the Git commit object.
-2. **$T_{\text{public\_push}}$**: Verifiable public push timestamp evidenced by third-party witnesses (GH Archive, Software Heritage, Wayback Machine, public mirrors, forks).
-3. **$T_{\text{ext\_post}}$**: Public preprint or paper submission date (e.g. arXiv submission).
-4. **Standard**:
-   - `PRIORITY SUPPORTED`: Requires verified $T_{\text{public\_push}} < T_{\text{ext\_post}}$.
-   - `PRIORITY PLAUSIBLE`: Assigned when $T_{\text{commit}} < T_{\text{ext\_post}}$ but independent public push records are unverified.
-   - `PRIOR ART FOUND`: Assigned when $T_{\text{ext\_post}} \le T_{\text{commit}}$.
+## Normalization and comparison
 
----
+Before asserting equivalence or difference, align support width versus half-width, coordinates, Fourier conventions, constants, function spaces, admissibility constraints, operators, regimes, and effective bounds. Identify standard ingredients separately from their application or combination. Explain every shortlisted source's disposition using [EVIDENCE_STANDARDS.md](EVIDENCE_STANDARDS.md).
 
-## 5. Literature & Repository Search Standards
+Public priority requires content-specific, symmetric public-disclosure evidence under [TIMELINE_RULES.md](TIMELINE_RULES.md). Do not infer public availability from author/committer time, repository creation alone, or absence of archive hits.
 
-All literature searches must satisfy minimum evidentiary rigor per `EVIDENCE_STANDARDS.md`:
+## Completeness and promotion
 
-1. **Databases Searched**:
-   * Mathematical indices: MathSciNet / zbMATH.
-   * Preprint repositories: arXiv (math.NT, math.CA, math.FA, math.SP).
-   * Academic aggregators: Google Scholar, Semantic Scholar, Crossref.
-   * Open source codebases & archives: GitHub, Software Heritage, GH Archive, Zenodo.
-2. **Query Logging**:
-   * Every search must be logged in `evidence/search-records/` with execution timestamp, database, exact query string, filters, total results count, and shortlisted inspected items.
-3. **Null Searches**:
-   * Zero-hit queries must be recorded to document search boundaries.
+Required obligations are recorded per candidate before adjudication. An axis may be inapplicable only with an explicit reason, not because its evidence is inconvenient to obtain. Phase 0 conservatively records all five axes as pending applicability review; inherited `N/A` values are not automatically new exemptions.
 
----
+A current `VERIFIED` requires proposition-appropriate evidence and a declared nonempty basis. `COMPLETE` requires all applicable obligations to be satisfied, not just replay acceptance or a matching ID count. Unchecked analytical steps, unavailable primary text, incomplete searches, or unresolved priority prevent completion where relevant.
 
-## 6. Immutability & Anti-Tampering Rules
+Use `CLAIM REQUIRES NARROWER WORDING` for a supported restriction, or `INCONCLUSIVE — REQUIRES LATER PASS` for open evidence. A pass may finish while its candidates remain unresolved, provided every required procedure and gap is honestly accounted for.
 
-1. **Audited Target Immutability**: The target repository snapshot at commit `51feb3d176e4a53773c22dc157567cc0486f4c71` is frozen.
-2. **Preservation of Prior Audit Passes**: Historical final reports (`FINAL_AUDIT.md`, `AUDIT_PASS_2.md`) remain unedited historical audit artifacts.
-3. **Audit History Transparency**: Search corrections, adverse findings, and revised claim evaluations must be committed to the public Git log of this repository.
+## Mapping and integrity gates
+
+The inventory ID, exact proposition, category, source reference, historical anchor, ledger row, mapping dossier, search-status record, and coverage row must correspond. Structured records bind every rationale to its subject ID and proposition digest. A machine match cannot determine mathematical meaning; the mapping dossier records semantic review and exceptions separately.
+
+`python -B scripts/pass4_validate.py` checks Phase 0 accounting, preservation, source identity, links, and hash domains. `--completion` additionally rejects unresolved candidate obligations. `--self-test` exercises rejected mutations without modifying repository artifacts. Commands are run through `scripts/pass4_run.py` when retaining evidence.
+
+Historical artifacts are excluded from current-document formatting/link repair. Exact restoration and declared byte-domain checks take precedence over prettifying their original defects. The preservation manifest classifies every baseline path as historical, a living-document snapshot, or repository control.
+
+## Version 3 amendments
+
+This revision removes the old policy's predetermined non-novelty stance, corrects axis terminology, separates inherited conclusions from current evidence, adds provenance and per-axis strength, and makes public-event semantics explicit. It does not reclassify scientific claims during the naming migration. See [Pass 3 errata](archive/ERRATA_PASS_3.md) for prior mapping and evidence-policy issues.

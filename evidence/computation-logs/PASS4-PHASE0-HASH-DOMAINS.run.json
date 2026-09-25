@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "command": [
+    "python",
+    "-B",
+    "scripts/pass4_validate.py",
+    "--hash-review"
+  ],
+  "working_directory": "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work",
+  "audit_head": "c2a305a60f8eb1819a685896196dfb880d0325c0",
+  "source_before": {
+    "commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+    "tree": "8a1dd144a90a4121601ea839d048860bd724b413",
+    "status_porcelain": ""
+  },
+  "host": {
+    "os": "Windows-11-10.0.26200-SP0",
+    "architecture": "AMD64"
+  },
+  "tools": {
+    "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\carlo\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+    "git": "git version 2.45.2.windows.1"
+  },
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "GIT_OPTIONAL_LOCKS": "0"
+  },
+  "start_time": "2026-09-25T03:03:56.187092+00:00",
+  "end_time": "2026-09-25T03:03:56.342218+00:00",
+  "exit_code": 0,
+  "source_after": {
+    "commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+    "tree": "8a1dd144a90a4121601ea839d048860bd724b413",
+    "status_porcelain": ""
+  },
+  "hash_domain": "exact raw file bytes",
+  "line_ending_normalization": "normalized_sha256 replaces CRLF bytes with LF only",
+  "streams": {
+    "stdout": {
+      "path": "evidence/computation-logs/PASS4-PHASE0-HASH-DOMAINS.stdout.log",
+      "raw_file_sha256": "6449a35b5fff3b78016d1cbc84d07f6d568d23b67bea1d506518b0d42e68f896",
+      "normalized_sha256": "5864fd59dab69d0fecaa1b49b58120c4690967d1d1b1e13e6d542e1bf923c839"
+    },
+    "stderr": {
+      "path": "evidence/computation-logs/PASS4-PHASE0-HASH-DOMAINS.stderr.log",
+      "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "normalized_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}

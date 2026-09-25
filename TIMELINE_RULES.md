@@ -1,58 +1,32 @@
-# Priority & Timeline Rules
+# Priority and public-availability rules
 
-This document establishes the multi-anchor chronological framework used to evaluate priority and public disclosure claims.
+## Event semantics
 
----
+Priority concerns the public availability of the exact result, method, software fact, or historical record under comparison. Do not infer availability from a local commit time or compare unlike disclosure channels.
 
-## 1. Multi-Anchor Chronology Framework
+Record separate anchors for repository creation, original author and committer times, first independently witnessed public availability, archive capture, external submission, external public posting, external publication, and external code disclosure. Record the source, query, stable identifier, represented event, exact returned timestamp with offset and precision, response artifact, and result for every source examined.
 
-Priority comparisons must not compare disparate disclosure channels asymmetrically (e.g., comparing a private Git commit date against a peer-reviewed print date, or an arXiv submission date against a repository initial commit).
+A capture may prove availability no later than capture time without identifying the first push. Repository creation does not prove that all later content was public at creation. Author and committer timestamps are distinct claims within Git objects. Do not impose a presumed ordering on them.
 
-For any priority determination, the audit must capture and distinguish the following discrete timestamps:
+## Decision rules
 
-```text
-Source Repository Anchors:
-  T_repo_init    : Public creation date of the source repository
-  T_commit_orig  : Git commit timestamp (author & committer) introducing the exact result
-  T_public_push  : First verifiable public push / availability of that commit
-  T_public_snap  : Earliest independent web crawl (e.g., Wayback Machine, GitHub archive)
+- `PRIORITY SUPPORTED` requires a normalized, content-specific comparison and independent evidence that the relevant source result was publicly available before the relevant external result. State the bounded comparison, not universal precedence over all possible work.
+- An earlier local commit without a public witness may be described as `PRIORITY PLAUSIBLE` only as an inherited or explicitly qualified hypothesis. It cannot establish public priority or close that axis.
+- `PRIOR ART FOUND` requires an actually inspected relevant external result and defensible chronology. Merely earlier metadata does not establish mathematical equivalence.
+- Use `INCONCLUSIVE` where public availability, equivalence, or event meaning remains unresolved.
 
-External Comparative Anchors:
-  T_ext_sub      : External preprint/paper formal submission date
-  T_ext_post     : External preprint first public posting date (e.g., arXiv announcement)
-  T_ext_pub      : External formal journal publication date (online first or volume print)
-  T_ext_code     : External public code repository disclosure timestamp
-```
+Compare arXiv public posting with source public availability; preserve submission separately. A later revised theorem carries its own version date. Treat forks, mirrors, releases, tags, and archive snapshots according to what content and time they actually establish.
 
----
+## Collection
 
-## 2. Priority Precedence Rules
+Investigate GitHub API records / `gh`, GH Archive, Software Heritage, Wayback, forks, mirrors, indexed commit URLs, and relevant release/tag metadata. Log each independently. A null query means that source did not supply evidence in the examined range; it does not prove non-occurrence.
 
-To establish whether priority is `PRIORITY SUPPORTED`, `PRIORITY PLAUSIBLE`, or `PRIOR ART FOUND`:
+A GH Archive investigation requires the actual event datasets or dataset query, relevant UTC hours/days, event filters including `PushEvent` and `CreateEvent`, retained executable query/script, matching or nonmatching output, and artifact hashes. A generic web search is not a GH Archive dataset investigation.
 
-### Rule 1: Public Availability is the Benchmark
-* A private internal commit timestamp ($T_{\text{commit\_orig}}$) without public disclosure cannot claim priority over a public external posting ($T_{\text{ext\_post}}$).
-* Priority requires $T_{\text{public\_push}} < T_{\text{ext\_post}}$.
+Do not reconcile arbitrary Markdown metadata clocks. When a timestamp is used as evidence, consult its authoritative source, retain its exact value, and state its event. Primary arXiv version metadata supersedes inherited audit dates when they conflict, through additive corrections to historical records.
 
-### Rule 2: Symmetric Comparison
-* If comparing against an arXiv preprint: Compare the arXiv public announcement date ($T_{\text{ext\_post}}$) against the public Git availability date ($T_{\text{public\_push}}$).
-* If comparing against a journal article without preprint: Compare the official online publication date ($T_{\text{ext\_pub}}$) against $T_{\text{public\_push}}$.
+## Candidate correspondence
 
-### Rule 3: Content Specificity
-* Priority applies only to the specific mathematical theorem, bound, or code implementation present in the earlier commit.
-* Subsequent additions, refinements, or corrections in later commits carry their own later timestamps.
+`CLM-PRIO-001..003` concern public research history, negative-result history, and correction history. They are not aliases for prime-trace, shift-filter, or stationary-mode priority. Every priority candidate must be investigated under its canonical inventory proposition, with the semantic mapping review linked from `EVIDENCE_COVERAGE.md`.
 
----
-
-## 3. Timeline Verification Table Schema
-
-Every priority evaluation in `claims/priority/` must include a multi-anchor timeline table:
-
-| Event Description | Channel / Repository | Anchor Symbol | Timestamp (UTC) | Verification Source / Hash |
-| :--- | :--- | :--- | :--- | :--- |
-| Source Initial Public Creation | GitHub (`riemann-conjecture`) | $T_{\text{repo\_init}}$ | `YYYY-MM-DD HH:MM:SS` | Git commit / GitHub API log |
-| Earliest Result Commit | GitHub (`riemann-conjecture`) | $T_{\text{commit\_orig}}$ | `YYYY-MM-DD HH:MM:SS` | Commit SHA `3111accb...` |
-| First Verified Public Push | GitHub / Web Archive | $T_{\text{public\_push}}$ | `YYYY-MM-DD HH:MM:SS` | Public push log / archive URL |
-| External Preprint Submission | arXiv | $T_{\text{ext\_sub}}$ | `YYYY-MM-DD HH:MM:SS` | arXiv submission header |
-| External Public Announcement | arXiv | $T_{\text{ext\_post}}$ | `YYYY-MM-DD HH:MM:SS` | arXiv announcement date |
-| External Formal Publication | Journal | $T_{\text{ext\_pub}}$ | `YYYY-MM-DD` | Journal DOI metadata |
+Phase 0 resolves record ownership and records gaps; it does not perform or claim the Phase 5 external chronology investigation. See [FOURTH_AUDIT.md](FOURTH_AUDIT.md) for the execution plan.

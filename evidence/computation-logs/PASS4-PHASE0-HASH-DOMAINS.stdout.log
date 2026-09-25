@@ -1,0 +1,39 @@
+{
+  "scope": "Additive byte-domain examination only; no theorem replay",
+  "hash_domain": "raw bytes and CRLF-to-LF-only normalized bytes",
+  "original_manifest": "evidence/computation-logs/PASS3-REPLAY-MANIFEST.json",
+  "records": [
+    {
+      "path": "evidence/computation-logs/PASS3-REPLAY-RUST-CERT.log",
+      "inherited_sha256": "e0d303bb517c8f280de55505dfde96ac2b82e37298800cbaebe9151220d4b85e",
+      "raw_file_sha256": "ceaba65d2896ccff57695ee88042670a28fedd35fa61df313c761158511edcaa",
+      "normalized_sha256": "e0d303bb517c8f280de55505dfde96ac2b82e37298800cbaebe9151220d4b85e",
+      "matches_raw": false,
+      "matches_crlf_to_lf": true
+    },
+    {
+      "path": "evidence/computation-logs/PASS3-REPLAY-RUST-ENGINE.log",
+      "inherited_sha256": "804297f319ed47fbbd1b965db66dfa9b19bba11ed59280542343c25f18976fc0",
+      "raw_file_sha256": "a37bd40ef64e0123c2cf5e05bfc44b0c587ac2e382ebb22b144352d48a5b3e1d",
+      "normalized_sha256": "804297f319ed47fbbd1b965db66dfa9b19bba11ed59280542343c25f18976fc0",
+      "matches_raw": false,
+      "matches_crlf_to_lf": true
+    },
+    {
+      "path": "evidence/computation-logs/PASS3-REPLAY-CERT-8OF8.log",
+      "inherited_sha256": "398e6cc2708eb0bed10cf58622fd1d4b7f9695ffc25efe82c7c9709cef0ef9e1",
+      "raw_file_sha256": "77c190eff514c81f10fc8b2397c9da6f5fc44ba9b553827c4ea870de467c7b29",
+      "normalized_sha256": "398e6cc2708eb0bed10cf58622fd1d4b7f9695ffc25efe82c7c9709cef0ef9e1",
+      "matches_raw": false,
+      "matches_crlf_to_lf": true
+    },
+    {
+      "path": "evidence/computation-logs/PASS3-REPLAY-PYTEST.log",
+      "inherited_sha256": "2c3981969ad9252eb311b0dd38fe9ec34f35ba8f752c197b2afc69ef3e6e0dad",
+      "raw_file_sha256": "3254de1ea76abd2bda4692901b7a4a75469005015664116ea11c37f4199b195b",
+      "normalized_sha256": "2c3981969ad9252eb311b0dd38fe9ec34f35ba8f752c197b2afc69ef3e6e0dad",
+      "matches_raw": false,
+      "matches_crlf_to_lf": true
+    }
+  ]
+}
