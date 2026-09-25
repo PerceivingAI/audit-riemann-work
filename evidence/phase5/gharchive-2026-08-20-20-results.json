@@ -1,0 +1,11 @@
+{
+  "hour": "2026-08-20-20",
+  "url": "https://data.gharchive.org/2026-08-20-20.json.gz",
+  "http_status": 200,
+  "download_success": true,
+  "dataset_sha256": "ccb7b681e46e8d518554a2667ccaa10451b51a6f70854a62623c6edaae0c9c1a",
+  "dataset_size_bytes": 982089,
+  "total_events_scanned": 955,
+  "matching_events_count": 0,
+  "matching_events": []
+}

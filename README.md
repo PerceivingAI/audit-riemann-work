@@ -4,7 +4,7 @@ An independent, multi-pass audit of the mathematical, methodological, verificati
 
 ## Current status
 
-**Pass 4 Phase 4 technical gates passed: verification-chain & computational trust audit.** Phases 5 and 6 have not been executed. Pass 4 examines whether the audit's classifications have sufficient evidence; earlier reports are records to inspect, not authorities.
+**Pass 4 Phase 5 technical gates passed: priority & public availability evidence.** Phase 6 (Synthesis) is ready to begin. Pass 4 examines whether the audit's classifications have sufficient evidence; earlier reports are records to inspect, not authorities.
 
 - [FOURTH_AUDIT.md](FOURTH_AUDIT.md) is the preserved execution-plan authority. Its originating commit is `c2a305a60f8eb1819a685896196dfb880d0325c0`; the preservation manifest records its exact bytes.
 - [AUDIT_PASS_4.md](AUDIT_PASS_4.md) remains the initial plan document, not a completed report. Final Pass 4 report publication is reserved for synthesis.
@@ -16,6 +16,7 @@ An independent, multi-pass audit of the mathematical, methodological, verificati
 - [Phase 2 report](reports/interim/PASS_4_PHASE_2_REPORT.md) records multi-family literature searches across 6 topic dossiers and 8 primary literature baseline dossiers.
 - [Phase 3 report](reports/interim/PASS_4_PHASE_3_REPORT.md) records independent derivations, asymptotic checks, and granular obstruction audits across Groups A through E.
 - [Phase 4 report](reports/interim/PASS_4_PHASE_4_REPORT.md) records 6-layer verification trust chain analysis, 8/8 certificate replays, and Lean formal soundness correspondence.
+- [Phase 5 report](reports/interim/PASS_4_PHASE_5_REPORT.md) records multi-anchor priority timeline evaluations, GH Archive scans, and non-closure priority determinations.
 
 No new mathematical, novelty, formal-soundness, or priority verdict is claimed by Phase 0. Located source assertions are not independent verification. The audit must not describe localized positivity or certificate acceptance as a proof of RH.
 

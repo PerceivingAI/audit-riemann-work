@@ -1,0 +1,11 @@
+{
+  "hour": "2026-08-21-03",
+  "url": "https://data.gharchive.org/2026-08-21-03.json.gz",
+  "http_status": 404,
+  "download_success": false,
+  "dataset_sha256": null,
+  "dataset_size_bytes": 127,
+  "total_events_scanned": 0,
+  "matching_events_count": 0,
+  "matching_events": []
+}

@@ -285,11 +285,13 @@ def living_link_checks() -> list[str]:
              "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md",
              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md",
              "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
+             "evidence/public-timeline/PASS_4_TIMELINE.md",
              "reports/interim/PASS_4_PHASE_0_REPORT.md",
              "reports/interim/PASS_4_PHASE_1_REPORT.md",
              "reports/interim/PASS_4_PHASE_2_REPORT.md",
              "reports/interim/PASS_4_PHASE_3_REPORT.md",
-             "reports/interim/PASS_4_PHASE_4_REPORT.md", "AUDIT_PASS_4.md"]
+             "reports/interim/PASS_4_PHASE_4_REPORT.md",
+             "reports/interim/PASS_4_PHASE_5_REPORT.md", "AUDIT_PASS_4.md"]
     errors = []
     for name in paths:
         text = read_text(name)

@@ -1,0 +1,142 @@
+{
+  "manifest_version": 1,
+  "started_at": "2026-09-25T06:35:24.430849+00:00",
+  "completed_at": "2026-09-25T06:35:49.488424+00:00",
+  "target_repository": "PerceivingAI/riemann-conjecture",
+  "http_records": [
+    {
+      "url": "https://api.github.com/repos/PerceivingAI/riemann-conjecture",
+      "final_url": "https://api.github.com/repos/PerceivingAI/riemann-conjecture",
+      "retrieved_at_start": "2026-09-25T06:35:24.431042+00:00",
+      "retrieved_at_end": "2026-09-25T06:35:26.005360+00:00",
+      "http_status": 200,
+      "size_bytes": 5827,
+      "raw_file_sha256": "036dc285540881dc80ab03838f4cd9263e4aeb1b4a841c5fb838f736bd6fc625",
+      "stored_path": "evidence/phase5/github-repo-meta.json",
+      "cache_only": false
+    },
+    {
+      "url": "https://api.github.com/repos/PerceivingAI/riemann-conjecture/commits?per_page=100",
+      "final_url": "https://api.github.com/repos/PerceivingAI/riemann-conjecture/commits?per_page=100",
+      "retrieved_at_start": "2026-09-25T06:35:26.005668+00:00",
+      "retrieved_at_end": "2026-09-25T06:35:28.062785+00:00",
+      "http_status": 200,
+      "size_bytes": 241424,
+      "raw_file_sha256": "1af0b8bcec36827f5892c41f1df37c7b75481bb882b458fff09bf28409807e10",
+      "stored_path": "evidence/phase5/github-repo-commits.json",
+      "cache_only": false
+    },
+    {
+      "url": "https://api.github.com/repos/PerceivingAI/riemann-conjecture/events?per_page=100",
+      "final_url": "https://api.github.com/repos/PerceivingAI/riemann-conjecture/events?per_page=100",
+      "retrieved_at_start": "2026-09-25T06:35:28.063225+00:00",
+      "retrieved_at_end": "2026-09-25T06:35:29.852351+00:00",
+      "http_status": 200,
+      "size_bytes": 25585,
+      "raw_file_sha256": "9634c73dda958fdaca92affb992c77bb2f5510fed19338387be2e6911d2df5fe",
+      "stored_path": "evidence/phase5/github-repo-events.json",
+      "cache_only": false
+    },
+    {
+      "url": "https://api.github.com/repos/PerceivingAI/riemann-conjecture/tags",
+      "final_url": "https://api.github.com/repos/PerceivingAI/riemann-conjecture/tags",
+      "retrieved_at_start": "2026-09-25T06:35:29.852469+00:00",
+      "retrieved_at_end": "2026-09-25T06:35:31.455608+00:00",
+      "http_status": 200,
+      "size_bytes": 2,
+      "raw_file_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "stored_path": "evidence/phase5/github-repo-tags.json",
+      "cache_only": false
+    },
+    {
+      "url": "https://api.github.com/repos/PerceivingAI/riemann-conjecture/releases",
+      "final_url": "https://api.github.com/repos/PerceivingAI/riemann-conjecture/releases",
+      "retrieved_at_start": "2026-09-25T06:35:31.455735+00:00",
+      "retrieved_at_end": "2026-09-25T06:35:32.931305+00:00",
+      "http_status": 200,
+      "size_bytes": 2,
+      "raw_file_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "stored_path": "evidence/phase5/github-repo-releases.json",
+      "cache_only": false
+    },
+    {
+      "url": "https://archive.softwareheritage.org/api/1/origin/https://github.com/PerceivingAI/riemann-conjecture/visits/",
+      "final_url": "https://archive.softwareheritage.org/api/1/origin/https://github.com/PerceivingAI/riemann-conjecture/visits/",
+      "retrieved_at_start": "2026-09-25T06:35:32.931581+00:00",
+      "retrieved_at_end": "2026-09-25T06:35:34.869725+00:00",
+      "http_status": 404,
+      "size_bytes": 116,
+      "raw_file_sha256": "20a6b2a6d811dca37e4f6ec92fc0c4cf170e7d0f15528d03fe3529365f209107",
+      "stored_path": "evidence/phase5/software-heritage-visits.json",
+      "cache_only": false
+    },
+    {
+      "url": "https://archive.org/wayback/available?url=https://github.com/PerceivingAI/riemann-conjecture",
+      "final_url": "https://archive.org/wayback/available?url=https://github.com/PerceivingAI/riemann-conjecture",
+      "retrieved_at_start": "2026-09-25T06:35:34.869901+00:00",
+      "retrieved_at_end": "2026-09-25T06:35:41.581713+00:00",
+      "http_status": 200,
+      "size_bytes": 87,
+      "raw_file_sha256": "7c9d869e54546eeacf14116898461d21d174fac879af9f241013532c3a10b9f4",
+      "stored_path": "evidence/phase5/wayback-availability.json",
+      "cache_only": false
+    }
+  ],
+  "gharchive_hours_scanned": [
+    {
+      "hour": "2026-08-20-20",
+      "url": "https://data.gharchive.org/2026-08-20-20.json.gz",
+      "http_status": 200,
+      "download_success": true,
+      "dataset_sha256": "ccb7b681e46e8d518554a2667ccaa10451b51a6f70854a62623c6edaae0c9c1a",
+      "dataset_size_bytes": 982089,
+      "total_events_scanned": 955,
+      "matching_events_count": 0,
+      "matching_events": []
+    },
+    {
+      "hour": "2026-08-20-21",
+      "url": "https://data.gharchive.org/2026-08-20-21.json.gz",
+      "http_status": 200,
+      "download_success": true,
+      "dataset_sha256": "b2b86df4a52cce5a3930364208b26bd393e8dc46912829ef52a2ce93c5b5edf9",
+      "dataset_size_bytes": 889695,
+      "total_events_scanned": 803,
+      "matching_events_count": 0,
+      "matching_events": []
+    },
+    {
+      "hour": "2026-08-20-22",
+      "url": "https://data.gharchive.org/2026-08-20-22.json.gz",
+      "http_status": 200,
+      "download_success": true,
+      "dataset_sha256": "adf843ef872aa2644d81d451f01f3b3bbd073c7f09fc29c05d18a67e1c195a0f",
+      "dataset_size_bytes": 824873,
+      "total_events_scanned": 697,
+      "matching_events_count": 0,
+      "matching_events": []
+    },
+    {
+      "hour": "2026-08-21-03",
+      "url": "https://data.gharchive.org/2026-08-21-03.json.gz",
+      "http_status": 404,
+      "download_success": false,
+      "dataset_sha256": null,
+      "dataset_size_bytes": 127,
+      "total_events_scanned": 0,
+      "matching_events_count": 0,
+      "matching_events": []
+    },
+    {
+      "hour": "2026-08-21-14",
+      "url": "https://data.gharchive.org/2026-08-21-14.json.gz",
+      "http_status": 200,
+      "download_success": true,
+      "dataset_sha256": "4276d6b99a8b877cad5d4708de8e037400f316242f8164457e28f2644e7231c3",
+      "dataset_size_bytes": 18803360,
+      "total_events_scanned": 37815,
+      "matching_events_count": 0,
+      "matching_events": []
+    }
+  ]
+}
