@@ -133,8 +133,8 @@
         "normalized_sha256": "540056f65a16603cec831f59a59f8d184be8b58fda51e014bef04aa802a77730"
       },
       "changed_in_git_after_completion": false,
-      "classification": "historical_artifact",
-      "stored_path": "FINAL_AUDIT.md",
+      "classification": "later_historical_version_snapshot",
+      "stored_path": "archive/baselines/pass-1/FINAL_AUDIT.md",
       "stored_hashes": {
         "raw_file_sha256": "540056f65a16603cec831f59a59f8d184be8b58fda51e014bef04aa802a77730",
         "normalized_sha256": "540056f65a16603cec831f59a59f8d184be8b58fda51e014bef04aa802a77730"
@@ -960,8 +960,8 @@
         "normalized_sha256": "c0f53388040a7106ffab49280bbc72f37df2556cc3d2653f4c07d4c300721192"
       },
       "changed_in_git_after_completion": true,
-      "classification": "historical_artifact",
-      "stored_path": "AUDIT_PASS_2.md",
+      "classification": "later_historical_version_snapshot",
+      "stored_path": "archive/baselines/pass-2/AUDIT_PASS_2.md",
       "stored_hashes": {
         "raw_file_sha256": "ac733c8013a8a2c242e17d8986f2b5732b7a9e0dc23ce201868f093f06b26989",
         "normalized_sha256": "ac733c8013a8a2c242e17d8986f2b5732b7a9e0dc23ce201868f093f06b26989"
@@ -1051,7 +1051,7 @@
       },
       "changed_in_git_after_completion": false,
       "classification": "historical_artifact",
-      "stored_path": "FINAL_AUDIT.md",
+      "stored_path": "reports/FINAL_AUDIT.md",
       "stored_hashes": {
         "raw_file_sha256": "540056f65a16603cec831f59a59f8d184be8b58fda51e014bef04aa802a77730",
         "normalized_sha256": "540056f65a16603cec831f59a59f8d184be8b58fda51e014bef04aa802a77730"
@@ -2228,10 +2228,10 @@
         "normalized_sha256": "1a10dcb9c11fbd5a7ee1d3bdc0635758e658cf9b698ac7eee96df9d018e09cb8"
       },
       "changed_in_git_after_completion": false,
-      "classification": "historical_artifact",
-      "stored_path": "AUDIT_PASS_3.md",
+      "classification": "later_historical_version_snapshot",
+      "stored_path": "archive/baselines/pass-3/AUDIT_PASS_3.md",
       "stored_hashes": {
-        "raw_file_sha256": "3c8089d2c3f2dc93ae9c0ed8e7756a3ae3dc36c661e7c09f9f5b57cfa2653708",
+        "raw_file_sha256": "1a10dcb9c11fbd5a7ee1d3bdc0635758e658cf9b698ac7eee96df9d018e09cb8",
         "normalized_sha256": "1a10dcb9c11fbd5a7ee1d3bdc0635758e658cf9b698ac7eee96df9d018e09cb8"
       }
     },
@@ -2313,7 +2313,7 @@
       },
       "changed_in_git_after_completion": false,
       "classification": "historical_artifact",
-      "stored_path": "FINAL_AUDIT.md",
+      "stored_path": "reports/FINAL_AUDIT.md",
       "stored_hashes": {
         "raw_file_sha256": "540056f65a16603cec831f59a59f8d184be8b58fda51e014bef04aa802a77730",
         "normalized_sha256": "540056f65a16603cec831f59a59f8d184be8b58fda51e014bef04aa802a77730"
@@ -3470,7 +3470,7 @@
       "classification": "historical_artifact",
       "stored_path": "reports/AUDIT_PASS_3.md",
       "stored_hashes": {
-        "raw_file_sha256": "c1819b502a739e9c184f99dd637a24dbe4ce84edbb16e4669dcbb7c9181b52ab",
+        "raw_file_sha256": "b32061e515e071e506527c140b2827f342f07ea8a0078b4635593e0ad4566eaf",
         "normalized_sha256": "b32061e515e071e506527c140b2827f342f07ea8a0078b4635593e0ad4566eaf"
       }
     },

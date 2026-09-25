@@ -10,9 +10,9 @@ An independent, evidentiary, and multi-pass adversarial audit of the mathematica
 > * **Master Evidence Coverage Matrix**: [`EVIDENCE_COVERAGE.md`](EVIDENCE_COVERAGE.md) (66/66 Claims Tracked)  
 > * **Target Pinned Research Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`  
 > * **Preserved Historical Passes**:  
->   * Pass 1 Master Report: [`FINAL_AUDIT.md`](FINAL_AUDIT.md) | Plan: [`archive/AUDIT_PLAN.md`](archive/AUDIT_PLAN.md) | Errata: [`archive/ERRATA_PASS_1.md`](archive/ERRATA_PASS_1.md)  
->   * Pass 2 Master Report: [`AUDIT_PASS_2.md`](AUDIT_PASS_2.md) | Plan: [`archive/SECOND_AUDIT.md`](archive/SECOND_AUDIT.md) | Errata: [`archive/ERRATA_PASS_2.md`](archive/ERRATA_PASS_2.md)  
->   * Pass 3 Master Report: [`AUDIT_PASS_3.md`](AUDIT_PASS_3.md) | Plan: [`archive/THIRD_AUDIT.md`](archive/THIRD_AUDIT.md) | Errata: [`archive/ERRATA_PASS_3.md`](archive/ERRATA_PASS_3.md)
+>   * Pass 1 Master Report: [`reports/FINAL_AUDIT.md`](reports/FINAL_AUDIT.md) | Plan: [`archive/AUDIT_PLAN.md`](archive/AUDIT_PLAN.md) | Errata: [`archive/ERRATA_PASS_1.md`](archive/ERRATA_PASS_1.md)  
+>   * Pass 2 Master Report: [`reports/AUDIT_PASS_2.md`](reports/AUDIT_PASS_2.md) | Plan: [`archive/SECOND_AUDIT.md`](archive/SECOND_AUDIT.md) | Errata: [`archive/ERRATA_PASS_2.md`](archive/ERRATA_PASS_2.md)  
+>   * Pass 3 Master Report: [`reports/AUDIT_PASS_3.md`](reports/AUDIT_PASS_3.md) | Plan: [`archive/THIRD_AUDIT.md`](archive/THIRD_AUDIT.md) | Errata: [`archive/ERRATA_PASS_3.md`](archive/ERRATA_PASS_3.md)
 
 ---
 
