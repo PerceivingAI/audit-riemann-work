@@ -6,13 +6,13 @@
 > * **Effective Date**: `2026-09-25T04:00:00Z`  
 > * **Audited Closed-State Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`  
 > * **Total Candidate Claims Evaluated**: `66` (Full programmatic accounting: 66/66 unique IDs)  
-> * **Governing Master Execution Plan**: [`FOURTH_AUDIT.md`](FOURTH_AUDIT.md)  
-> * **Authoritative Multi-Axis Ledger**: [`AUDIT_LEDGER.md`](AUDIT_LEDGER.md)  
-> * **Evidence Coverage Matrix**: [`EVIDENCE_COVERAGE.md`](EVIDENCE_COVERAGE.md)  
+> * **Governing Master Execution Plan**: [`FOURTH_AUDIT.md`](../FOURTH_AUDIT.md)  
+> * **Authoritative Multi-Axis Ledger**: [`AUDIT_LEDGER.md`](../AUDIT_LEDGER.md)  
+> * **Evidence Coverage Matrix**: [`EVIDENCE_COVERAGE.md`](../EVIDENCE_COVERAGE.md)  
 > * **Preserved Historical Passes**:  
->   * Pass 1 Master Report: [`FINAL_AUDIT.md`](reports/FINAL_AUDIT.md) | Plan: [`archive/AUDIT_PLAN.md`](archive/AUDIT_PLAN.md) | Errata: [`archive/ERRATA_PASS_1.md`](archive/ERRATA_PASS_1.md)  
->   * Pass 2 Master Report: [`AUDIT_PASS_2.md`](reports/AUDIT_PASS_2.md) | Plan: [`archive/SECOND_AUDIT.md`](archive/SECOND_AUDIT.md) | Errata: [`archive/ERRATA_PASS_2.md`](archive/ERRATA_PASS_2.md)  
->   * Pass 3 Master Report: [`AUDIT_PASS_3.md`](reports/AUDIT_PASS_3.md) | Plan: [`archive/THIRD_AUDIT.md`](archive/THIRD_AUDIT.md) | Errata: [`archive/ERRATA_PASS_3.md`](archive/ERRATA_PASS_3.md)
+>   * Pass 1 Master Report: [`FINAL_AUDIT.md`](FINAL_AUDIT.md) | Plan: [`archive/AUDIT_PLAN.md`](../archive/AUDIT_PLAN.md) | Errata: [`archive/ERRATA_PASS_1.md`](../archive/ERRATA_PASS_1.md)  
+>   * Pass 2 Master Report: [`AUDIT_PASS_2.md`](AUDIT_PASS_2.md) | Plan: [`archive/SECOND_AUDIT.md`](../archive/SECOND_AUDIT.md) | Errata: [`archive/ERRATA_PASS_2.md`](../archive/ERRATA_PASS_2.md)  
+>   * Pass 3 Master Report: [`AUDIT_PASS_3.md`](AUDIT_PASS_3.md) | Plan: [`archive/THIRD_AUDIT.md`](../archive/THIRD_AUDIT.md) | Errata: [`archive/ERRATA_PASS_3.md`](../archive/ERRATA_PASS_3.md)
 
 ---
 
@@ -27,12 +27,12 @@ Audit Pass 4 was conducted as an **evidence-depth, provenance, and independent v
 1. **Historical Immutability & Additive Errata**:
    - Programmatically compared all historical artifacts against completion baselines: Pass 1 (`20b3f9d`), Pass 2 (`66d70cd`), and Pass 3 (`99e2afc`).
    - Restored **15 historical Pass 1 and Pass 2 files** to their exact byte-level completion states (retaining original typos, line endings, and control characters).
-   - Created three standalone additive errata records: [`archive/ERRATA_PASS_1.md`](archive/ERRATA_PASS_1.md), [`archive/ERRATA_PASS_2.md`](archive/ERRATA_PASS_2.md), and [`archive/ERRATA_PASS_3.md`](archive/ERRATA_PASS_3.md).
+   - Created three standalone additive errata records: [`archive/ERRATA_PASS_1.md`](../archive/ERRATA_PASS_1.md), [`archive/ERRATA_PASS_2.md`](../archive/ERRATA_PASS_2.md), and [`archive/ERRATA_PASS_3.md`](../archive/ERRATA_PASS_3.md).
 2. **Taxonomy & Evidence Provenance**:
    - Replaced ambiguous "4-axis" terminology with an explicit, internally consistent **five evidentiary axes plus one disposition field**.
    - Added a standardized `Verification Basis` field for every candidate (`MACHINE_REPLAY`, `INDEPENDENT_DERIVATION`, `FORMAL_PROOF_CHECK`, `SOURCE_DERIVATION_REVIEW`, `PRIMARY_LITERATURE_MATCH`, `CODE_INSPECTION`, `HISTORICAL_RECORD`, `NOT_INDEPENDENTLY_VERIFIED`).
    - Introduced a per-dimension evidence-strength scale (`E0` through `E5`).
-   - Published [`EVIDENCE_COVERAGE.md`](EVIDENCE_COVERAGE.md) tracking evidence completeness and remaining obligations across all 66 candidates.
+   - Published [`EVIDENCE_COVERAGE.md`](../EVIDENCE_COVERAGE.md) tracking evidence completeness and remaining obligations across all 66 candidates.
 3. **Commit-Level Comparator History**:
    - Conducted a full Git-history audit of `https://github.com/Kuberwastaken/riemann` across 419 reachable commits and 211 scoped commits, retaining 254 original-content text blobs under `evidence/phase1/kuber/objects/`.
    - Confirmed that Kuber Mehta's certified results apply strictly to **finite-dimensional test function families** (14D and 22D subspaces); full-space $L^2([-T, T])$ theorems were explicitly left uncertified in `UPDATES.md`.
@@ -42,11 +42,11 @@ Audit Pass 4 was conducted as an **evidence-depth, provenance, and independent v
    - Normalized support domains: Because $[-0.54, 0.54] \subset [-0.8, 0.8]$, project continuation theorems $T \in [0.40, 0.54]$ (`CLM-MATH-002..008`) registered after August 25 are mathematically subsumed by Chuk/Zhu's theorem (`RESULT SUBSUMED BY PRIOR ART`).
    - Differentiated proof architectures: Chuk/Zhu uses a one-stroke pointwise symbol envelope on $[0, T^\sharp]$ ($T^\sharp=200$) with Legendre Galerkin matrix at $N=200$ in Python `mpmath` interval Cholesky; `riemann-conjecture` uses an exact-prime operator decomposition + Tuck Legendre harmonic coercivity + 3-factor Schur complement + zero-floating-point Rust verifier (`rh_cert`).
 5. **Independent Mathematical Rederivations & Granular Obstruction Audits**:
-   - Independently derived and checked the Tuck (1964) Legendre eigenvalue identity, path graph compressed shift norms, exact discrete pole annihilator $T=(E-1)(E-q)$, and Schoenberg CND equivalence via automated check harness [`scripts/pass4_math_checks.py`](scripts/pass4_math_checks.py) (5/5 suites passed).
+   - Independently derived and checked the Tuck (1964) Legendre eigenvalue identity, path graph compressed shift norms, exact discrete pole annihilator $T=(E-1)(E-q)$, and Schoenberg CND equivalence via automated check harness [`scripts/pass4_math_checks.py`](../scripts/pass4_math_checks.py) (5/5 suites passed).
    - Audited all 15 structural obstructions across 4 granular dossiers (`OBST-A` through `OBST-D`), independently confirming the rank-1 Hessian ($\operatorname{Hess}(\Phi_n) = \Phi_n'' \mathbf{1}\mathbf{1}^T$), Type-II $O(1/n)$ separability, Montgomery-Vaughan length barrier, and moving-scale PNT insufficiency.
 6. **Verification Trust Chain & Machine Replay**:
-   - Decomposed the verification pipeline into 6 decoupled layers, establishing clear trust boundaries between exact rational verifier acceptance and upstream analytical reductions ([`evidence/validity/PASS4-VERF-TRUST-CHAIN.md`](evidence/validity/PASS4-VERF-TRUST-CHAIN.md)).
-   - Executed fresh independent computational replays: `rh_cert` test suite (48/48 PASS), `rh_engine` test suite (15/15 PASS), 8/8 retained theorem certificates (8/8 PASS via standalone `rh_cert` binary), and Python mathematical identity suite (168/168 PASS), with cryptographic manifest [`evidence/computation-logs/PASS4-REPLAY-MANIFEST.json`](evidence/computation-logs/PASS4-REPLAY-MANIFEST.json).
+   - Decomposed the verification pipeline into 6 decoupled layers, establishing clear trust boundaries between exact rational verifier acceptance and upstream analytical reductions ([`evidence/validity/PASS4-VERF-TRUST-CHAIN.md`](../evidence/validity/PASS4-VERF-TRUST-CHAIN.md)).
+   - Executed fresh independent computational replays: `rh_cert` test suite (48/48 PASS), `rh_engine` test suite (15/15 PASS), 8/8 retained theorem certificates (8/8 PASS via standalone `rh_cert` binary), and Python mathematical identity suite (168/168 PASS), with cryptographic manifest [`evidence/computation-logs/PASS4-REPLAY-MANIFEST.json`](../evidence/computation-logs/PASS4-REPLAY-MANIFEST.json).
    - Confirmed 36 sorry-free Lean 4 formal soundness lemmas in Mathlib (`formal/Cert/*.lean`).
 7. **Public Chronology & Archive Ingestions**:
    - Queried GitHub API, GH Archive datasets (scanned >37,800 events for August 20–21, 2026), Software Heritage API, and Wayback Machine.
@@ -56,7 +56,7 @@ Audit Pass 4 was conducted as an **evidence-depth, provenance, and independent v
 
 ## 2. Decoupled 5-Axis Evaluation Taxonomy Summary
 
-Every candidate claim in [`AUDIT_LEDGER.md`](AUDIT_LEDGER.md) is independently adjudicated across five orthogonal evidentiary axes plus final disposition:
+Every candidate claim in [`AUDIT_LEDGER.md`](../AUDIT_LEDGER.md) is independently adjudicated across five orthogonal evidentiary axes plus final disposition:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -156,7 +156,7 @@ Every candidate claim in [`AUDIT_LEDGER.md`](AUDIT_LEDGER.md) is independently a
 
 ## 4. Master Evidentiary Ledger Table (Summary View)
 
-The authoritative ledger is maintained in [`AUDIT_LEDGER.md`](AUDIT_LEDGER.md). A summary of the 66-candidate disposition breakdown is presented below:
+The authoritative ledger is maintained in [`AUDIT_LEDGER.md`](../AUDIT_LEDGER.md). A summary of the 66-candidate disposition breakdown is presented below:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐

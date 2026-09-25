@@ -158,7 +158,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "CLAIM REQUIRES NARROWER WORDING",
         "verification_basis": [
           "MACHINE_REPLAY",
           "SOURCE_DERIVATION_REVIEW"
@@ -258,7 +258,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "CLAIM REQUIRES NARROWER WORDING",
         "verification_basis": [
           "MACHINE_REPLAY",
           "SOURCE_DERIVATION_REVIEW"
@@ -358,7 +358,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "CLAIM REQUIRES NARROWER WORDING",
         "verification_basis": [
           "MACHINE_REPLAY",
           "SOURCE_DERIVATION_REVIEW"
@@ -458,7 +458,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "CLAIM REQUIRES NARROWER WORDING",
         "verification_basis": [
           "MACHINE_REPLAY",
           "SOURCE_DERIVATION_REVIEW"
@@ -558,7 +558,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "CLAIM REQUIRES NARROWER WORDING",
         "verification_basis": [
           "MACHINE_REPLAY",
           "SOURCE_DERIVATION_REVIEW"
@@ -658,7 +658,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "CLAIM REQUIRES NARROWER WORDING",
         "verification_basis": [
           "MACHINE_REPLAY",
           "SOURCE_DERIVATION_REVIEW"
@@ -758,7 +758,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "CLAIM REQUIRES NARROWER WORDING",
         "verification_basis": [
           "MACHINE_REPLAY",
           "SOURCE_DERIVATION_REVIEW"
@@ -2073,7 +2073,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "PRIMARY_LITERATURE_MATCH"
@@ -2094,24 +2094,32 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/LIT-2007-LAGARIAS-LICAE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/LIT-2007-LAGARIAS-LICAE.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md"
+            ]
           }
         }
       }

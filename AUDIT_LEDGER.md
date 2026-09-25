@@ -1,9 +1,28 @@
-# Master Authoritative Audit Ledger — Audit Pass 4
+# Master Authoritative Audit Ledger — Audit Pass 4 (Comprehensive 5-Axis Matrix)
 
-## Phase 5 Priority & Public Availability Status
+> **Ledger Governance & Accounting Metadata**  
+> * **Audit Standard**: Audit Pass 4 Comprehensive 5-Axis Synthesis per [`FOURTH_AUDIT.md`](FOURTH_AUDIT.md)  
+> * **Total Candidate Claims in Scope**: `66` (Full programmatic inventory verified: 66/66 unique IDs)  
+> * **Ledger Version**: `4.0.0`  
+> * **Effective Date**: `2026-09-25T04:00:00Z`  
+> * **Audited Target Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`  
+> * **Mapping Integrity**: 100% ID-to-proposition correspondence verified; 0 ID shifts.  
 
-This ledger records the independent evaluation across five evidentiary axes plus disposition.
-Mathematical validity is verified across all analytical candidate groups (`E3`/`E4`). Priority investigations across GitHub API, GH Archive, Software Heritage, and Wayback Machine establish `PRIORITY PLAUSIBLE` for commits predating external submissions (public push unverified), and `PRIOR ART FOUND` for continuation sequence `CLM-PRIO-006`.
+---
+
+## 1. 5-Axis Evaluation Taxonomy Summary
+
+Every claim is independently adjudicated across five orthogonal axes plus disposition:
+* **Axis 1: Mathematical / Factual Validity**: `VERIFIED`, `FALSIFIED`, `NOT_ADJUDICATED`
+* **Axis 2: Mathematical Result Novelty**: `NOVEL SUPPORT BOUND`, `POSSIBLY NOVEL`, `RESULT SUBSUMED BY PRIOR ART`, `PRIOR ART FOUND`, `N/A`
+* **Axis 3: Method Novelty**: `NOVEL SYNTHESIS SUPPORTED`, `KNOWN INGREDIENT / NOVEL APPL.`, `KNOWN METHOD`, `N/A`
+* **Axis 4: Software / Verification Novelty**: `NOVEL VERIFICATION ARCHITECTURE`, `VERIFIED IMPLEMENTATION FACT`, `STANDARD IMPLEMENTATION`, `N/A`
+* **Axis 5: Chronological Priority**: `PRIORITY SUPPORTED` (Verified public push), `PRIORITY PLAUSIBLE` (Git commit pre-dates external; push unverified), `PRIOR ART FOUND` (External earlier), `INCONCLUSIVE`
+* **Axis 6: Final Evidence Disposition**: `COMPLETE`, `CLAIM REQUIRES NARROWER WORDING`, `INCONCLUSIVE — REQUIRES LATER PASS`
+
+---
+
+## 2. Authoritative 66-Claim Master Ledger
 
 | ID | Category | Exact proposition | Source reference | Historical anchor | Validity hypothesis | Result hypothesis | Method hypothesis | Software hypothesis | Priority hypothesis | Disposition hypothesis | Verification Basis | Pass 4 review | Mapping record |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
