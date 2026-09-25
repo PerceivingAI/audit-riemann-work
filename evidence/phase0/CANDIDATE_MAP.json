@@ -53,16 +53,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
         "claims/mathematical/CLM-MATH-001.md",
-        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+        "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "MACHINE_REPLAY",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E4",
           "result": "E3",
           "method": "E0",
           "software": "E0",
@@ -70,9 +72,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -149,16 +153,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
         "claims/mathematical/CLM-MATH-001.md",
-        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+        "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "MACHINE_REPLAY",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E4",
           "result": "E3",
           "method": "E0",
           "software": "E0",
@@ -166,9 +172,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -245,16 +253,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
         "claims/mathematical/CLM-MATH-001.md",
-        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+        "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "MACHINE_REPLAY",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E4",
           "result": "E3",
           "method": "E0",
           "software": "E0",
@@ -262,9 +272,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -341,16 +353,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
         "claims/mathematical/CLM-MATH-001.md",
-        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+        "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "MACHINE_REPLAY",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E4",
           "result": "E3",
           "method": "E0",
           "software": "E0",
@@ -358,9 +372,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -437,16 +453,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
         "claims/mathematical/CLM-MATH-001.md",
-        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+        "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "MACHINE_REPLAY",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E4",
           "result": "E3",
           "method": "E0",
           "software": "E0",
@@ -454,9 +472,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -533,16 +553,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
         "claims/mathematical/CLM-MATH-001.md",
-        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+        "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "MACHINE_REPLAY",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E4",
           "result": "E3",
           "method": "E0",
           "software": "E0",
@@ -550,9 +572,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -629,16 +653,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
         "claims/mathematical/CLM-MATH-001.md",
-        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+        "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "MACHINE_REPLAY",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E4",
           "result": "E3",
           "method": "E0",
           "software": "E0",
@@ -646,9 +672,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -725,16 +753,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-001-COMPARATORS.md",
         "claims/mathematical/CLM-MATH-008.md",
-        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+        "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "MACHINE_REPLAY",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E4",
           "result": "E3",
           "method": "E0",
           "software": "E0",
@@ -742,9 +772,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-MATH-001-008-THEOREMS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -837,16 +869,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
         "claims/methodology/CLM-METH-002.md",
-        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -854,9 +888,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -935,16 +971,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
         "claims/methodology/CLM-METH-002.md",
-        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -952,9 +990,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -1033,16 +1073,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
         "claims/methodology/CLM-METH-002.md",
-        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -1050,9 +1092,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -1131,16 +1175,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
         "claims/methodology/CLM-METH-002.md",
-        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -1148,9 +1194,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -1229,16 +1277,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
         "claims/verification/CLM-VERF-001.md",
-        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -1246,9 +1296,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -1327,16 +1379,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
         "claims/methodology/CLM-METH-002.md",
-        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -1344,9 +1398,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -1422,16 +1478,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
         "evidence/literature/LITERATURE_BASELINE.md",
-        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md"
+        "evidence/search-records/PASS4-SRCH-002-LEGENDRE-SCHUR-OPERATORS.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -1439,9 +1497,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -1517,16 +1577,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
         "claims/mathematical/CLM-MATH-008.md",
-        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -1534,9 +1596,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -1610,16 +1674,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-002-MATHEMATICAL-METHOD.md",
         "claims/verification/CLM-VERF-005.md",
-        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md"
+        "evidence/search-records/PASS4-SRCH-001-WEIL-THEOREMS-AND-CONTINUATION.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "SOURCE_DERIVATION_REVIEW"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -1627,9 +1693,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -1711,16 +1779,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-A-ENDPOINT-COERCIVITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -1728,9 +1797,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-A-ENDPOINT-COERCIVITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -1804,16 +1875,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "evidence/literature/LITERATURE_BASELINE.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-A-ENDPOINT-COERCIVITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -1821,9 +1893,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-A-ENDPOINT-COERCIVITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -1897,16 +1971,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-A-ENDPOINT-COERCIVITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "PRIMARY_LITERATURE_MATCH"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -1914,9 +1990,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-A-ENDPOINT-COERCIVITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -1990,16 +2068,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "evidence/literature/LIT-2007-LAGARIAS-LICAE.md",
-        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+        "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "PRIMARY_LITERATURE_MATCH"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -2007,9 +2087,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -2083,16 +2165,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "claims/mathematical/CLM-LAGU-005.md",
-        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+        "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -2100,9 +2183,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -2176,16 +2261,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "claims/mathematical/CLM-LAGU-005.md",
-        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+        "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -2193,9 +2279,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -2269,16 +2357,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "claims/mathematical/CLM-LAGU-005.md",
-        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+        "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -2286,9 +2375,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -2362,16 +2453,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "claims/mathematical/CLM-LAGU-005.md",
-        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+        "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -2379,9 +2471,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -2455,16 +2549,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md",
+        "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -2472,9 +2567,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -2548,16 +2645,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md",
+        "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -2565,9 +2663,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -2641,16 +2741,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md",
+        "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -2658,9 +2759,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -2734,16 +2837,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md",
+        "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -2751,9 +2855,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -2827,16 +2933,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md",
+        "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -2844,9 +2951,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -2920,16 +3029,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md",
+        "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -2937,9 +3047,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -3013,16 +3125,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md"
+        "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md",
+        "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -3030,9 +3143,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -3106,16 +3221,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-B-PNT-MOVING-SCALE.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -3123,9 +3239,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-B-PNT-MOVING-SCALE.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -3199,16 +3317,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-B-PNT-MOVING-SCALE.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -3216,9 +3335,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-B-PNT-MOVING-SCALE.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -3292,16 +3413,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -3309,9 +3431,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -3385,16 +3509,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -3402,9 +3527,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -3478,16 +3605,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -3495,9 +3623,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -3571,16 +3701,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "PRIMARY_LITERATURE_MATCH"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -3588,9 +3720,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -3664,16 +3798,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -3681,9 +3816,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -3757,16 +3894,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/mathematical/CLM-OBST-011.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -3774,9 +3912,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -3850,16 +3990,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -3867,9 +4008,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -3943,16 +4086,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -3960,9 +4104,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -4036,16 +4182,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -4053,9 +4200,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -4129,16 +4278,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md"
+        "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
+        "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E0",
           "method": "E3",
           "software": "E0",
@@ -4146,9 +4296,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -4222,16 +4374,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "claims/mathematical/CLM-GRAM-002.md",
-        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+        "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -4239,9 +4392,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -4315,16 +4470,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "claims/mathematical/CLM-GRAM-002.md",
-        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+        "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION",
+          "PRIMARY_LITERATURE_MATCH"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -4332,9 +4489,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -4408,16 +4567,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
         "reports/interim/PHASE_2_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md"
+        "evidence/search-records/PASS4-SRCH-003-LI-LAGUERRE-SCHOENBERG.md",
+        "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "INDEPENDENT_DERIVATION"
         ],
         "strength": {
-          "validity": "E1",
+          "validity": "E3",
           "result": "E3",
           "method": "E3",
           "software": "E0",
@@ -4425,9 +4585,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -4501,16 +4663,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-001.md",
-        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "CODE_INSPECTION",
+          "MACHINE_REPLAY"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E4",
           "result": "E0",
           "method": "E0",
           "software": "E3",
@@ -4518,9 +4682,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -4596,16 +4762,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-001.md",
-        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "CODE_INSPECTION",
+          "MACHINE_REPLAY"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E4",
           "result": "E0",
           "method": "E0",
           "software": "E3",
@@ -4613,9 +4781,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -4691,16 +4861,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-005.md",
-        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "CODE_INSPECTION",
+          "MACHINE_REPLAY"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E4",
           "result": "E0",
           "method": "E0",
           "software": "E3",
@@ -4708,9 +4880,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -4786,16 +4960,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-005.md",
-        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "CODE_INSPECTION",
+          "MACHINE_REPLAY"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E4",
           "result": "E0",
           "method": "E0",
           "software": "E3",
@@ -4803,9 +4979,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -4881,16 +5059,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-005.md",
-        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "CODE_INSPECTION",
+          "MACHINE_REPLAY"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E4",
           "result": "E0",
           "method": "E0",
           "software": "E3",
@@ -4898,9 +5078,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -4976,16 +5158,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "claims/verification/CLM-VERF-006.md",
-        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "CODE_INSPECTION",
+          "MACHINE_REPLAY"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E4",
           "result": "E0",
           "method": "E0",
           "software": "E3",
@@ -4993,9 +5177,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -5071,16 +5257,18 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-005-OBSTRUCTIONS-AND-VERIFICATION.md",
         "reports/interim/PHASE_3_INTERIM_REPORT.md",
-        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md"
+        "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
+        "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
       ],
       "current_review": {
-        "status": "NOT_ADJUDICATED",
+        "status": "VERIFIED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "CODE_INSPECTION",
+          "MACHINE_REPLAY"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E4",
           "result": "E0",
           "method": "E0",
           "software": "E3",
@@ -5088,9 +5276,11 @@
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Independently check the exact proposition and all relevant hypotheses; locate proofs or code beyond source assertions.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -5166,16 +5356,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
         "evidence/public-timeline/TIMELINE_MATRIX.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -5185,7 +5376,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -5259,16 +5452,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
         "evidence/public-timeline/TIMELINE_MATRIX.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -5278,7 +5472,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -5352,16 +5548,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
         "evidence/public-timeline/TIMELINE_MATRIX.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -5371,7 +5568,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -5461,16 +5660,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
         "claims/priority/CLM-PRIO-004.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -5480,7 +5680,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -5554,16 +5756,17 @@
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
         "claims/priority/CLM-PRIO-005.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -5573,7 +5776,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -5654,16 +5859,17 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -5673,7 +5879,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -5746,16 +5954,17 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -5765,7 +5974,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -5838,16 +6049,17 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -5857,7 +6069,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -5930,16 +6144,17 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -5949,7 +6164,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -6038,16 +6255,17 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -6057,7 +6275,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -6130,16 +6350,17 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -6149,7 +6370,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",
@@ -6230,16 +6453,17 @@
       },
       "historical_leads": [
         "evidence/search-records/PASS3-SRCH-004-PUBLIC-ARCHIVES-AND-PRIORITY.md",
-        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+        "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md",
+        "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
       ],
       "current_review": {
         "status": "NOT_ADJUDICATED",
         "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
         "verification_basis": [
-          "NOT_INDEPENDENTLY_VERIFIED"
+          "HISTORICAL_RECORD"
         ],
         "strength": {
-          "validity": "E0",
+          "validity": "E2",
           "result": "E0",
           "method": "E0",
           "software": "E0",
@@ -6249,7 +6473,9 @@
           "validity": {
             "state": "PENDING",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
-            "evidence": []
+            "evidence": [
+              "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
+            ]
           },
           "result": {
             "state": "PENDING",

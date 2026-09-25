@@ -1,0 +1,385 @@
+{
+  "status": "PASS",
+  "started_at": "2026-09-25T06:09:48.994707+00:00",
+  "completed_at": "2026-09-25T06:09:48.994830+00:00",
+  "checks": {
+    "tuck_legendre_coercivity": {
+      "status": "PASS",
+      "identity": "J(P_n) = H_n ||P_n||_2^2",
+      "results": [
+        {
+          "n": 1,
+          "H_n": 1.0,
+          "norm_sq": 0.6666666666666666,
+          "H_n_norm_sq": 0.6666666666666666,
+          "eigenvalue_2H_n": 2.0,
+          "strictly_monotone": true
+        },
+        {
+          "n": 2,
+          "H_n": 1.5,
+          "norm_sq": 0.4,
+          "H_n_norm_sq": 0.6000000000000001,
+          "eigenvalue_2H_n": 3.0,
+          "strictly_monotone": true
+        },
+        {
+          "n": 3,
+          "H_n": 1.8333333333333333,
+          "norm_sq": 0.2857142857142857,
+          "H_n_norm_sq": 0.5238095238095237,
+          "eigenvalue_2H_n": 3.6666666666666665,
+          "strictly_monotone": true
+        },
+        {
+          "n": 4,
+          "H_n": 2.0833333333333335,
+          "norm_sq": 0.2222222222222222,
+          "H_n_norm_sq": 0.46296296296296297,
+          "eigenvalue_2H_n": 4.166666666666667,
+          "strictly_monotone": true
+        },
+        {
+          "n": 5,
+          "H_n": 2.283333333333333,
+          "norm_sq": 0.18181818181818182,
+          "H_n_norm_sq": 0.41515151515151516,
+          "eigenvalue_2H_n": 4.566666666666666,
+          "strictly_monotone": true
+        },
+        {
+          "n": 6,
+          "H_n": 2.45,
+          "norm_sq": 0.15384615384615385,
+          "H_n_norm_sq": 0.37692307692307697,
+          "eigenvalue_2H_n": 4.9,
+          "strictly_monotone": true
+        },
+        {
+          "n": 7,
+          "H_n": 2.592857142857143,
+          "norm_sq": 0.13333333333333333,
+          "H_n_norm_sq": 0.34571428571428575,
+          "eigenvalue_2H_n": 5.185714285714286,
+          "strictly_monotone": true
+        },
+        {
+          "n": 8,
+          "H_n": 2.717857142857143,
+          "norm_sq": 0.11764705882352941,
+          "H_n_norm_sq": 0.3197478991596639,
+          "eigenvalue_2H_n": 5.435714285714286,
+          "strictly_monotone": true
+        }
+      ]
+    },
+    "compressed_shift_chebyshev": {
+      "status": "PASS",
+      "results": [
+        {
+          "L": 1,
+          "formula_value": 1.2246467991473532e-16,
+          "matrix_spectral_radius": 1.2246467991473532e-16,
+          "absolute_diff": 0.0,
+          "match": true
+        },
+        {
+          "L": 2,
+          "formula_value": 1.0000000000000002,
+          "matrix_spectral_radius": 1.0000000000000002,
+          "absolute_diff": 0.0,
+          "match": true
+        },
+        {
+          "L": 3,
+          "formula_value": 1.4142135623730951,
+          "matrix_spectral_radius": 1.4142135623730951,
+          "absolute_diff": 0.0,
+          "match": true
+        },
+        {
+          "L": 4,
+          "formula_value": 1.618033988749895,
+          "matrix_spectral_radius": 1.618033988749895,
+          "absolute_diff": 0.0,
+          "match": true
+        },
+        {
+          "L": 5,
+          "formula_value": 1.7320508075688774,
+          "matrix_spectral_radius": 1.7320508075688774,
+          "absolute_diff": 0.0,
+          "match": true
+        },
+        {
+          "L": 6,
+          "formula_value": 1.8019377358048383,
+          "matrix_spectral_radius": 1.8019377358048383,
+          "absolute_diff": 0.0,
+          "match": true
+        },
+        {
+          "L": 7,
+          "formula_value": 1.8477590650225735,
+          "matrix_spectral_radius": 1.8477590650225735,
+          "absolute_diff": 0.0,
+          "match": true
+        },
+        {
+          "L": 8,
+          "formula_value": 1.8793852415718169,
+          "matrix_spectral_radius": 1.8793852415718169,
+          "absolute_diff": 0.0,
+          "match": true
+        }
+      ]
+    },
+    "pole_shift_filter_annihilation": {
+      "status": "PASS",
+      "results": [
+        {
+          "s0": 1.5,
+          "q": -3.0,
+          "n": 1,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 1.5,
+          "q": -3.0,
+          "n": 2,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 1.5,
+          "q": -3.0,
+          "n": 3,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 1.5,
+          "q": -3.0,
+          "n": 4,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 1.5,
+          "q": -3.0,
+          "n": 5,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 2.0,
+          "q": -2.0,
+          "n": 1,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 2.0,
+          "q": -2.0,
+          "n": 2,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 2.0,
+          "q": -2.0,
+          "n": 3,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 2.0,
+          "q": -2.0,
+          "n": 4,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 2.0,
+          "q": -2.0,
+          "n": 5,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 3.0,
+          "q": -1.5,
+          "n": 1,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 3.0,
+          "q": -1.5,
+          "n": 2,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 3.0,
+          "q": -1.5,
+          "n": 3,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 3.0,
+          "q": -1.5,
+          "n": 4,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 3.0,
+          "q": -1.5,
+          "n": 5,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 5.0,
+          "q": -1.25,
+          "n": 1,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 5.0,
+          "q": -1.25,
+          "n": 2,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 5.0,
+          "q": -1.25,
+          "n": 3,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 5.0,
+          "q": -1.25,
+          "n": 4,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        },
+        {
+          "s0": 5.0,
+          "q": -1.25,
+          "n": 5,
+          "T_x_n": 0.0,
+          "exact_zero": true
+        }
+      ]
+    },
+    "rank_one_hessian_separability": {
+      "status": "PASS",
+      "results": [
+        {
+          "dimension_k": 2,
+          "matrix_structure": "Phi''(sum r) * J_k",
+          "rank": 1,
+          "nullspace_dimension": 1,
+          "nullspace_description": "Subspace sum c_i = 0 (preserving product m = a_1 ... a_k)",
+          "separability_defect_order": "O(1/n) on dyadic boxes"
+        },
+        {
+          "dimension_k": 3,
+          "matrix_structure": "Phi''(sum r) * J_k",
+          "rank": 1,
+          "nullspace_dimension": 2,
+          "nullspace_description": "Subspace sum c_i = 0 (preserving product m = a_1 ... a_k)",
+          "separability_defect_order": "O(1/n) on dyadic boxes"
+        },
+        {
+          "dimension_k": 4,
+          "matrix_structure": "Phi''(sum r) * J_k",
+          "rank": 1,
+          "nullspace_dimension": 3,
+          "nullspace_description": "Subspace sum c_i = 0 (preserving product m = a_1 ... a_k)",
+          "separability_defect_order": "O(1/n) on dyadic boxes"
+        },
+        {
+          "dimension_k": 5,
+          "matrix_structure": "Phi''(sum r) * J_k",
+          "rank": 1,
+          "nullspace_dimension": 4,
+          "nullspace_description": "Subspace sum c_i = 0 (preserving product m = a_1 ... a_k)",
+          "separability_defect_order": "O(1/n) on dyadic boxes"
+        }
+      ]
+    },
+    "airy_saddle_and_frequency_map": {
+      "status": "PASS",
+      "results": [
+        {
+          "s0": 1.5,
+          "A": 2.0,
+          "u_star": 1.3333333333333333,
+          "u_star_post_turning": true,
+          "expected_pole_rate": 3.0,
+          "cayley_rate_match": true
+        },
+        {
+          "s0": 1.5,
+          "gamma1": 14.134725141734693,
+          "u_gamma1": 0.0049803164240788565,
+          "u_gamma1_pre_turning": true,
+          "inverse_gamma_check": true
+        },
+        {
+          "s0": 2.0,
+          "A": 3.0,
+          "u_star": 1.125,
+          "u_star_post_turning": true,
+          "expected_pole_rate": 2.0,
+          "cayley_rate_match": true
+        },
+        {
+          "s0": 2.0,
+          "gamma1": 14.134725141734693,
+          "u_gamma1": 0.011136383561730766,
+          "u_gamma1_pre_turning": true,
+          "inverse_gamma_check": true
+        },
+        {
+          "s0": 3.0,
+          "A": 5.0,
+          "u_star": 1.0416666666666667,
+          "u_star_post_turning": true,
+          "expected_pole_rate": 1.5,
+          "cayley_rate_match": true
+        },
+        {
+          "s0": 3.0,
+          "gamma1": 14.134725141734693,
+          "u_gamma1": 0.030333848782678877,
+          "u_gamma1_pre_turning": true,
+          "inverse_gamma_check": true
+        },
+        {
+          "s0": 4.0,
+          "A": 7.0,
+          "u_star": 1.0208333333333333,
+          "u_star_post_turning": true,
+          "expected_pole_rate": 1.3333333333333333,
+          "cayley_rate_match": true
+        },
+        {
+          "s0": 4.0,
+          "gamma1": 14.134725141734693,
+          "u_gamma1": 0.057771994545490604,
+          "u_gamma1_pre_turning": true,
+          "inverse_gamma_check": true
+        }
+      ]
+    }
+  }
+}

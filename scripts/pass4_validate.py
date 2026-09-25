@@ -275,9 +275,18 @@ def living_link_checks() -> list[str]:
              "evidence/search-records/PASS4-SRCH-004-AIRY-CHIRP-ASYMPTOTICS.md",
              "evidence/search-records/PASS4-SRCH-005-ANALYTICAL-OBSTRUCTIONS.md",
              "evidence/search-records/PASS4-SRCH-006-VERIFICATION-AND-FORMAL.md",
+             "evidence/validity/PASS4-MATH-001-008-THEOREMS.md",
+             "evidence/validity/PASS4-METH-OPER-CONT-VALIDITY.md",
+             "evidence/validity/PASS4-LAGU-GRAM-VALIDITY.md",
+             "evidence/validity/PASS4-AIRY-001-007-ASYMPTOTICS.md",
+             "evidence/validity/PASS4-OBST-A-ENDPOINT-COERCIVITY.md",
+             "evidence/validity/PASS4-OBST-B-PNT-MOVING-SCALE.md",
+             "evidence/validity/PASS4-OBST-C-BLOCK-NORMS-FREQUENCY-CAP.md",
+             "evidence/validity/PASS4-OBST-D-BILINEAR-HESSIAN-VAUGHAN.md",
              "reports/interim/PASS_4_PHASE_0_REPORT.md",
              "reports/interim/PASS_4_PHASE_1_REPORT.md",
-             "reports/interim/PASS_4_PHASE_2_REPORT.md", "AUDIT_PASS_4.md"]
+             "reports/interim/PASS_4_PHASE_2_REPORT.md",
+             "reports/interim/PASS_4_PHASE_3_REPORT.md", "AUDIT_PASS_4.md"]
     errors = []
     for name in paths:
         text = read_text(name)

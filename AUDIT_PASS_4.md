@@ -2,7 +2,7 @@
 
 ## 1. Status, purpose, and authority
 
-**Document type: initial execution-plan document, not an audit report.** Phase 0, Phase 1, and Phase 2 technical gates have passed; see the [Phase 0 report](reports/interim/PASS_4_PHASE_0_REPORT.md), [Phase 1 report](reports/interim/PASS_4_PHASE_1_REPORT.md), and [Phase 2 report](reports/interim/PASS_4_PHASE_2_REPORT.md) for evidence and limitations. The exact original plan is preserved as [FOURTH_AUDIT.md](FOURTH_AUDIT.md), the execution-plan authority. This document does not report completed Pass 4 work or authorize a consolidated final audit.
+**Document type: initial execution-plan document, not an audit report.** Phase 0, Phase 1, Phase 2, and Phase 3 technical gates have passed; see the [Phase 0 report](reports/interim/PASS_4_PHASE_0_REPORT.md), [Phase 1 report](reports/interim/PASS_4_PHASE_1_REPORT.md), [Phase 2 report](reports/interim/PASS_4_PHASE_2_REPORT.md), and [Phase 3 report](reports/interim/PASS_4_PHASE_3_REPORT.md) for evidence and limitations. The exact original plan is preserved as [FOURTH_AUDIT.md](FOURTH_AUDIT.md), the execution-plan authority. This document does not report completed Pass 4 work or authorize a consolidated final audit.
 
 Pass 4 will test whether the audit has sufficient evidence for the classifications in `AUDIT_LEDGER.md`. It will neither defend nor reject the research project in advance. Passes 1 through 3 provide records to inspect, not authorities whose conclusions must be retained. Classifications may strengthen, weaken, remain unchanged, or become unresolved.
 
