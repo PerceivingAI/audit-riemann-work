@@ -6,7 +6,7 @@
 > * **Authors**: Enrico Bombieri  
 > * **Publication**: *Atti della Accademia Nazionale dei Lincei. Classe di Scienze Fisiche, Matematiche e Naturali. Rendiconti Lincei. Matematica e Applicazioni*, Serie 9, Vol. 11, Fasc. 3 (2000), pp. 183–233  
 > * **Stable URL**: [`http://www.bdim.eu/item?id=RLIN_2000_9_11_3_183_0`](http://www.bdim.eu/item?id=RLIN_2000_9_11_3_183_0)  
-> * **Governing Protocol**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
+> * **Governing Protocol**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
 > * **Affected Candidate IDs**: `CLM-MATH-001`, `CLM-METH-001`, `CLM-OPER-001`, `CLM-OBST-001`.
 
 ---

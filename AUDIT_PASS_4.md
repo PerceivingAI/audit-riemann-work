@@ -7,7 +7,7 @@
 > * **Effective Date**: `2026-09-25T04:30:00Z` (Verified Public Security Provenance Update)  
 > * **Audited Closed-State Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`  
 > * **Total Candidate Claims Evaluated**: `66` (Full programmatic accounting: 66/66 unique IDs)  
-> * **Governing Master Execution Plan**: [`FOURTH_AUDIT.md`](FOURTH_AUDIT.md)  
+> * **Governing Master Execution Plan**: [`archive/FOURTH_AUDIT.md`](archive/FOURTH_AUDIT.md)  
 > * **Authoritative Multi-Axis Ledger**: [`AUDIT_LEDGER.md`](AUDIT_LEDGER.md)  
 > * **Evidence Coverage Matrix**: [`EVIDENCE_COVERAGE.md`](EVIDENCE_COVERAGE.md)  
 > * **Preserved Historical Passes**:  

@@ -6,7 +6,7 @@
 > * **Authors**: E. O. Tuck  
 > * **Publication**: *Journal of Fluid Mechanics*, Vol. 18, Issue 4 (1964), pp. 619–635  
 > * **DOI**: [`10.1017/S0022112064000453`](https://doi.org/10.1017/S0022112064000453)  
-> * **Governing Protocol**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
+> * **Governing Protocol**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
 > * **Affected Candidate IDs**: `CLM-METH-002`, `CLM-METH-003`, `CLM-PRIO-008`.
 
 ---

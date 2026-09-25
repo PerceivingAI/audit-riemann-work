@@ -7,7 +7,7 @@
 > * **Publication**: *Selecta Mathematica (N.S.)*, Vol. 27, Issue 4 (2021), Paper No. 77  
 > * **Preprint**: `arXiv:2006.13771` (Submitted `2020-06-24T15:22:18Z`)  
 > * **DOI**: [`10.1007/s00029-021-00680-3`](https://doi.org/10.1007/s00029-021-00680-3)  
-> * **Governing Protocol**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
+> * **Governing Protocol**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
 > * **Affected Candidate IDs**: `CLM-MATH-001`, `CLM-METH-001`, `CLM-OBST-001`.
 
 ---

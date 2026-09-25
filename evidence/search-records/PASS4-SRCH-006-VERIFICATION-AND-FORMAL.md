@@ -6,7 +6,7 @@
 > * **Topic Scope**: Zero-Floating-Point Verification Architecture, Multi-Implementation Defense, Pre-Theorem Promotion Boundaries, Adversarial Contract Failure, and Lean 4 Formal Soundness.  
 > * **Associated Candidate IDs**: `CLM-VERF-001`, `CLM-VERF-002`, `CLM-VERF-003`, `CLM-VERF-004`, `CLM-VERF-005`, `CLM-VERF-006`, `CLM-VERF-007`.  
 > * **Databases / Engines Queried**: Crossref REST API, GitHub Search API, Web Search.  
-> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 12–14.
+> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 12–14.
 
 ---
 

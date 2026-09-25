@@ -6,7 +6,7 @@
 > * **Topic Scope**: Analytical Barriers, Rank-One Hessians, Bilinear Phase Separability, PNT Moving-Scale Insufficiency, and Absorption Losses.  
 > * **Associated Candidate IDs**: `CLM-OBST-001`, `CLM-OBST-002`, `CLM-OBST-003`, `CLM-OBST-004`, `CLM-OBST-005`, `CLM-OBST-006`, `CLM-OBST-007`, `CLM-OBST-008`, `CLM-OBST-009`, `CLM-OBST-010`, `CLM-OBST-011`, `CLM-OBST-012`, `CLM-OBST-013`, `CLM-OBST-014`, `CLM-OBST-015`.  
 > * **Databases / Engines Queried**: Crossref REST API, GitHub Search API, Web Search.  
-> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 12–14.
+> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 12–14.
 
 ---
 

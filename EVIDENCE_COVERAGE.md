@@ -1,7 +1,7 @@
 # Master Evidence Coverage Matrix — Audit Pass 4
 
 > **Evidence Coverage Governance Metadata**  
-> * **Audit Standard**: Pass 4 Full Multi-Axis Evidence Coverage per [`FOURTH_AUDIT.md`](FOURTH_AUDIT.md)  
+> * **Audit Standard**: Pass 4 Full Multi-Axis Evidence Coverage per [`archive/FOURTH_AUDIT.md`](archive/FOURTH_AUDIT.md)  
 > * **Total Candidate Claims Covered**: `66` (66/66 IDs verified)  
 > * **Coverage Version**: `4.1.0` (Verified Public Security Provenance Update)  
 > * **Effective Date**: `2026-09-25T04:30:00Z`  

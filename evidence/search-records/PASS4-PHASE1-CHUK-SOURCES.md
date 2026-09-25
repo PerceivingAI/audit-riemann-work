@@ -5,7 +5,7 @@
 > * **Date Executed**: `2026-09-25T01:50:00Z` to `02:15:00Z`  
 > * **Auditor / Scope**: Official Primary Literature Inspection for Marcus Chuk / Xuefeng Zhu (`arXiv:2608.24827`), Masatoshi Suzuki (`arXiv:2606.09096`), Alain Groskin (`arXiv:2607.02828`), and Connes–Consani–Moscovici (`arXiv:2511.22755`).  
 > * **Databases / Services Queried**: arXiv API / Web, DataCite DOI Resolver, Project Euclid.  
-> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 12 & 13.
+> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 12 & 13.
 
 ---
 

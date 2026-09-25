@@ -6,7 +6,7 @@
 > * **Date Compiled**: `2026-09-25`  
 > * **Phase 4 Technical Exit Gate**: **`PASS`**  
 > * **Audited Closed-State Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`  
-> * **Governing Execution Plan**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Phase 4; [`AUDIT_PROTOCOL.md`](../../AUDIT_PROTOCOL.md).
+> * **Governing Execution Plan**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Phase 4; [`AUDIT_PROTOCOL.md`](../../AUDIT_PROTOCOL.md).
 
 ---
 

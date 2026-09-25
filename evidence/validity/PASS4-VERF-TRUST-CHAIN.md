@@ -4,7 +4,7 @@
 > * **Dossier ID**: `PASS4-VERF-TRUST-CHAIN`  
 > * **Audit Phase**: Pass 4 Phase 4 (Verification-Chain and Computational Trust Audit)  
 > * **Target Pinned Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`  
-> * **Governing Protocol**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 20 & 21; [`AUDIT_PROTOCOL.md`](../../AUDIT_PROTOCOL.md).  
+> * **Governing Protocol**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 20 & 21; [`AUDIT_PROTOCOL.md`](../../AUDIT_PROTOCOL.md).  
 > * **Associated Candidate IDs**: `CLM-VERF-001` through `CLM-VERF-007`, `CLM-MATH-001..008`, `CLM-METH-005`.
 
 ---

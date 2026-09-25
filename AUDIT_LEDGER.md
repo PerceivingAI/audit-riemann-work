@@ -1,7 +1,7 @@
 # Master Authoritative Audit Ledger — Audit Pass 4 (Comprehensive 5-Axis Matrix)
 
 > **Ledger Governance & Accounting Metadata**  
-> * **Audit Standard**: Audit Pass 4 Comprehensive 5-Axis Synthesis per [`FOURTH_AUDIT.md`](FOURTH_AUDIT.md)  
+> * **Audit Standard**: Audit Pass 4 Comprehensive 5-Axis Synthesis per [`archive/FOURTH_AUDIT.md`](archive/FOURTH_AUDIT.md)  
 > * **Total Candidate Claims in Scope**: `66` (Full programmatic inventory verified: 66/66 unique IDs)  
 > * **Ledger Version**: `4.1.0` (Verified Public Security Provenance Update)  
 > * **Effective Date**: `2026-09-25T04:30:00Z`  

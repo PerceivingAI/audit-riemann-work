@@ -8,7 +8,7 @@
 > * **Last Pushed Timestamp**: `2026-08-11T20:32:37Z` (GitHub API)  
 > * **History Scope**: 419 total reachable commits across 2 primary development cycles (July 23–24 and August 11, 2026); 211 scoped commits touching tracked documentation, logs, experiments, and formal verification.  
 > * **Local Mirror**: `.audit-cache/phase1/kuber-repo/` (Full Git object repository; 254 original-content text blobs retained in `evidence/phase1/kuber/objects/`).  
-> * **Governing Protocol**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 9 & 10; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).
+> * **Governing Protocol**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 9 & 10; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).
 
 ---
 
@@ -81,7 +81,7 @@ The following table records every milestone development in `Kuberwastaken/rieman
 
 ## 4. Prior-Art Collision Lead Inspection
 
-Kuber's `COLLISION.md` (commit `0d18760c`, `4e82f27e`) identifies four foundational external comparator references. As mandated by Section 10 of [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md), these were independently inspected:
+Kuber's `COLLISION.md` (commit `0d18760c`, `4e82f27e`) identifies four foundational external comparator references. As mandated by Section 10 of [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md), these were independently inspected:
 
 1. **Hiroyuki Yoshida (1992, Adv. Stud. Pure Math. 21, pp. 281–325)**:
    - *Title*: *On Hermitian forms attached to zeta functions*

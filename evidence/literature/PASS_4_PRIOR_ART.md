@@ -3,7 +3,7 @@
 > **Dossier Metadata**  
 > * **Audit Stage**: Audit Pass 4 Phase 1 Synthesis  
 > * **Date Compiled**: `2026-09-25`  
-> * **Standard**: Primary Literature Evidence Standards per [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) & [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md)  
+> * **Standard**: Primary Literature Evidence Standards per [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) & [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md)  
 > * **Governing Principles**: Primary sources evaluated from original documents and official records; comparator self-audits used as leads only; all comparisons normalized before evaluating novelty.
 
 ---

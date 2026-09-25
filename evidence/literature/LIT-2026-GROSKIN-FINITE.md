@@ -6,7 +6,7 @@
 > * **Authors**: Alain Groskin  
 > * **Preprint**: `arXiv:2607.02828` (Submitted `2026-07-03T18:24:19Z`, 22 pages)  
 > * **DOI**: [`10.48550/arXiv.2607.02828`](https://doi.org/10.48550/arXiv.2607.02828)  
-> * **Governing Protocol**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
+> * **Governing Protocol**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
 > * **Affected Candidate IDs**: `CLM-CONT-002`, `CLM-OBST-003`, `CLM-VERF-005`.
 
 ---

@@ -6,7 +6,7 @@
 > * **Authors**: Masatoshi Suzuki  
 > * **Preprint**: `arXiv:2606.09096` (Submitted `2026-06-12T10:48:47Z`, revised `2026-06-25T03:52:12Z`, 35 pages)  
 > * **DOI**: [`10.48550/arXiv.2606.09096`](https://doi.org/10.48550/arXiv.2606.09096)  
-> * **Governing Protocol**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
+> * **Governing Protocol**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
 > * **Affected Candidate IDs**: `CLM-MATH-001..008`, `CLM-METH-001`, `CLM-OBST-003`, `CLM-GRAM-002`.
 
 ---

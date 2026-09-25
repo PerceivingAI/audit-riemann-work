@@ -6,7 +6,7 @@
 > * **Topic Scope**: Localized Weil Positivity Theorems, Support Continuation, and Moving-Dimension Strategy.  
 > * **Associated Candidate IDs**: `CLM-MATH-001`, `CLM-MATH-002`, `CLM-MATH-003`, `CLM-MATH-004`, `CLM-MATH-005`, `CLM-MATH-006`, `CLM-MATH-007`, `CLM-MATH-008`, `CLM-CONT-001`, `CLM-CONT-002`.  
 > * **Databases / Engines Queried**: Crossref REST API, GitHub Search API, arXiv Web/API, Project Euclid.  
-> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 12–14.
+> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 12–14.
 
 ---
 

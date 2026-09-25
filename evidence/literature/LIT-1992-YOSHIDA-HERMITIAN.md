@@ -6,7 +6,7 @@
 > * **Authors**: Hiroyuki Yoshida  
 > * **Publication**: *Zeta Functions in Geometry*, Advanced Studies in Pure Mathematics, Vol. 21 (1992), pp. 281–325  
 > * **DOI / Stable URL**: [`10.2969/aspm/02110281`](https://projecteuclid.org/ebooks/advanced-studies-in-pure-mathematics/Zeta-Functions-in-Geometry/chapter/On-Hermitian-Forms-attached-to-Zeta-Functions/10.2969/aspm/02110281.pdf)  
-> * **Governing Protocol**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
+> * **Governing Protocol**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
 > * **Affected Candidate IDs**: `CLM-MATH-001`, `CLM-METH-001`, `CLM-PRIO-004`.
 
 ---

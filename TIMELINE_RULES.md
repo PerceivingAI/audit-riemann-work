@@ -29,4 +29,4 @@ Do not reconcile arbitrary Markdown metadata clocks. When a timestamp is used as
 
 `CLM-PRIO-001..003` concern public research history, negative-result history, and correction history. They are not aliases for prime-trace, shift-filter, or stationary-mode priority. Every priority candidate must be investigated under its canonical inventory proposition, with the semantic mapping review linked from `EVIDENCE_COVERAGE.md`.
 
-Phase 0 resolves record ownership and records gaps; it does not perform or claim the Phase 5 external chronology investigation. See [FOURTH_AUDIT.md](FOURTH_AUDIT.md) for the execution plan.
+Phase 0 resolves record ownership and records gaps; it does not perform or claim the Phase 5 external chronology investigation. See [archive/FOURTH_AUDIT.md](archive/FOURTH_AUDIT.md) for the execution plan.

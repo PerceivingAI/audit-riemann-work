@@ -5,7 +5,7 @@
 > * **Audit Phase**: Pass 4 Phase 3 (Independent Mathematical Validity Audit)  
 > * **Review Group**: Group A — Certified Theorem Candidates (`CLM-MATH-001` through `CLM-MATH-008`)  
 > * **Target Pinned Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`  
-> * **Governing Standards**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 7 (Group A) & 20; [`AUDIT_PROTOCOL.md`](../../AUDIT_PROTOCOL.md).
+> * **Governing Standards**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 7 (Group A) & 20; [`AUDIT_PROTOCOL.md`](../../AUDIT_PROTOCOL.md).
 
 ---
 

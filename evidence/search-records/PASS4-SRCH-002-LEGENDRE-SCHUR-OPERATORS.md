@@ -6,7 +6,7 @@
 > * **Topic Scope**: Legendre Harmonic Coercivity, Exact-Prime Decomposition, Compressed Translation Operators, and Schur Complement Positivity.  
 > * **Associated Candidate IDs**: `CLM-METH-001`, `CLM-METH-002`, `CLM-METH-003`, `CLM-METH-004`, `CLM-METH-005`, `CLM-OPER-001`, `CLM-OPER-002`.  
 > * **Databases / Engines Queried**: Crossref REST API, GitHub Search API, Web Search, J. Fluid Mech. Archive.  
-> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 12–14.
+> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 12–14.
 
 ---
 

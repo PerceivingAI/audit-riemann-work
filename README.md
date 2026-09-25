@@ -4,7 +4,7 @@ An independent, evidentiary, and multi-pass adversarial audit of the mathematica
 
 > **Audit Governance & Navigation Metadata**  
 > * **Audit Status**: **`AUDIT_PASS_4_COMPLETE`** (Comprehensive Evidence-Depth & Multi-Axis Synthesis Completed)  
-> * **Current Master Execution Plan**: [`FOURTH_AUDIT.md`](FOURTH_AUDIT.md)  
+> * **Current Master Execution Plan**: [`archive/FOURTH_AUDIT.md`](archive/FOURTH_AUDIT.md)  
 > * **Current Comprehensive Report**: [`AUDIT_PASS_4.md`](AUDIT_PASS_4.md) (Master copy in [`reports/AUDIT_PASS_4.md`](reports/AUDIT_PASS_4.md))  
 > * **Authoritative 5-Axis Ledger**: [`AUDIT_LEDGER.md`](AUDIT_LEDGER.md) (66 Candidate Claims)  
 > * **Master Evidence Coverage Matrix**: [`EVIDENCE_COVERAGE.md`](EVIDENCE_COVERAGE.md) (66/66 Claims Tracked)  

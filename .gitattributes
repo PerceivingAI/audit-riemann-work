@@ -1,7 +1,7 @@
 # Preserve historical blob bytes, including original CRLF and malformed text.
 # Do not apply clean/smudge line-ending conversion to these restoration targets.
 /archive/baselines/** -text
-/FOURTH_AUDIT.md -text
+/archive/FOURTH_AUDIT.md -text
 /evidence/computation-logs/PASS4-* -text
 /evidence/phase0/*.json -text
 /evidence/phase1/** -text

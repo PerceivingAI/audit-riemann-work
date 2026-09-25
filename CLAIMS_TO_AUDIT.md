@@ -4,7 +4,7 @@ This living inventory supplies exact candidate IDs, proposition text, categories
 
 - Status: `PASS_4_PHASE_0`, accounting and evidence infrastructure.
 - Inventory: 66 unique IDs across 10 ID families.
-- Execution plan: [FOURTH_AUDIT.md](FOURTH_AUDIT.md).
+- Execution plan: [FOURTH_AUDIT.md](archive/FOURTH_AUDIT.md).
 - Current evidence status: [EVIDENCE_COVERAGE.md](EVIDENCE_COVERAGE.md).
 - Resolved mapping records: [candidate map](evidence/phase0/CANDIDATE_MAP.json).
 - Historical inventory versions: `archive/baselines/pass-1/CLAIMS_TO_AUDIT.md`, `archive/baselines/pass-2/CLAIMS_TO_AUDIT.md`, and `archive/baselines/pass-3/CLAIMS_TO_AUDIT.md`.

@@ -10,7 +10,7 @@
 > * **Primary License**: `http://arxiv.org/licenses/nonexclusive-distrib/1.0/` (arXiv perpetual non-exclusive license).  
 > * **Audit Date**: `2026-09-25` (Pass 4 Phase 1).  
 > * **Raw Archive Artifacts**: Preserved in `evidence/phase1/chuk/` (manifest SHA-256 verified).  
-> * **Governing Protocol**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 11; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).
+> * **Governing Protocol**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 11; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Status and scope
 
-Pass 4 uses **five evidentiary axes plus one disposition field** under [FOURTH_AUDIT.md](FOURTH_AUDIT.md). Phase 0 establishes accounting and provenance; it does not independently verify mathematics, novelty, software soundness, or priority.
+Pass 4 uses **five evidentiary axes plus one disposition field** under [FOURTH_AUDIT.md](archive/FOURTH_AUDIT.md). Phase 0 establishes accounting and provenance; it does not independently verify mathematics, novelty, software soundness, or priority.
 
 The frozen target is `51feb3d176e4a53773c22dc157567cc0486f4c71`. The source checkout and its history remain read-only. Historical policy versions are preserved under `archive/baselines/`; this policy governs living Pass 4 records, not retroactive edits to earlier passes.
 

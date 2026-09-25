@@ -4,7 +4,7 @@
 > * **Dossier ID**: `PASS4-VERF-001-007-ARCHITECTURE`  
 > * **Audit Phase**: Pass 4 Phase 4 (Verification-Chain and Computational Trust Audit)  
 > * **Target Pinned Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`  
-> * **Governing Protocol**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 20 & 21; [`AUDIT_PROTOCOL.md`](../../AUDIT_PROTOCOL.md).
+> * **Governing Protocol**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 20 & 21; [`AUDIT_PROTOCOL.md`](../../AUDIT_PROTOCOL.md).
 
 ---
 

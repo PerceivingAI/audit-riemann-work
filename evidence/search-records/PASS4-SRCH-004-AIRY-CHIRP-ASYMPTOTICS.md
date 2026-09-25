@@ -6,7 +6,7 @@
 > * **Topic Scope**: Airy Saddle Asymptotics, Stationary Phase Maps, Single-Zero Matching, and Nonlinear Mellin Chirp Formulations.  
 > * **Associated Candidate IDs**: `CLM-AIRY-001`, `CLM-AIRY-002`, `CLM-AIRY-003`, `CLM-AIRY-004`, `CLM-AIRY-005`, `CLM-AIRY-006`, `CLM-AIRY-007`.  
 > * **Databases / Engines Queried**: Crossref REST API, GitHub Search API, Web Search.  
-> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 12–14.
+> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 12–14.
 
 ---
 

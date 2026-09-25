@@ -6,7 +6,7 @@
 > * **Topic Scope**: Li Criterion, Prime-Laguerre Sequences, Pole Subtraction, Shift Filtering, and Schoenberg CND Semigroups.  
 > * **Associated Candidate IDs**: `CLM-LAGU-001`, `CLM-LAGU-002`, `CLM-LAGU-003`, `CLM-LAGU-004`, `CLM-LAGU-005`, `CLM-GRAM-001`, `CLM-GRAM-002`, `CLM-GRAM-003`.  
 > * **Databases / Engines Queried**: Crossref REST API, GitHub Search API, Web Search.  
-> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 12–14.
+> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 12–14.
 
 ---
 

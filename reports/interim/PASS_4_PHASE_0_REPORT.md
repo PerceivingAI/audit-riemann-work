@@ -6,7 +6,7 @@
 
 The work establishes preservation, governance, candidate mapping, evidence coverage, and executable validation. It does not verify mathematical propositions, external prior art, comparator histories, formal correspondence, or public priority.
 
-Execution-plan authority: [FOURTH_AUDIT.md](../../FOURTH_AUDIT.md), preserved exactly from audit commit `c2a305a60f8eb1819a685896196dfb880d0325c0`. The root `AUDIT_PASS_4.md` remains explicitly a plan document.
+Execution-plan authority: [FOURTH_AUDIT.md](../../archive/FOURTH_AUDIT.md), preserved exactly from audit commit `c2a305a60f8eb1819a685896196dfb880d0325c0`. The root `AUDIT_PASS_4.md` remains explicitly a plan document.
 
 ## 1. Historical integrity
 

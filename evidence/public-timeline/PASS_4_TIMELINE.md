@@ -7,7 +7,7 @@
 > * **Audited Closed-State Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`  
 > * **Audit Date**: `2026-09-25`  
 > * **Authoritative Provenance Record**: [`evidence/phase5/github-security-audit-provenance.json`](../phase5/github-security-audit-provenance.json)  
-> * **Governing Protocol**: [`TIMELINE_RULES.md`](../../TIMELINE_RULES.md); [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 16 & 17.
+> * **Governing Protocol**: [`TIMELINE_RULES.md`](../../TIMELINE_RULES.md); [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 16 & 17.
 
 ---
 

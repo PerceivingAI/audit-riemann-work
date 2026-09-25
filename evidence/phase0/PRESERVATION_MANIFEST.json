@@ -12,7 +12,7 @@
   "plan_origin": {
     "commit": "c2a305a60f8eb1819a685896196dfb880d0325c0",
     "path": "AUDIT_PASS_4.md",
-    "preserved_path": "FOURTH_AUDIT.md",
+    "preserved_path": "archive/FOURTH_AUDIT.md",
     "raw_file_sha256": "e37bcb67062dc9d3fdd48f0208459a1c47392d1845667b7cd5fd2e79ceb28082"
   },
   "hash_domain": "raw_file_bytes; normalized_sha256 is CRLF-to-LF byte replacement only",

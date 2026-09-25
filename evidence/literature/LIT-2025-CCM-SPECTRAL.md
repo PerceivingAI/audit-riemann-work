@@ -6,7 +6,7 @@
 > * **Authors**: Alain Connes, Caterina Consani, Henri Moscovici  
 > * **Preprint**: `arXiv:2511.22755` (Submitted `2025-11-27T21:01:11Z`, 34 pages)  
 > * **DOI**: [`10.48550/arXiv.2511.22755`](https://doi.org/10.48550/arXiv.2511.22755)  
-> * **Governing Protocol**: [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
+> * **Governing Protocol**: [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 13 & 15; [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md).  
 > * **Affected Candidate IDs**: `CLM-MATH-001..008`, `CLM-VERF-007`.
 
 ---

@@ -5,7 +5,7 @@
 > * **Date Executed**: `2026-09-25T01:45:00Z` to `02:10:00Z`  
 > * **Auditor / Scope**: Commit-level historical reconstruction of `https://github.com/Kuberwastaken/riemann`.  
 > * **Databases / Services Queried**: GitHub REST API v3, Git Object Store (bare mirror & full tree clone).  
-> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`FOURTH_AUDIT.md`](../../FOURTH_AUDIT.md) Section 9 & 10.
+> * **Governing Standards**: [`EVIDENCE_STANDARDS.md`](../../EVIDENCE_STANDARDS.md) Section 4; [`archive/FOURTH_AUDIT.md`](../../archive/FOURTH_AUDIT.md) Section 9 & 10.
 
 ---
 
