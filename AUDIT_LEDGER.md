@@ -3,9 +3,10 @@
 > **Ledger Governance & Accounting Metadata**  
 > * **Audit Standard**: Audit Pass 4 Comprehensive 5-Axis Synthesis per [`FOURTH_AUDIT.md`](FOURTH_AUDIT.md)  
 > * **Total Candidate Claims in Scope**: `66` (Full programmatic inventory verified: 66/66 unique IDs)  
-> * **Ledger Version**: `4.0.0`  
-> * **Effective Date**: `2026-09-25T04:00:00Z`  
+> * **Ledger Version**: `4.1.0` (Verified Public Security Provenance Update)  
+> * **Effective Date**: `2026-09-25T04:30:00Z`  
 > * **Audited Target Commit**: `51feb3d176e4a53773c22dc157567cc0486f4c71`  
+> * **Server-Side Security Log Provenance**: Verified public visibility since `2026-08-20T20:43:29Z` (`export-PerceivingAI-1790321329.json`).  
 > * **Mapping Integrity**: 100% ID-to-proposition correspondence verified; 0 ID shifts.  
 
 ---
@@ -17,7 +18,7 @@ Every claim is independently adjudicated across five orthogonal axes plus dispos
 * **Axis 2: Mathematical Result Novelty**: `NOVEL SUPPORT BOUND`, `POSSIBLY NOVEL`, `RESULT SUBSUMED BY PRIOR ART`, `PRIOR ART FOUND`, `N/A`
 * **Axis 3: Method Novelty**: `NOVEL SYNTHESIS SUPPORTED`, `KNOWN INGREDIENT / NOVEL APPL.`, `KNOWN METHOD`, `N/A`
 * **Axis 4: Software / Verification Novelty**: `NOVEL VERIFICATION ARCHITECTURE`, `VERIFIED IMPLEMENTATION FACT`, `STANDARD IMPLEMENTATION`, `N/A`
-* **Axis 5: Chronological Priority**: `PRIORITY SUPPORTED` (Verified public push), `PRIORITY PLAUSIBLE` (Git commit pre-dates external; push unverified), `PRIOR ART FOUND` (External earlier), `INCONCLUSIVE`
+* **Axis 5: Chronological Priority**: `PRIORITY SUPPORTED` (Verified public push), `PRIOR ART FOUND` (External earlier), `INCONCLUSIVE`
 * **Axis 6: Final Evidence Disposition**: `COMPLETE`, `CLAIM REQUIRES NARROWER WORDING`, `INCONCLUSIVE — REQUIRES LATER PASS`
 
 ---

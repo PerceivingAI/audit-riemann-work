@@ -286,6 +286,7 @@ def living_link_checks() -> list[str]:
              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md",
              "evidence/validity/PASS4-VERF-001-007-ARCHITECTURE.md",
              "evidence/public-timeline/PASS_4_TIMELINE.md",
+             "evidence/phase5/github-security-audit-provenance.json",
              "reports/interim/PASS_4_PHASE_0_REPORT.md",
              "reports/interim/PASS_4_PHASE_1_REPORT.md",
              "reports/interim/PASS_4_PHASE_2_REPORT.md",

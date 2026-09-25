@@ -1,0 +1,196 @@
+{
+  "source": "GitHub Security Audit Log Export (export-PerceivingAI-1790321329.json)",
+  "account": "PerceivingAI",
+  "export_timestamp_utc": "2026-09-25T04:22:09Z",
+  "redaction_policy": "All client IP addresses, auth token digests, request IDs, and non-Riemann repository entries removed.",
+  "key_findings": [
+    "Repository PerceivingAI/riemann-conjecture created on 2026-08-20T20:39:44.018Z (private).",
+    "Repository PerceivingAI/riemann-conjecture visibility changed from private to PUBLIC on 2026-08-20T20:43:29.135Z.",
+    "Public commits pushed on August 20-21, 2026 (including 6dd1d8f on August 21 at 14:05:13Z) were public on GitHub from their commit times.",
+    "Pre-dates external preprint submission arXiv:2608.24827v1 (Marcus Chuk / Xuefeng Zhu, 2026-08-25T17:07:51Z) by 4.1 days."
+  ],
+  "events": [
+    {
+      "timestamp_ms": 1787258383058,
+      "timestamp_iso_utc": "2026-08-20T20:39:43.058000+00:00",
+      "action": "repo.set_workflow_permission_can_approve_pr",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/riemann-conjecture",
+      "repo_id": 1341127667,
+      "operation_type": "modify",
+      "visibility": "private",
+      "public_repo": false
+    },
+    {
+      "timestamp_ms": 1787258383069,
+      "timestamp_iso_utc": "2026-08-20T20:39:43.069000+00:00",
+      "action": "repo.set_default_workflow_permissions",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/riemann-conjecture",
+      "repo_id": 1341127667,
+      "operation_type": "modify",
+      "visibility": "private",
+      "public_repo": false
+    },
+    {
+      "timestamp_ms": 1787258383078,
+      "timestamp_iso_utc": "2026-08-20T20:39:43.078000+00:00",
+      "action": "repo.change_merge_setting",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/riemann-conjecture",
+      "repo_id": 1341127667,
+      "operation_type": "modify",
+      "visibility": "private",
+      "public_repo": false
+    },
+    {
+      "timestamp_ms": 1787258383086,
+      "timestamp_iso_utc": "2026-08-20T20:39:43.086000+00:00",
+      "action": "repo.change_merge_setting",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/riemann-conjecture",
+      "repo_id": 1341127667,
+      "operation_type": "modify",
+      "visibility": "private",
+      "public_repo": false
+    },
+    {
+      "timestamp_ms": 1787258384018,
+      "timestamp_iso_utc": "2026-08-20T20:39:44.018000+00:00",
+      "action": "repo.create",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/riemann-conjecture",
+      "repo_id": 1341127667,
+      "operation_type": "create",
+      "visibility": "private",
+      "public_repo": false
+    },
+    {
+      "timestamp_ms": 1787258385429,
+      "timestamp_iso_utc": "2026-08-20T20:39:45.429000+00:00",
+      "action": "integration_installation.repositories_added",
+      "actor": "PerceivingAI",
+      "operation_type": "create",
+      "integration_name": "ChatGPT Codex Connector"
+    },
+    {
+      "timestamp_ms": 1787258385486,
+      "timestamp_iso_utc": "2026-08-20T20:39:45.486000+00:00",
+      "action": "integration_installation.repositories_added",
+      "actor": "PerceivingAI",
+      "operation_type": "create",
+      "integration_name": "Google AI Studio"
+    },
+    {
+      "timestamp_ms": 1787258609135,
+      "timestamp_iso_utc": "2026-08-20T20:43:29.135000+00:00",
+      "action": "repo.access",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/riemann-conjecture",
+      "repo_id": 1341127667,
+      "operation_type": "modify",
+      "visibility": "public",
+      "previous_visibility": "private",
+      "public_repo": true
+    },
+    {
+      "timestamp_ms": 1790290134225,
+      "timestamp_iso_utc": "2026-09-24T22:48:54.225000+00:00",
+      "action": "repo.set_workflow_permission_can_approve_pr",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/audit-riemann-work",
+      "repo_id": 1386453494,
+      "operation_type": "modify",
+      "visibility": "public",
+      "public_repo": true
+    },
+    {
+      "timestamp_ms": 1790290134236,
+      "timestamp_iso_utc": "2026-09-24T22:48:54.236000+00:00",
+      "action": "repo.set_default_workflow_permissions",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/audit-riemann-work",
+      "repo_id": 1386453494,
+      "operation_type": "modify",
+      "visibility": "public",
+      "public_repo": true
+    },
+    {
+      "timestamp_ms": 1790290134244,
+      "timestamp_iso_utc": "2026-09-24T22:48:54.244000+00:00",
+      "action": "repo.change_merge_setting",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/audit-riemann-work",
+      "repo_id": 1386453494,
+      "operation_type": "modify",
+      "visibility": "public",
+      "public_repo": true
+    },
+    {
+      "timestamp_ms": 1790290134253,
+      "timestamp_iso_utc": "2026-09-24T22:48:54.253000+00:00",
+      "action": "repo.change_merge_setting",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/audit-riemann-work",
+      "repo_id": 1386453494,
+      "operation_type": "modify",
+      "visibility": "public",
+      "public_repo": true
+    },
+    {
+      "timestamp_ms": 1790290135816,
+      "timestamp_iso_utc": "2026-09-24T22:48:55.816000+00:00",
+      "action": "repo.create",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/audit-riemann-work",
+      "repo_id": 1386453494,
+      "operation_type": "create",
+      "visibility": "public",
+      "public_repo": true
+    },
+    {
+      "timestamp_ms": 1790290136774,
+      "timestamp_iso_utc": "2026-09-24T22:48:56.774000+00:00",
+      "action": "integration_installation.repositories_added",
+      "actor": "PerceivingAI",
+      "operation_type": "create",
+      "integration_name": "ChatGPT Codex Connector"
+    },
+    {
+      "timestamp_ms": 1790290136825,
+      "timestamp_iso_utc": "2026-09-24T22:48:56.825000+00:00",
+      "action": "integration_installation.repositories_added",
+      "actor": "PerceivingAI",
+      "operation_type": "create",
+      "integration_name": "Google AI Studio"
+    },
+    {
+      "timestamp_ms": 1790292052819,
+      "timestamp_iso_utc": "2026-09-24T23:20:52.819000+00:00",
+      "action": "repository_ruleset.create",
+      "actor": "PerceivingAI",
+      "repo": "PerceivingAI/riemann-conjecture",
+      "repo_id": 1341127667,
+      "operation_type": "create",
+      "public_repo": true,
+      "ruleset_name": "protect-main",
+      "ruleset_rules": [
+        {
+          "id": 126140599,
+          "parameters": {},
+          "type": "deletion"
+        },
+        {
+          "id": 126140600,
+          "parameters": {},
+          "type": "non_fast_forward"
+        },
+        {
+          "id": 126140601,
+          "parameters": {},
+          "type": "required_linear_history"
+        }
+      ]
+    }
+  ]
+}

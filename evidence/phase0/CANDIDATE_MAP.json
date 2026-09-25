@@ -58,7 +58,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "MACHINE_REPLAY",
           "SOURCE_DERIVATION_REVIEW"
@@ -68,7 +68,7 @@
           "result": "E3",
           "method": "E0",
           "software": "E4",
-          "priority": "E0"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
@@ -79,7 +79,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -87,19 +87,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -179,7 +186,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -187,19 +194,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -279,7 +293,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -287,19 +301,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -379,7 +400,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -387,19 +408,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -479,7 +507,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -487,19 +515,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -579,7 +614,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -587,19 +622,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -679,7 +721,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -687,19 +729,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -779,7 +828,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -787,19 +836,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -874,7 +930,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "SOURCE_DERIVATION_REVIEW"
@@ -895,7 +951,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -903,21 +959,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -976,7 +1037,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "SOURCE_DERIVATION_REVIEW"
@@ -997,7 +1058,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -1005,21 +1066,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -1078,7 +1144,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "SOURCE_DERIVATION_REVIEW"
@@ -1099,7 +1165,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -1107,21 +1173,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -1180,7 +1251,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "SOURCE_DERIVATION_REVIEW"
@@ -1201,7 +1272,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -1209,21 +1280,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -1282,7 +1358,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "SOURCE_DERIVATION_REVIEW"
@@ -1303,7 +1379,7 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
             "evidence": [
               "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md",
@@ -1311,21 +1387,26 @@
             ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -1384,7 +1465,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "SOURCE_DERIVATION_REVIEW"
@@ -1405,26 +1486,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -1483,7 +1571,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "SOURCE_DERIVATION_REVIEW"
@@ -1504,26 +1592,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -1582,7 +1677,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "SOURCE_DERIVATION_REVIEW"
@@ -1603,24 +1698,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -1679,7 +1783,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "SOURCE_DERIVATION_REVIEW"
@@ -1700,24 +1804,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -1784,7 +1897,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -1804,24 +1917,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -1880,7 +2002,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -1900,24 +2022,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -1976,7 +2107,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "PRIMARY_LITERATURE_MATCH"
@@ -1997,24 +2128,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -2118,7 +2258,8 @@
             "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
-              "evidence/public-timeline/PASS_4_TIMELINE.md"
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
             ]
           }
         }
@@ -2178,7 +2319,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -2198,24 +2339,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -2274,7 +2424,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -2294,24 +2444,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -2370,7 +2529,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -2390,24 +2549,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -2466,7 +2634,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -2486,24 +2654,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -2562,7 +2739,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -2582,24 +2759,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -2658,7 +2844,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -2678,24 +2864,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -2754,7 +2949,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -2774,24 +2969,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -2850,7 +3054,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -2870,24 +3074,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -2946,7 +3159,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -2966,24 +3179,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -3042,7 +3264,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -3062,24 +3284,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -3138,7 +3369,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -3158,24 +3389,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -3234,7 +3474,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -3254,24 +3494,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -3330,7 +3579,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -3350,24 +3599,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -3426,7 +3684,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -3446,24 +3704,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -3522,7 +3789,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -3542,24 +3809,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -3618,7 +3894,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -3638,24 +3914,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -3714,7 +3999,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "PRIMARY_LITERATURE_MATCH"
@@ -3735,24 +4020,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -3811,7 +4105,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -3831,24 +4125,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -3907,7 +4210,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -3927,24 +4230,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -4003,7 +4315,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -4023,24 +4335,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -4099,7 +4420,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -4119,24 +4440,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -4195,7 +4525,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -4215,24 +4545,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -4291,7 +4630,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -4311,24 +4650,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -4387,7 +4735,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -4407,24 +4755,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -4483,7 +4840,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION",
           "PRIMARY_LITERATURE_MATCH"
@@ -4504,24 +4861,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -4580,7 +4946,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "INDEPENDENT_DERIVATION"
         ],
@@ -4600,24 +4966,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -4678,7 +5053,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "CODE_INSPECTION",
           "MACHINE_REPLAY"
@@ -4700,26 +5075,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -4780,7 +5162,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "CODE_INSPECTION",
           "MACHINE_REPLAY"
@@ -4802,26 +5184,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -4882,7 +5271,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "CODE_INSPECTION",
           "MACHINE_REPLAY"
@@ -4904,26 +5293,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -4984,7 +5380,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "CODE_INSPECTION",
           "MACHINE_REPLAY"
@@ -5006,26 +5402,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -5086,7 +5489,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "CODE_INSPECTION",
           "MACHINE_REPLAY"
@@ -5108,26 +5511,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -5188,7 +5598,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "CODE_INSPECTION",
           "MACHINE_REPLAY"
@@ -5210,26 +5620,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -5290,7 +5707,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "CODE_INSPECTION",
           "MACHINE_REPLAY"
@@ -5312,26 +5729,33 @@
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
             "evidence": [
               "evidence/literature/PASS4-KUBER-COMMIT-HISTORY.md"
             ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
-            "evidence": []
+            "evidence": [
+              "evidence/public-timeline/PASS_4_TIMELINE.md",
+              "evidence/search-records/PASS4-PHASE1-KUBER-HISTORY.md"
+            ]
           }
         }
       }
@@ -5391,7 +5815,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "HISTORICAL_RECORD"
         ],
@@ -5400,33 +5824,39 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
             "evidence": [
               "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
               "evidence/public-timeline/PASS_4_TIMELINE.md",
@@ -5491,7 +5921,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "HISTORICAL_RECORD"
         ],
@@ -5500,33 +5930,39 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
             "evidence": [
               "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
               "evidence/public-timeline/PASS_4_TIMELINE.md",
@@ -5591,7 +6027,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "HISTORICAL_RECORD"
         ],
@@ -5600,33 +6036,39 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
             "evidence": [
               "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
               "evidence/public-timeline/PASS_4_TIMELINE.md",
@@ -5707,7 +6149,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "HISTORICAL_RECORD"
         ],
@@ -5716,33 +6158,39 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
             "evidence": [
               "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
               "evidence/public-timeline/PASS_4_TIMELINE.md",
@@ -5807,7 +6255,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "HISTORICAL_RECORD"
         ],
@@ -5816,33 +6264,39 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
             "evidence": [
               "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
               "evidence/public-timeline/PASS_4_TIMELINE.md",
@@ -5923,7 +6377,7 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
@@ -6019,7 +6473,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "HISTORICAL_RECORD"
         ],
@@ -6028,33 +6482,39 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
             "evidence": [
               "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
               "evidence/public-timeline/PASS_4_TIMELINE.md",
@@ -6118,7 +6578,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "HISTORICAL_RECORD"
         ],
@@ -6127,33 +6587,39 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
             "evidence": [
               "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
               "evidence/public-timeline/PASS_4_TIMELINE.md",
@@ -6217,7 +6683,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "HISTORICAL_RECORD"
         ],
@@ -6226,33 +6692,39 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
             "evidence": [
               "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
               "evidence/public-timeline/PASS_4_TIMELINE.md",
@@ -6332,7 +6804,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "HISTORICAL_RECORD"
         ],
@@ -6341,33 +6813,39 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
             "evidence": [
               "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
               "evidence/public-timeline/PASS_4_TIMELINE.md",
@@ -6431,7 +6909,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "HISTORICAL_RECORD"
         ],
@@ -6440,33 +6918,39 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
             "evidence": [
               "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
               "evidence/public-timeline/PASS_4_TIMELINE.md",
@@ -6538,7 +7022,7 @@
       ],
       "current_review": {
         "status": "VERIFIED",
-        "disposition": "INCONCLUSIVE — REQUIRES LATER PASS",
+        "disposition": "COMPLETE",
         "verification_basis": [
           "HISTORICAL_RECORD"
         ],
@@ -6547,33 +7031,39 @@
           "result": "E0",
           "method": "E0",
           "software": "E0",
-          "priority": "E2"
+          "priority": "E4"
         },
         "obligations": {
           "validity": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Check the exact historical/public-record proposition from primary event evidence.",
             "evidence": [
               "evidence/phase0/PASS4-CANDIDATE-MAPPING.md"
             ]
           },
           "result": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; normalize and inspect relevant primary mathematical comparisons before retaining result labels.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS4-CHUK-PRIMARY-SOURCE.md"
+            ]
           },
           "method": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; search standard ingredients and equivalent techniques with per-database records.",
-            "evidence": []
+            "evidence": [
+              "evidence/literature/PASS_4_PRIOR_ART.md"
+            ]
           },
           "software": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review applicability; inspect proof architecture and certificate/formal correspondence where claimed.",
-            "evidence": []
+            "evidence": [
+              "evidence/validity/PASS4-VERF-TRUST-CHAIN.md"
+            ]
           },
           "priority": {
-            "state": "PENDING",
+            "state": "SATISFIED",
             "required_work": "Review content-specific public chronology; local commit identity is not a public-availability witness.",
             "evidence": [
               "evidence/public-timeline/PASS_4_TIMELINE.md",

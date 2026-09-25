@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "command": [
+    "python",
+    "-B",
+    "scripts/pass4_validate.py"
+  ],
+  "working_directory": "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work",
+  "audit_head": "ba6cb5cb4e13ca2e88d0220871242ea05ae241b1",
+  "source_before": {
+    "commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+    "tree": "8a1dd144a90a4121601ea839d048860bd724b413",
+    "status_porcelain": ""
+  },
+  "host": {
+    "os": "Windows-11-10.0.26200-SP0",
+    "architecture": "AMD64"
+  },
+  "tools": {
+    "python": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\carlo\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+    "git": "git version 2.45.2.windows.1"
+  },
+  "environment_overrides": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "GIT_OPTIONAL_LOCKS": "0"
+  },
+  "start_time": "2026-09-25T07:39:46.141640+00:00",
+  "audit_tool_hashes": {
+    "scripts/pass4_chuk.py": {
+      "raw_file_sha256": "067d37882a010e4b21ab0ae1f66af6166137428423220a091cb70202ff8b3928",
+      "normalized_sha256": "067d37882a010e4b21ab0ae1f66af6166137428423220a091cb70202ff8b3928"
+    },
+    "scripts/pass4_kuber.py": {
+      "raw_file_sha256": "7999d54e56fdbe5e40d25ed9eb708d53e3cc978f95cb7ade8e7a5d48ea46848e",
+      "normalized_sha256": "7999d54e56fdbe5e40d25ed9eb708d53e3cc978f95cb7ade8e7a5d48ea46848e"
+    },
+    "scripts/pass4_math_checks.py": {
+      "raw_file_sha256": "995c97318489a94c09052e70df2fb57df3d5b1c0a73804bc70d9109d0f8dc99a",
+      "normalized_sha256": "995c97318489a94c09052e70df2fb57df3d5b1c0a73804bc70d9109d0f8dc99a"
+    },
+    "scripts/pass4_preserve.py": {
+      "raw_file_sha256": "c171c473396feabfba140f2ee97a255a6134d272b83c944b7ba0e10b45ddebfd",
+      "normalized_sha256": "c171c473396feabfba140f2ee97a255a6134d272b83c944b7ba0e10b45ddebfd"
+    },
+    "scripts/pass4_priority.py": {
+      "raw_file_sha256": "afc6c801bf5ff7079b05db81537bc5d08fd3d1dafb1f6c162efcafb1f04e2899",
+      "normalized_sha256": "afc6c801bf5ff7079b05db81537bc5d08fd3d1dafb1f6c162efcafb1f04e2899"
+    },
+    "scripts/pass4_replay_certs.py": {
+      "raw_file_sha256": "160e2b1de70e7bcada0c01d89a2ab2d9c4644c2fdc61c5aeb80def79319d834d",
+      "normalized_sha256": "160e2b1de70e7bcada0c01d89a2ab2d9c4644c2fdc61c5aeb80def79319d834d"
+    },
+    "scripts/pass4_run.py": {
+      "raw_file_sha256": "dd190073a23ba205bd17c45c3a73050870de9377bdbcf435cd8dd17a2d1cd5da",
+      "normalized_sha256": "dd190073a23ba205bd17c45c3a73050870de9377bdbcf435cd8dd17a2d1cd5da"
+    },
+    "scripts/pass4_search.py": {
+      "raw_file_sha256": "5578edf8617258d6c44c40f38d36bd2ae71162eb6febcb5f6a3c52c1c8deb57b",
+      "normalized_sha256": "5578edf8617258d6c44c40f38d36bd2ae71162eb6febcb5f6a3c52c1c8deb57b"
+    },
+    "scripts/pass4_validate.py": {
+      "raw_file_sha256": "20ec3aeee518f87a05bdb4de491a4e2c5340f93ba9ca4374a76c87ef261bc32b",
+      "normalized_sha256": "20ec3aeee518f87a05bdb4de491a4e2c5340f93ba9ca4374a76c87ef261bc32b"
+    }
+  },
+  "audit_input_hashes": {
+    "evidence/phase0/CANDIDATE_MAP.json": {
+      "raw_file_sha256": "2e5b513402160d78ebdbdf9a827141cc77940f1ebf061c539888169a3f890414",
+      "normalized_sha256": "c46f5eab2f716b8cd4acc962d8b22b3557748e4c7a7919bb4db6207b1c62d307"
+    },
+    "evidence/phase0/HISTORICAL_CHANGE_EVENTS.json": {
+      "raw_file_sha256": "8e4a623e2497da18363b18e60b5d1552088cbb086139ef9a5844155b434a5bd0",
+      "normalized_sha256": "8e4a623e2497da18363b18e60b5d1552088cbb086139ef9a5844155b434a5bd0"
+    },
+    "evidence/phase0/PASS3_HASH_DOMAINS.json": {
+      "raw_file_sha256": "5864fd59dab69d0fecaa1b49b58120c4690967d1d1b1e13e6d542e1bf923c839",
+      "normalized_sha256": "5864fd59dab69d0fecaa1b49b58120c4690967d1d1b1e13e6d542e1bf923c839"
+    },
+    "evidence/phase0/PRESERVATION_MANIFEST.json": {
+      "raw_file_sha256": "c84ae0e97f7c65197ebc4d1c55f348236f789434739f909f4d4fb35b2450c57e",
+      "normalized_sha256": "7d83598aa40e9fcbfbaf1cd72c35df8a97e9aaa330abad9446ff6ae4b66ea75a"
+    },
+    "evidence/phase0/SOURCE_BEFORE.json": {
+      "raw_file_sha256": "c8858c21b0d52598e7445e7cbfb5ae0d6071ff7bd6f205b354def82bdf287fcf",
+      "normalized_sha256": "c8858c21b0d52598e7445e7cbfb5ae0d6071ff7bd6f205b354def82bdf287fcf"
+    }
+  },
+  "end_time": "2026-09-25T07:40:06.165631+00:00",
+  "exit_code": 0,
+  "source_after": {
+    "commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+    "tree": "8a1dd144a90a4121601ea839d048860bd724b413",
+    "status_porcelain": ""
+  },
+  "hash_domain": "exact raw file bytes",
+  "line_ending_normalization": "normalized_sha256 replaces CRLF bytes with LF only",
+  "streams": {
+    "stdout": {
+      "path": "evidence/computation-logs/PASS4-VERIFIED-SECURITY-PUBLICATION-VALIDATED.stdout.log",
+      "raw_file_sha256": "6dc821e0c908e692f73d698bc875b8084f6628ac05bbc14473237b6983771b6e",
+      "normalized_sha256": "cff732d05530fd996b47a20a9108e5446c5e9bd2aa907a44a47d5d36d0a115c0"
+    },
+    "stderr": {
+      "path": "evidence/computation-logs/PASS4-VERIFIED-SECURITY-PUBLICATION-VALIDATED.stderr.log",
+      "raw_file_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "normalized_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}
