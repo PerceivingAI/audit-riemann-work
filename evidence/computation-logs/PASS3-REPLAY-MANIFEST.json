@@ -1,0 +1,52 @@
+{
+  "manifest_version": "1.0.0",
+  "audit_stage": "Audit Pass 3 (WS-07)",
+  "generation_timestamp": "2026-09-25T01:54:50.954374+00:00",
+  "host_metadata": {
+    "system": "Windows",
+    "release": "11",
+    "architecture": "AMD64",
+    "python_version": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "rustc_version": "rustc 1.97.1 (8bab26f4f 2026-07-14)",
+    "cargo_version": "cargo 1.97.1 (c980f4866 2026-06-30)"
+  },
+  "audited_source_commit": "51feb3d176e4a53773c22dc157567cc0486f4c71",
+  "runs": [
+    {
+      "command": "cargo test --release",
+      "cwd": "source/riemann-conjecture/crates/rh_cert",
+      "start_time": "2026-09-25T01:53:02.982660+00:00",
+      "end_time": "2026-09-25T01:54:06.265081+00:00",
+      "exit_code": 0,
+      "log_file": "PASS3-REPLAY-RUST-CERT.log",
+      "sha256": "e0d303bb517c8f280de55505dfde96ac2b82e37298800cbaebe9151220d4b85e"
+    },
+    {
+      "command": "cargo test --release",
+      "cwd": "source/riemann-conjecture/crates/rh_engine",
+      "start_time": "2026-09-25T01:54:06.779652+00:00",
+      "end_time": "2026-09-25T01:54:32.107803+00:00",
+      "exit_code": 0,
+      "log_file": "PASS3-REPLAY-RUST-ENGINE.log",
+      "sha256": "804297f319ed47fbbd1b965db66dfa9b19bba11ed59280542343c25f18976fc0"
+    },
+    {
+      "command": "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work\\source\\riemann-conjecture\\target\\release\\rh_cert.exe verify --cert [8 certificates]",
+      "cwd": ".",
+      "start_time": "2026-09-25T01:54:32.257107+00:00",
+      "end_time": "2026-09-25T01:54:47.739944+00:00",
+      "exit_code": 0,
+      "log_file": "PASS3-REPLAY-CERT-8OF8.log",
+      "sha256": "398e6cc2708eb0bed10cf58622fd1d4b7f9695ffc25efe82c7c9709cef0ef9e1"
+    },
+    {
+      "command": "python -m pytest tests/[identities+entrypoints+observability]",
+      "cwd": "source/riemann-conjecture",
+      "start_time": "2026-09-25T01:54:47.893067+00:00",
+      "end_time": "2026-09-25T01:54:50.797872+00:00",
+      "exit_code": 0,
+      "log_file": "PASS3-REPLAY-PYTEST.log",
+      "sha256": "2c3981969ad9252eb311b0dd38fe9ec34f35ba8f752c197b2afc69ef3e6e0dad"
+    }
+  ]
+}

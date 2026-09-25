@@ -1,0 +1,76 @@
+================================================================================
+PASS 3 COMPUTATIONAL REPLAY EXECUTION LOG
+================================================================================
+Command:          cargo test --release
+Working Directory:C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\crates\rh_engine
+Start Timestamp:  2026-09-25T01:54:06.779652+00:00
+End Timestamp:    2026-09-25T01:54:32.107803+00:00
+Host OS / Arch:   Windows 11 (AMD64)
+Python Version:   3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]
+Rustc Version:    rustc 1.97.1 (8bab26f4f 2026-07-14)
+Cargo Version:    cargo 1.97.1 (c980f4866 2026-06-30)
+Exit Code:        0
+================================================================================
+STDOUT:
+--------------------------------------------------------------------------------
+
+running 11 tests
+test laguerre::tests::test_batch_matches_scalar ... ok
+test laguerre::tests::test_contiguous_identity ... ok
+test phase::tests::test_small_u_formula_inversion ... ok
+test phase::tests::test_uniform_formula_inversion ... ok
+test laguerre::tests::test_laguerre_l1_small ... ok
+test phase::tests::test_uniform_phase_matches_critical_cayley_phase ... ok
+test phase::tests::test_uniform_t_and_u_relation ... ok
+test sieve::tests::test_higher_prime_powers ... ok
+test sieve::tests::test_sieve_segment_matches_simple ... ok
+test sieve::tests::test_simple_sieve ... ok
+test summation::tests::test_neumaier_precision ... ok
+
+test result: ok. 11 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+running 4 tests
+test test_laguerre_contiguous_relations ... ok
+test test_prime_count_invariants ... ok
+test test_trace_degree_one_matches_prime_sum ... ok
+test test_range_bins_partition_consistency ... ok
+
+test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+
+================================================================================
+STDERR:
+--------------------------------------------------------------------------------
+   Compiling crossbeam-utils v0.8.22
+   Compiling crossbeam-epoch v0.9.20
+   Compiling crossbeam-deque v0.8.7
+   Compiling rayon-core v1.13.0
+   Compiling windows-sys v0.61.2
+   Compiling either v1.18.0
+   Compiling anstyle-query v1.1.5
+   Compiling anstyle-wincon v3.0.11
+   Compiling anstream v1.0.0
+   Compiling clap_builder v4.6.6
+   Compiling rayon v1.12.0
+   Compiling clap v4.6.6
+   Compiling rh_engine v0.1.0 (C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\crates\rh_engine)
+    Finished `release` profile [optimized] target(s) in 24.85s
+     Running unittests src\lib.rs (C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\deps\rh_engine-b82dd05914e355c7.exe)
+     Running unittests src\main.rs (C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\deps\rh_engine-795e9c7a4bf3ca76.exe)
+     Running tests\test_invariants.rs (C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\deps\test_invariants-2bd9582cacececdf.exe)
+   Doc-tests rh_engine
+
+================================================================================
+END OF LOG
+================================================================================

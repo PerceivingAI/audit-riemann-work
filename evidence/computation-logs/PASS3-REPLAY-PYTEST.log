@@ -1,0 +1,37 @@
+================================================================================
+PASS 3 COMPUTATIONAL REPLAY EXECUTION LOG
+================================================================================
+Command:          python -m pytest tests/[identities+entrypoints+observability]
+Working Directory:C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture
+Start Timestamp:  2026-09-25T01:54:47.893067+00:00
+End Timestamp:    2026-09-25T01:54:50.797872+00:00
+Host OS / Arch:   Windows 11 (AMD64)
+Python Version:   3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]
+Rustc Version:    rustc 1.97.1 (8bab26f4f 2026-07-14)
+Cargo Version:    cargo 1.97.1 (c980f4866 2026-06-30)
+Exit Code:        0
+================================================================================
+STDOUT:
+--------------------------------------------------------------------------------
+============================= test session starts =============================
+platform win32 -- Python 3.14.0, pytest-9.0.2, pluggy-1.6.0
+rootdir: C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture
+configfile: pyproject.toml
+plugins: anyio-4.13.0
+collected 209 items
+
+tests\test_identities.py ............................................... [ 22%]
+........................................................................ [ 56%]
+.................................................                        [ 80%]
+tests\test_script_entrypoints.py .................                       [ 88%]
+tests\test_run_observability.py ........................                 [100%]
+
+============================= 209 passed in 2.05s =============================
+
+================================================================================
+STDERR:
+--------------------------------------------------------------------------------
+
+================================================================================
+END OF LOG
+================================================================================

@@ -1,0 +1,253 @@
+================================================================================
+PASS 3 COMPUTATIONAL REPLAY EXECUTION LOG
+================================================================================
+Command:          C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\rh_cert.exe verify --cert [8 certificates]
+Working Directory:C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work
+Start Timestamp:  2026-09-25T01:54:32.257107+00:00
+End Timestamp:    2026-09-25T01:54:47.739944+00:00
+Host OS / Arch:   Windows 11 (AMD64)
+Python Version:   3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]
+Rustc Version:    rustc 1.97.1 (8bab26f4f 2026-07-14)
+Cargo Version:    cargo 1.97.1 (c980f4866 2026-06-30)
+Exit Code:        0
+================================================================================
+STDOUT:
+--------------------------------------------------------------------------------
+============================================================
+[C-0050 (T=0.35, N=32)] -> VERIFIED [PASS]
+Command: "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\rh_cert.exe" verify --cert "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\computations\2026-08-21T123446Z-exact-prime-schur-certificate\data\certificate.json"
+------------------------------------------------------------
+============================================================
+RH Exact Rational Certificate Verifier (rh_cert)
+============================================================
+Certificate: "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work\\source\\riemann-conjecture\\computations\\2026-08-21T123446Z-exact-prime-schur-certificate\\data\\certificate.json"
+Claim:       C-0050
+Format:      rh-weil-certificate-v1
+Dimension:   32x32
+Support T:   7/20
+Profile:     exact_prime_legendre_schur
+Scope:       localized_weil_positivity_T_7_20
+Basis:       legendre
+Parity:      both
+Tail rule:   legendre_component_gram_schur
+Tail bound:  36248577317193051188471141673041/41621490368165930842884302438400
+Schur positive: true
+Schur factor:   124864471104497792528652907315200/36248577317193051188471141673041
+Even margin:    17785254894936271196540587522097070225539421283851593653545177761745/1541843960876386629300146791416119282611162473685916984640787512819712
+Odd margin:     304608700982886967968984979448175382184720119319084245444424500463795/6167375843505546517200587165664477130444649894743667938563150051278848
+------------------------------------------------------------
+Generator working tree dirty at generation: false
+PASS: exact-prime Schur certificate has even/odd Gershgorin margins 17785254894936271196540587522097070225539421283851593653545177761745/1541843960876386629300146791416119282611162473685916984640787512819712 and 304608700982886967968984979448175382184720119319084245444424500463795/6167375843505546517200587165664477130444649894743667938563150051278848
+============================================================
+VERIFICATION RESULT: [ PASS ]
+============================================================
+
+============================================================
+[C-0051 (T=0.40, N=40)] -> VERIFIED [PASS]
+Command: "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\rh_cert.exe" verify --cert "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\computations\2026-08-26T171400Z-one-prime-support-continuation\data\certificate-T040-N40.json"
+------------------------------------------------------------
+============================================================
+RH Exact Rational Certificate Verifier (rh_cert)
+============================================================
+Certificate: "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work\\source\\riemann-conjecture\\computations\\2026-08-26T171400Z-one-prime-support-continuation\\data\\certificate-T040-N40.json"
+Claim:       C-0051
+Format:      rh-weil-certificate-v1
+Dimension:   40x40
+Support T:   2/5
+Profile:     exact_prime_legendre_schur
+Scope:       localized_weil_positivity_T_2_5
+Basis:       legendre
+Parity:      both
+Tail rule:   legendre_component_gram_schur
+Tail bound:  52419575056352112599960246535458339/71679773957685035807963656853913600
+Schur positive: true
+Schur factor:   215039321873055107423890970561740800/52419575056352112599960246535458339
+Even margin:    312473038982531325963983367141510337436922617731941410735398920267414324166813/74815717551805439619525612614940503275972827513035566611697512806793479544897536
+Odd margin:     3926487948555160932951304126542791294375054213890608473155865322639621796692525/299262870207221758478102450459762013103891310052142266446790051227173918179590144
+------------------------------------------------------------
+Generator working tree dirty at generation: true
+PASS: exact-prime Schur certificate has even/odd Gershgorin margins 312473038982531325963983367141510337436922617731941410735398920267414324166813/74815717551805439619525612614940503275972827513035566611697512806793479544897536 and 3926487948555160932951304126542791294375054213890608473155865322639621796692525/299262870207221758478102450459762013103891310052142266446790051227173918179590144
+============================================================
+VERIFICATION RESULT: [ PASS ]
+============================================================
+
+============================================================
+[C-0052 (T=0.425, N=48)] -> VERIFIED [PASS]
+Command: "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\rh_cert.exe" verify --cert "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\computations\2026-08-26T183125Z-seventeen-fortieths-schur-certificate\data\certificate.json"
+------------------------------------------------------------
+============================================================
+RH Exact Rational Certificate Verifier (rh_cert)
+============================================================
+Certificate: "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work\\source\\riemann-conjecture\\computations\\2026-08-26T183125Z-seventeen-fortieths-schur-certificate\\data\\certificate.json"
+Claim:       C-0052
+Format:      rh-weil-certificate-v1
+Dimension:   48x48
+Support T:   17/40
+Profile:     exact_prime_legendre_schur
+Scope:       localized_weil_positivity_T_17_40
+Basis:       legendre
+Parity:      both
+Tail rule:   legendre_component_gram_schur
+Tail bound:  224071698160852932949382266409674305902789201/305837952434106425451293864644226406835814400
+Schur positive: true
+Schur factor:   917513857302319276353881593932679220507443200/224071698160852932949382266409674305902789201
+Even margin:    1988818461301587439313223949160891541997848527104701005097526786704744843974753183165402647539163/686777756531509018503528884699743838889617156796423461024950915737152807064823801185726527545802752
+Odd margin:     58872859962272769097795202262720606619311421282737124404532642135579925326694514264498724236890771/5494222052252072148028231077597950711116937254371387688199607325897222456518590409485812220366422016
+------------------------------------------------------------
+Generator working tree dirty at generation: true
+PASS: exact-prime Schur certificate has even/odd Gershgorin margins 1988818461301587439313223949160891541997848527104701005097526786704744843974753183165402647539163/686777756531509018503528884699743838889617156796423461024950915737152807064823801185726527545802752 and 58872859962272769097795202262720606619311421282737124404532642135579925326694514264498724236890771/5494222052252072148028231077597950711116937254371387688199607325897222456518590409485812220366422016
+============================================================
+VERIFICATION RESULT: [ PASS ]
+============================================================
+
+============================================================
+[C-0053 (T=0.45, N=56)] -> VERIFIED [PASS]
+Command: "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\rh_cert.exe" verify --cert "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\computations\2026-08-26T190517Z-nine-twentieths-schur-certificate\data\certificate.json"
+------------------------------------------------------------
+============================================================
+RH Exact Rational Certificate Verifier (rh_cert)
+============================================================
+Certificate: "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work\\source\\riemann-conjecture\\computations\\2026-08-26T190517Z-nine-twentieths-schur-certificate\\data\\certificate.json"
+Claim:       C-0053
+Format:      rh-weil-certificate-v1
+Dimension:   56x56
+Support T:   9/20
+Profile:     exact_prime_legendre_schur
+Scope:       localized_weil_positivity_T_9_20
+Basis:       legendre
+Parity:      both
+Tail rule:   legendre_component_gram_schur
+Tail bound:  24502774178169970043820697552010941228391075646091657/34701799695815994546454972180334989740282565833523200
+Schur positive: true
+Schur factor:   104105399087447983639364916541004969220847697500569600/24502774178169970043820697552010941228391075646091657
+Even margin:    2508208591114361579922831332678862816404493432919059532990733047747022641831077039215423229512298679048417832217511/645110825235056875891958420457045075197977401195880897544773182506012742959456785041251828614439479980754767381004288
+Odd margin:     5634260318304313955321430946208877093444749838291747508087108364076537437346680955083432167388441755187503145690161/1290221650470113751783916840914090150395954802391761795089546365012025485918913570082503657228878959961509534762008576
+------------------------------------------------------------
+Generator working tree dirty at generation: true
+PASS: exact-prime Schur certificate has even/odd Gershgorin margins 2508208591114361579922831332678862816404493432919059532990733047747022641831077039215423229512298679048417832217511/645110825235056875891958420457045075197977401195880897544773182506012742959456785041251828614439479980754767381004288 and 5634260318304313955321430946208877093444749838291747508087108364076537437346680955083432167388441755187503145690161/1290221650470113751783916840914090150395954802391761795089546365012025485918913570082503657228878959961509534762008576
+============================================================
+VERIFICATION RESULT: [ PASS ]
+============================================================
+
+============================================================
+[C-0054 (T=0.475, N=68)] -> VERIFIED [PASS]
+Command: "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\rh_cert.exe" verify --cert "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\computations\2026-08-27T122716Z-nineteen-fortieths-schur-certificate\data\certificate.json"
+------------------------------------------------------------
+============================================================
+RH Exact Rational Certificate Verifier (rh_cert)
+============================================================
+Certificate: "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work\\source\\riemann-conjecture\\computations\\2026-08-27T122716Z-nineteen-fortieths-schur-certificate\\data\\certificate.json"
+Claim:       C-0054
+Format:      rh-weil-certificate-v1
+Dimension:   68x68
+Support T:   19/40
+Profile:     exact_prime_legendre_schur
+Scope:       localized_weil_positivity_T_19_40
+Basis:       legendre
+Parity:      both
+Tail rule:   legendre_component_gram_schur
+Tail bound:  75949417291518920670190058491167918952198873/105700325574151851532435390945980102528204800
+Schur positive: true
+Schur factor:   317100976722455554597306172837940307584614400/75949417291518920670190058491167918952198873
+Even margin:    1117057850372388075128957361710227887697811374514782267229023862347982647851921/807632733819503428775270872893934384774524214553861762398712559399199498550902784
+Odd margin:     41094409971925720619346370628227586741605266848311404583907753226061501104844857/6461061870556027430202166983151475078196193716430894099189700475193595988407222272
+------------------------------------------------------------
+Generator working tree dirty at generation: true
+PASS: exact-prime Schur certificate has even/odd Gershgorin margins 1117057850372388075128957361710227887697811374514782267229023862347982647851921/807632733819503428775270872893934384774524214553861762398712559399199498550902784 and 41094409971925720619346370628227586741605266848311404583907753226061501104844857/6461061870556027430202166983151475078196193716430894099189700475193595988407222272
+============================================================
+VERIFICATION RESULT: [ PASS ]
+============================================================
+
+============================================================
+[C-0055 (T=0.50, N=80)] -> VERIFIED [PASS]
+Command: "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\rh_cert.exe" verify --cert "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\computations\2026-08-27T170850Z-one-half-schur-certificate\data\certificate.json"
+------------------------------------------------------------
+============================================================
+RH Exact Rational Certificate Verifier (rh_cert)
+============================================================
+Certificate: "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work\\source\\riemann-conjecture\\computations\\2026-08-27T170850Z-one-half-schur-certificate\\data\\certificate.json"
+Claim:       C-0055
+Format:      rh-weil-certificate-v1
+Dimension:   80x80
+Support T:   1/2
+Profile:     exact_prime_legendre_schur
+Scope:       localized_weil_positivity_T_1_2
+Basis:       legendre
+Parity:      both
+Tail rule:   legendre_component_gram_schur
+Tail bound:  98913775880202044302179725560955717866979010925759/141642779591832528020453665758223117661098318233600
+Schur positive: true
+Schur factor:   424928338775497584061360997274669352983294954700800/98913775880202044302179725560955717866979010925759
+Even margin:    10148458202921468417940718327115937233159877850538728048715509027140852144547160753981/16829306888801192483828205424151259182073025548538568829877877321415676835509923114647552
+Odd margin:     12316481645599250858718895506055492800405711170127182358118218662370675181905468305315/4207326722200298120957051356037814795518256387134642207469469330353919208877480778661888
+------------------------------------------------------------
+Generator working tree dirty at generation: true
+PASS: exact-prime Schur certificate has even/odd Gershgorin margins 10148458202921468417940718327115937233159877850538728048715509027140852144547160753981/16829306888801192483828205424151259182073025548538568829877877321415676835509923114647552 and 12316481645599250858718895506055492800405711170127182358118218662370675181905468305315/4207326722200298120957051356037814795518256387134642207469469330353919208877480778661888
+============================================================
+VERIFICATION RESULT: [ PASS ]
+============================================================
+
+============================================================
+[C-0056 (T=0.525, N=96)] -> VERIFIED [PASS]
+Command: "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\rh_cert.exe" verify --cert "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\computations\2026-08-28T010811Z-t21-40-schur-certificate\data\certificate.json"
+------------------------------------------------------------
+============================================================
+RH Exact Rational Certificate Verifier (rh_cert)
+============================================================
+Certificate: "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work\\source\\riemann-conjecture\\computations\\2026-08-28T010811Z-t21-40-schur-certificate\\data\\certificate.json"
+Claim:       C-0056
+Format:      rh-weil-certificate-v1
+Dimension:   96x96
+Support T:   21/40
+Profile:     exact_prime_legendre_schur
+Scope:       localized_weil_positivity_T_21_40
+Basis:       legendre
+Parity:      both
+Tail rule:   legendre_component_gram_schur
+Tail bound:  72096249556627615387537210319912383363143750648899195407/103585206071641821564222031666643422846090794402368716800
+Schur positive: true
+Schur factor:   310755618214925464692666094999930268538272383207106150400/72096249556627615387537210319912383363143750648899195407
+Even margin:    22112714051266550117744946869133932906738052784446852952171969342657237429078498564728098305/24533082445251905233161807754658184800135187314802780607049119710829686462433675065117839982592
+Odd margin:     91984521906271751845262757609229386681697459600428446566408517593924721593071364214312959755/24533082445251905233161807754658184800135187314802780607049119710829686462433675065117839982592
+------------------------------------------------------------
+Generator working tree dirty at generation: true
+PASS: exact-prime Schur certificate has even/odd Gershgorin margins 22112714051266550117744946869133932906738052784446852952171969342657237429078498564728098305/24533082445251905233161807754658184800135187314802780607049119710829686462433675065117839982592 and 91984521906271751845262757609229386681697459600428446566408517593924721593071364214312959755/24533082445251905233161807754658184800135187314802780607049119710829686462433675065117839982592
+============================================================
+VERIFICATION RESULT: [ PASS ]
+============================================================
+
+============================================================
+[C-0057 (T=0.54, N=104)] -> VERIFIED [PASS]
+Command: "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\target\release\rh_cert.exe" verify --cert "C:\Users\carlo\Documents\1_Add_Projects\audit-riemann-work\source\riemann-conjecture\computations\2026-09-24T183715Z-t27-50-schur-certificate\data\certificate.json"
+------------------------------------------------------------
+============================================================
+RH Exact Rational Certificate Verifier (rh_cert)
+============================================================
+Certificate: "C:\\Users\\carlo\\Documents\\1_Add_Projects\\audit-riemann-work\\source\\riemann-conjecture\\computations\\2026-09-24T183715Z-t27-50-schur-certificate\\data\\certificate.json"
+Claim:       C-0057
+Format:      rh-weil-certificate-v1
+Dimension:   104x104
+Support T:   27/50
+Profile:     exact_prime_legendre_schur
+Scope:       localized_weil_positivity_T_27_50
+Basis:       legendre
+Parity:      both
+Tail rule:   legendre_component_gram_schur
+Tail bound:  5555286879239818446537772452241770055413474442715269417182811/8362151934403129389124989932521990256254768465142452064354304
+Schur positive: true
+Schur factor:   25086455803209388167374969797565970768764305395427356193062912/5555286879239818446537772452241770055413474442715269417182811
+Even margin:    225795032211778199860554599793086932609334993295756235322614595054656966643661045652277426626799/945183084096279532531840801905299481742737949576160080016356461110647801069817649399237409828241408
+Odd margin:     92083030916052298411705194877268363638350130509372505435337748640783352529515447418897865313969/118147885512034941566480100238162435217842243697020010002044557638830975133727206174904676228530176
+------------------------------------------------------------
+Generator working tree dirty at generation: false
+PASS: exact-prime Schur certificate has even/odd Gershgorin margins 225795032211778199860554599793086932609334993295756235322614595054656966643661045652277426626799/945183084096279532531840801905299481742737949576160080016356461110647801069817649399237409828241408 and 92083030916052298411705194877268363638350130509372505435337748640783352529515447418897865313969/118147885512034941566480100238162435217842243697020010002044557638830975133727206174904676228530176
+============================================================
+VERIFICATION RESULT: [ PASS ]
+============================================================
+================================================================================
+STDERR:
+--------------------------------------------------------------------------------
+
+================================================================================
+END OF LOG
+================================================================================
